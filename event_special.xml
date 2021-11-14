@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 14:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 15:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멋진 풍경을 실내에서 감상해요]]></title>
+            <link>https://shopping.naver.com/art/event/20000126</link>
+            <guid>https://shopping.naver.com/art/event/20000126</guid>
+            <pubDate>Sun, 14 Nov 2021 15:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[힐링 되는 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211111_154/1636609506247md5En_JPEG/ED858CEBA788EAB8B0ED9A8DECA084.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[섬세한 인물 표현 방법]]></title>
             <link>https://shopping.naver.com/art/event/20000079</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 10 Nov 2021 13:49:13 GMT</pubDate>
             <content:encoded><![CDATA[알록달록 풍경 그림 모음]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211013_102/16341184869779kvgl_JPEG/ED858CEBA788EAB8B0ED9A8D1.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인물의 특징을 잘 살렸어요]]></title>
-            <link>https://shopping.naver.com/art/event/10017871</link>
-            <guid>https://shopping.naver.com/art/event/10017871</guid>
-            <pubDate>Wed, 10 Nov 2021 13:49:13 GMT</pubDate>
-            <content:encoded><![CDATA[판화 인물 작품 모음]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211012_70/1634025336253Wm4FE_JPEG/ED858CEBA788EAB8B0ED9A8DECA084.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
