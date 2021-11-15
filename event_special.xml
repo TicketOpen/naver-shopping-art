@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 14:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 15:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재미있는 판화 작품]]></title>
+            <link>https://shopping.naver.com/art/event/20000127</link>
+            <guid>https://shopping.naver.com/art/event/20000127</guid>
+            <pubDate>Mon, 15 Nov 2021 15:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211111_60/1636610995107KQi78_JPEG/ED858CEBA788EAB8B0ED9A8DECA0842.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멋진 풍경을 실내에서 감상해요]]></title>
             <link>https://shopping.naver.com/art/event/20000126</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 10 Nov 2021 13:49:13 GMT</pubDate>
             <content:encoded><![CDATA[추상화의 매력에 빠져요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211021_180/1634795881700xAD0E_JPEG/ED858CEBA788EAB8B0ED9A8DECA084.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거실을 환하게 바꿔보세요]]></title>
-            <link>https://shopping.naver.com/art/event/10017927</link>
-            <guid>https://shopping.naver.com/art/event/10017927</guid>
-            <pubDate>Wed, 10 Nov 2021 13:49:13 GMT</pubDate>
-            <content:encoded><![CDATA[알록달록 풍경 그림 모음]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211013_102/16341184869779kvgl_JPEG/ED858CEBA788EAB8B0ED9A8D1.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
