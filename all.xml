@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 15:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 16:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -331,7 +331,7 @@
             <title><![CDATA[특별함이 있는 나만의 의류! (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20000144</link>
             <guid>https://shopping.naver.com/art/event/20000144</guid>
-            <pubDate>Tue, 16 Nov 2021 15:10:07 GMT</pubDate>
+            <pubDate>Tue, 16 Nov 2021 15:09:53 GMT</pubDate>
             <content:encoded><![CDATA[아트 디자인 모음]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211112_15/1636697269052ESa3X_JPEG/ED858CEBA788EAB8B0ED9A8DECA08411.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
