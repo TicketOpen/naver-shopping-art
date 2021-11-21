@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 14:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 15:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝아트로 집 꾸미기 시작해요]]></title>
+            <link>https://shopping.naver.com/art/event/20000179</link>
+            <guid>https://shopping.naver.com/art/event/20000179</guid>
+            <pubDate>Sun, 21 Nov 2021 15:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[아트 포스터 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211115_138/1636942695635mFiwL_JPEG/ED858CEBA7882.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식탁 위의 아트 작품 감상]]></title>
             <link>https://shopping.naver.com/art/event/20000176</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 10 Nov 2021 13:49:13 GMT</pubDate>
             <content:encoded><![CDATA[빛나는 액세서리 모음]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211025_154/1635142481863FSn3B_JPEG/ED858CEBA788EAB8B0ED9A8DECA084.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트로 장식하는 인테리어]]></title>
-            <link>https://shopping.naver.com/art/event/10018553</link>
-            <guid>https://shopping.naver.com/art/event/10018553</guid>
-            <pubDate>Wed, 10 Nov 2021 13:49:13 GMT</pubDate>
-            <content:encoded><![CDATA[귀여움과 함께 실용성까지!]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211022_69/1634883698153U9JIE_JPEG/ED858CEBA788EAB8B0ED9A8D.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
