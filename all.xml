@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 15:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 16:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -331,7 +331,7 @@
             <title><![CDATA[반짝반짝 빛나는 아이템 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20000414</link>
             <guid>https://shopping.naver.com/art/event/20000414</guid>
-            <pubDate>Tue, 23 Nov 2021 15:10:29 GMT</pubDate>
+            <pubDate>Tue, 23 Nov 2021 15:10:16 GMT</pubDate>
             <content:encoded><![CDATA[유니크한 디자인 모음]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211122_55/1637541651507HIRGP_JPEG/ED858CEBA788EAB8B0ED9A8DECA0841.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
