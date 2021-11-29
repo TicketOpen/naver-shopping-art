@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 14:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 15:09:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공예디자인의 아름다움]]></title>
+            <link>https://shopping.naver.com/art/event/20000642</link>
+            <guid>https://shopping.naver.com/art/event/20000642</guid>
+            <pubDate>Mon, 29 Nov 2021 15:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211126_259/16378907731916Ywnh_JPEG/EAB7B8EB9DBCED8FB4EBA6ACEC98A4.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추상 작품을 감상하는 취미]]></title>
             <link>https://shopping.naver.com/art/event/20000441</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 10 Nov 2021 13:49:13 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 11월 월간 기획전]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211020_33/1634714628069oMcPo_JPEG/EC9B94EBB384ED9689EC82ACEC9EA51.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만을 위한 리미티드 에디션 그림]]></title>
-            <link>https://shopping.naver.com/art/event/10018405</link>
-            <guid>https://shopping.naver.com/art/event/10018405</guid>
-            <pubDate>Wed, 10 Nov 2021 13:49:13 GMT</pubDate>
-            <content:encoded><![CDATA[아트윈도 11월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211020_266/1634716460921oqQbt_JPEG/EC9B94EBB384ED9689EC82ACEC9EA53.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
