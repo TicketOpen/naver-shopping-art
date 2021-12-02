@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 13:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 14:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[나만을 위한 리미티드 에디션 그림 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20000304</link>
-            <guid>https://shopping.naver.com/art/event/20000304</guid>
-            <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211118_251/1637200049140In0AH_JPEG/EC9B94EBB384ED9689EC82ACEC9EA53.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[아트를 쉽고 편하게 갖자 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/event/20000350</link>
@@ -22,14 +14,6 @@
             <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211118_220/163721379493445lnS_JPEG/EC9B94EBB384ED9689EC82ACEC9EA56.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[전시 소식] 이영지 개인전 _BLOSSOM (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/stores/1000013762/news/2002417953</link>
-            <guid>https://shopping.naver.com/art/stores/1000013762/news/2002417953</guid>
-            <pubDate>Thu, 02 Dec 2021 03:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/1000013762/news/2002417953" class="_3awplngVTT N=a:eli.news,i:2002417953 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[전시 소식] 이영지 개인전 _BLOSSOM</strong><p class="S7nFgeJfh8">이영지 개인전 [전시명]: BLOSSOM. [전시장소]: 갤러리 아트리에 판교 본사 (경기 성남시 분당구 운중로 146번길 29) [전시기간]: 2021.12.03(금) ~ 2021.12.16(목) [개관시간]: 평일 09:00 ~ 18:00 / 주말 11:00 ~ 18:00(휴관일 없음) [입장료]: 무료 [문의전화]: 02-587-4110 [홈페이지]: www.artrie.com</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20211129_271/1638163328833x1cDk_JPEG/11.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20211129_271/1638163328833x1cDk_JPEG/11.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211129_271/1638163328833x1cDk_JPEG/11.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딱 하나뿐인 나의 작은 그림 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -40,12 +24,28 @@
             <enclosure url="https://shop-phinf.pstatic.net/20211118_243/1637199058718E3jQQ_JPEG/EC9B94EBB384ED9689EC82ACEC9EA51.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국내외 유명 작가 사진을 쇼핑하다 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20000347</link>
-            <guid>https://shopping.naver.com/art/event/20000347</guid>
+            <title><![CDATA[[전시 소식] 이영지 개인전 _BLOSSOM (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/1000013762/news/2002417953</link>
+            <guid>https://shopping.naver.com/art/stores/1000013762/news/2002417953</guid>
+            <pubDate>Thu, 02 Dec 2021 03:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/1000013762/news/2002417953" class="_3awplngVTT N=a:eli.news,i:2002417953 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[전시 소식] 이영지 개인전 _BLOSSOM</strong><p class="S7nFgeJfh8">이영지 개인전 [전시명]: BLOSSOM. [전시장소]: 갤러리 아트리에 판교 본사 (경기 성남시 분당구 운중로 146번길 29) [전시기간]: 2021.12.03(금) ~ 2021.12.16(목) [개관시간]: 평일 09:00 ~ 18:00 / 주말 11:00 ~ 18:00(휴관일 없음) [입장료]: 무료 [문의전화]: 02-587-4110 [홈페이지]: www.artrie.com</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20211129_271/1638163328833x1cDk_JPEG/11.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20211129_271/1638163328833x1cDk_JPEG/11.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211129_271/1638163328833x1cDk_JPEG/11.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나만을 위한 리미티드 에디션 그림 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20000304</link>
+            <guid>https://shopping.naver.com/art/event/20000304</guid>
             <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211118_290/1637213545576opvv1_JPEG/EC9B94EBB384ED9689EC82ACEC9EA55.jpg?type=w304" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20211118_251/1637200049140In0AH_JPEG/EC9B94EBB384ED9689EC82ACEC9EA53.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일상을 아트로 만들어볼까? (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20000302</link>
+            <guid>https://shopping.naver.com/art/event/20000302</guid>
+            <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211118_84/1637199563672MiJTB_JPEG/EC9B94EBB384ED9689EC82ACEC9EA52.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ISSUE 30. Good bye 2021, Welcome 2022 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -56,12 +56,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20211201_228/1638343978605buCu4_JPEG/1%EC%9B%94%EA%B8%B0%ED%9A%8D%EC%A0%84.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일상을 아트로 만들어볼까? (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20000302</link>
-            <guid>https://shopping.naver.com/art/event/20000302</guid>
+            <title><![CDATA[국내외 유명 작가 사진을 쇼핑하다 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20000347</link>
+            <guid>https://shopping.naver.com/art/event/20000347</guid>
             <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211118_84/1637199563672MiJTB_JPEG/EC9B94EBB384ED9689EC82ACEC9EA52.jpg?type=w304" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20211118_290/1637213545576opvv1_JPEG/EC9B94EBB384ED9689EC82ACEC9EA55.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트렌디한 그림으로 내 방 변신! (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -328,14 +328,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20211119_264/1637308633316i7Qfn_JPEG/%EB%8B%B4%EC%9A%94_%ED%94%84%EB%A6%AC%EC%98%A4%EB%8D%94.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나만을 위한 리미티드 에디션 그림 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20000304</link>
-            <guid>https://shopping.naver.com/art/event/20000304</guid>
-            <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211118_251/1637200049140In0AH_JPEG/EC9B94EBB384ED9689EC82ACEC9EA53.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아트를 쉽고 편하게 갖자 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20000350</link>
             <guid>https://shopping.naver.com/art/event/20000350</guid>
@@ -352,12 +344,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20211118_243/1637199058718E3jQQ_JPEG/EC9B94EBB384ED9689EC82ACEC9EA51.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국내외 유명 작가 사진을 쇼핑하다 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20000347</link>
-            <guid>https://shopping.naver.com/art/event/20000347</guid>
+            <title><![CDATA[나만을 위한 리미티드 에디션 그림 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20000304</link>
+            <guid>https://shopping.naver.com/art/event/20000304</guid>
             <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211118_290/1637213545576opvv1_JPEG/EC9B94EBB384ED9689EC82ACEC9EA55.jpg?type=w304" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20211118_251/1637200049140In0AH_JPEG/EC9B94EBB384ED9689EC82ACEC9EA53.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일상을 아트로 만들어볼까? (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
@@ -366,6 +358,14 @@
             <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211118_84/1637199563672MiJTB_JPEG/EC9B94EBB384ED9689EC82ACEC9EA52.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내외 유명 작가 사진을 쇼핑하다 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20000347</link>
+            <guid>https://shopping.naver.com/art/event/20000347</guid>
+            <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211118_290/1637213545576opvv1_JPEG/EC9B94EBB384ED9689EC82ACEC9EA55.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트렌디한 그림으로 내 방 변신! (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
