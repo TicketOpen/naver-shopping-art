@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 21:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 08:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://shopping.naver.com/art/event/20000350</guid>
             <pubDate>Tue, 30 Nov 2021 15:10:24 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211118_220/163721379493445lnS_JPEG/EC9B94EBB384ED9689EC82ACEC9EA56.jpg?type=w304" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20211207_165/1638838093640KIv8k_JPEG/EC8898ECA095.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딱 하나뿐인 나의 작은 그림]]></title>
@@ -101,7 +101,7 @@
             <guid>https://shopping.naver.com/art/event/20000441</guid>
             <pubDate>Sun, 28 Nov 2021 15:09:21 GMT</pubDate>
             <content:encoded><![CDATA[작가의 의도를 찾아봐요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211122_177/1637559672924wQOjB_JPEG/ED858CEBA788EAB8B0ED9A8DECA0843.jpg?type=w304" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20211207_270/1638838583830bKsn4_JPEG/EC8898ECA0952.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아름다운 풍경 감상해요]]></title>
