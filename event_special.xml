@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 14:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 15:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거실 작품 고민하지 마세요]]></title>
+            <link>https://shopping.naver.com/art/event/20001201</link>
+            <guid>https://shopping.naver.com/art/event/20001201</guid>
+            <pubDate>Mon, 13 Dec 2021 15:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211206_49/1638760052335G42sn_JPEG/EAB7B8EB9DBCED8FB4EBA6ACEC98A4.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 정물들의 모습]]></title>
             <link>https://shopping.naver.com/art/event/20001194</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 21 Nov 2021 15:09:31 GMT</pubDate>
             <content:encoded><![CDATA[아트 포스터 작품]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211115_138/1636942695635mFiwL_JPEG/ED858CEBA7882.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식탁 위의 아트 작품 감상]]></title>
-            <link>https://shopping.naver.com/art/event/20000176</link>
-            <guid>https://shopping.naver.com/art/event/20000176</guid>
-            <pubDate>Thu, 18 Nov 2021 15:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[유니크한 우리 집 식기]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211115_229/1636941612837hd09m_JPEG/ED858CEBA788EAB8B0ED9A8DECA084111.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
