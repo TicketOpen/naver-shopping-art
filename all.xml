@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 14:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 15:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[귀여운 동물들의 축제 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20001794</link>
+            <guid>https://shopping.naver.com/art/event/20001794</guid>
+            <pubDate>Thu, 16 Dec 2021 15:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[회화 작품 모음]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211213_239/1639357660351zqQhB_JPEG/ED858CEBA7881.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[볼 때마다 새로운 느낌의 작품 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/event/20001627</link>
@@ -14,14 +22,6 @@
             <pubDate>Tue, 14 Dec 2021 15:09:40 GMT</pubDate>
             <content:encoded><![CDATA[작가의 의도를 찾아서]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211210_194/1639103978791oNsD1_JPEG/ED858CEBA788EAB8B0ED9A8DECA084.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거실 작품 고민하지 마세요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20001201</link>
-            <guid>https://shopping.naver.com/art/event/20001201</guid>
-            <pubDate>Mon, 13 Dec 2021 15:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211206_49/1638760052335G42sn_JPEG/EAB7B8EB9DBCED8FB4EBA6ACEC98A4.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[채널A 드라마 쇼윈도에서 만나는 그림작품 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -32,20 +32,20 @@
             <enclosure url="https://shop-phinf.pstatic.net/20211215_216/16395600850011o9QW_JPEG/KakaoTalk_20211021_151128955_14.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[거실 작품 고민하지 마세요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20001201</link>
+            <guid>https://shopping.naver.com/art/event/20001201</guid>
+            <pubDate>Mon, 13 Dec 2021 15:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211206_49/1638760052335G42sn_JPEG/EAB7B8EB9DBCED8FB4EBA6ACEC98A4.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[새로운 정물들의 모습 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/event/20001194</link>
             <guid>https://shopping.naver.com/art/event/20001194</guid>
             <pubDate>Sun, 12 Dec 2021 15:09:07 GMT</pubDate>
             <content:encoded><![CDATA[판화 작품 모음]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211206_154/1638757590419ecPey_JPEG/ED858CEBA7882.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛나는 아이템으로 패션 완성 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20001159</link>
-            <guid>https://shopping.naver.com/art/event/20001159</guid>
-            <pubDate>Thu, 09 Dec 2021 15:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[유니크한 디자인 모음]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211206_165/1638753091096I9huH_JPEG/ED858CEBA7881.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LEE Choun Hwan Exhibition 'Windy Days: Seo Jung' (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -56,20 +56,20 @@
             <enclosure url="https://shop-phinf.pstatic.net/20211215_296/1639532878561ehnSP_JPEG/211211-NJ-Windy-Day-thumb-naver.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[빛나는 아이템으로 패션 완성 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20001159</link>
+            <guid>https://shopping.naver.com/art/event/20001159</guid>
+            <pubDate>Thu, 09 Dec 2021 15:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[유니크한 디자인 모음]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211206_165/1638753091096I9huH_JPEG/ED858CEBA7881.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[작가의 감정을 공유해요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/event/20000731</link>
             <guid>https://shopping.naver.com/art/event/20000731</guid>
             <pubDate>Tue, 07 Dec 2021 15:10:05 GMT</pubDate>
             <content:encoded><![CDATA[사람들의 다양한 모습]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211129_216/1638152835409Qy7FU_JPEG/ED858CEBA7883.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양한 판화 작품 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20001051</link>
-            <guid>https://shopping.naver.com/art/event/20001051</guid>
-            <pubDate>Mon, 06 Dec 2021 15:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211202_284/1638427949068Fjt7b_JPEG/EAB7B8EB9DBCED8FB4EBA6ACEC98A4.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소복소복 하얀 눈을 기다리며 #에바알머슨 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -80,20 +80,20 @@
             <enclosure url="https://shop-phinf.pstatic.net/20211214_115/1639489468489KBC7n_PNG/B53AL00068_%EC%97%90%EB%B0%94%EC%95%8C%EB%A8%B8%EC%8A%A82.png?type=w304" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[다양한 판화 작품 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20001051</link>
+            <guid>https://shopping.naver.com/art/event/20001051</guid>
+            <pubDate>Mon, 06 Dec 2021 15:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211202_284/1638427949068Fjt7b_JPEG/EAB7B8EB9DBCED8FB4EBA6ACEC98A4.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아트 감성이 담긴 아이템 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/event/20000730</link>
             <guid>https://shopping.naver.com/art/event/20000730</guid>
             <pubDate>Sun, 05 Dec 2021 15:08:54 GMT</pubDate>
             <content:encoded><![CDATA[선물하기 좋은 식기]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211129_219/1638151123133Ib1qc_JPEG/ED858CEBA7882.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니크한 디자인으로 꾸며요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20000705</link>
-            <guid>https://shopping.naver.com/art/event/20000705</guid>
-            <pubDate>Thu, 02 Dec 2021 15:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[생활에 필요한 용품]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211129_189/1638148266785s3REA_JPEG/ED858CEBA7881.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울아트쇼에서 만나는 9명의 주목할만한 아티스트 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -104,20 +104,20 @@
             <enclosure url="https://shop-phinf.pstatic.net/20211214_71/1639475095043VvQK6_JPEG/%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8_%EC%A0%84%EC%B2%B4.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유니크한 디자인으로 꾸며요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20000705</link>
+            <guid>https://shopping.naver.com/art/event/20000705</guid>
+            <pubDate>Thu, 02 Dec 2021 15:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[생활에 필요한 용품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211129_189/1638148266785s3REA_JPEG/ED858CEBA7881.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나만을 위한 리미티드 에디션 그림 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/event/20000304</link>
             <guid>https://shopping.naver.com/art/event/20000304</guid>
             <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211118_251/1637200049140In0AH_JPEG/EC9B94EBB384ED9689EC82ACEC9EA53.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트를 쉽고 편하게 갖자 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20000350</link>
-            <guid>https://shopping.naver.com/art/event/20000350</guid>
-            <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211207_165/1638838093640KIv8k_JPEG/EC8898ECA095.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다이어리, 새로운 한 해를 준비하는 방법 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -128,20 +128,20 @@
             <enclosure url="https://shop-phinf.pstatic.net/20211214_102/1639461926937sgOAS_JPEG/%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC-%EC%B6%9C%EC%8B%9C.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아트를 쉽고 편하게 갖자 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20000350</link>
+            <guid>https://shopping.naver.com/art/event/20000350</guid>
+            <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211207_165/1638838093640KIv8k_JPEG/EC8898ECA095.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[딱 하나뿐인 나의 작은 그림 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/event/20000301</link>
             <guid>https://shopping.naver.com/art/event/20000301</guid>
             <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211118_243/1637199058718E3jQQ_JPEG/EC9B94EBB384ED9689EC82ACEC9EA51.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내외 유명 작가 사진을 쇼핑하다 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20000347</link>
-            <guid>https://shopping.naver.com/art/event/20000347</guid>
-            <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211118_290/1637213545576opvv1_JPEG/EC9B94EBB384ED9689EC82ACEC9EA55.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[작품을 담은 포근한 극세사 담요를 만나보세요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -152,20 +152,20 @@
             <enclosure url="https://shop-phinf.pstatic.net/20211214_106/1639462402330UFIxa_JPEG/%EB%8B%B4%EC%9A%94-%EC%B6%9C%EC%8B%9C.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국내외 유명 작가 사진을 쇼핑하다 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20000347</link>
+            <guid>https://shopping.naver.com/art/event/20000347</guid>
+            <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211118_290/1637213545576opvv1_JPEG/EC9B94EBB384ED9689EC82ACEC9EA55.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일상을 아트로 만들어볼까? (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/event/20000302</link>
             <guid>https://shopping.naver.com/art/event/20000302</guid>
             <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211118_84/1637199563672MiJTB_JPEG/EC9B94EBB384ED9689EC82ACEC9EA52.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트렌디한 그림으로 내 방 변신! (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20000307</link>
-            <guid>https://shopping.naver.com/art/event/20000307</guid>
-            <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211118_174/1637200540894HnRvn_JPEG/EC9B94EBB384ED9689EC82ACEC9EA54.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[ christmas market ] (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -176,20 +176,20 @@
             <enclosure url="https://shop-phinf.pstatic.net/20211214_23/1639447145393XXWXM_GIF/%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%EB%A7%88%EC%BC%93_%EC%9B%80%EC%A7%81%EC%9E%84%ED%8F%AC%EC%8A%A4%ED%84%B0.gif?type=w304" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[트렌디한 그림으로 내 방 변신! (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20000307</link>
+            <guid>https://shopping.naver.com/art/event/20000307</guid>
+            <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211118_174/1637200540894HnRvn_JPEG/EC9B94EBB384ED9689EC82ACEC9EA54.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[새로운 느낌의 정물 작품 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/event/20000643</link>
             <guid>https://shopping.naver.com/art/event/20000643</guid>
             <pubDate>Tue, 30 Nov 2021 15:10:08 GMT</pubDate>
             <content:encoded><![CDATA[작가의 시선을 따라서]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211126_209/1637891908638jn1of_JPEG/ED858CEBA788EAB8B0ED9A8DECA084.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공예디자인의 아름다움 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20000642</link>
-            <guid>https://shopping.naver.com/art/event/20000642</guid>
-            <pubDate>Mon, 29 Nov 2021 15:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211126_259/16378907731916Ywnh_JPEG/EAB7B8EB9DBCED8FB4EBA6ACEC98A4.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소중한 내 이어폰을 위한 아트-  아트 이어폰 케이스 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -200,20 +200,20 @@
             <enclosure url="https://shop-phinf.pstatic.net/20211213_247/1639380130456BT4gC_JPEG/%EC%86%8C%EC%8B%9D.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공예디자인의 아름다움 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20000642</link>
+            <guid>https://shopping.naver.com/art/event/20000642</guid>
+            <pubDate>Mon, 29 Nov 2021 15:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211126_259/16378907731916Ywnh_JPEG/EAB7B8EB9DBCED8FB4EBA6ACEC98A4.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[추상 작품을 감상하는 취미 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/event/20000441</link>
             <guid>https://shopping.naver.com/art/event/20000441</guid>
             <pubDate>Sun, 28 Nov 2021 15:09:07 GMT</pubDate>
             <content:encoded><![CDATA[작가의 의도를 찾아봐요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211207_270/1638838583830bKsn4_JPEG/EC8898ECA0952.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아름다운 풍경 감상해요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20000419</link>
-            <guid>https://shopping.naver.com/art/event/20000419</guid>
-            <pubDate>Thu, 25 Nov 2021 15:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[판화로 그린 작품]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211122_95/1637543599978iBk8K_JPEG/ED858CEBA788EAB8B0ED9A8DECA0842.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뜨거웠던 임영숙 '밥' 판화 홈쇼핑 앙콜 방송 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -224,20 +224,20 @@
             <enclosure url="https://shop-phinf.pstatic.net/20211114_50/1636867630412Az9hw_PNG/image.png?type=w304" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[아름다운 풍경 감상해요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20000419</link>
+            <guid>https://shopping.naver.com/art/event/20000419</guid>
+            <pubDate>Thu, 25 Nov 2021 15:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[판화로 그린 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211122_95/1637543599978iBk8K_JPEG/ED858CEBA788EAB8B0ED9A8DECA0842.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[반짝반짝 빛나는 아이템 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/event/20000414</link>
             <guid>https://shopping.naver.com/art/event/20000414</guid>
             <pubDate>Tue, 23 Nov 2021 15:10:16 GMT</pubDate>
             <content:encoded><![CDATA[유니크한 디자인 모음]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211122_55/1637541651507HIRGP_JPEG/ED858CEBA788EAB8B0ED9A8DECA0841.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거실 인테리어 걱정하지 마세요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20000196</link>
-            <guid>https://shopping.naver.com/art/event/20000196</guid>
-            <pubDate>Mon, 22 Nov 2021 15:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211115_240/1636959797834zppE6_JPEG/ED858CEBA788EAB8B0ED9A8DECA084.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[12월 한달간 최대 30% 할인된 가격으로 만나는 아티쉬 상품들💜 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -326,6 +326,14 @@
             <pubDate>Fri, 10 Dec 2021 08:11:18 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 아티쉬입니다 이번달도 어김없이 찾아 온 아티쉬 할인 이벤트! 12월은 조금 더 특별하게 한 달 내내 할인 이벤트가 있어요ㅎㅎ 아티쉬와 함께 특별한 연말 선물 어떠신가요? 12월 한달간 할인된 가격으로 만나는 아티쉬의 상품들💜 12/1 - 12/15 데코&amp; 라이프 : 시계 , 램프, 패브릭포스터, 쿠션, 모빌, 데스크패드, 퍼즐, 다이어리, 러그 12/16 - 12/31 키친 : 머그, 유리컵, 트레이, 식탁매트, 다용도받침, 쉐이커, 에코백, 스카프, 담요 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) 더 많은 상품은 아티쉬 홈페이지에서 구매 가능합니다. https://www.artish.co.kr/main/index.php]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211203_158/1638518262495uhMWz_JPEG/%EC%84%B8%EC%9D%BC-%EB%8D%B0%EC%BD%94%EB%9D%BC%EC%9D%B4%ED%94%84.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀여운 동물들의 축제 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20001794</link>
+            <guid>https://shopping.naver.com/art/event/20001794</guid>
+            <pubDate>Thu, 16 Dec 2021 15:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[회화 작품 모음]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211213_239/1639357660351zqQhB_JPEG/ED858CEBA7881.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[볼 때마다 새로운 느낌의 작품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 23 Nov 2021 15:10:16 GMT</pubDate>
             <content:encoded><![CDATA[유니크한 디자인 모음]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211122_55/1637541651507HIRGP_JPEG/ED858CEBA788EAB8B0ED9A8DECA0841.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거실 인테리어 걱정하지 마세요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20000196</link>
-            <guid>https://shopping.naver.com/art/event/20000196</guid>
-            <pubDate>Mon, 22 Nov 2021 15:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211115_240/1636959797834zppE6_JPEG/ED858CEBA788EAB8B0ED9A8DECA084.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
