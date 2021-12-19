@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 14:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 15:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나만의 특별한 핸드폰 만들기]]></title>
+            <link>https://shopping.naver.com/art/event/20001806</link>
+            <guid>https://shopping.naver.com/art/event/20001806</guid>
+            <pubDate>Sun, 19 Dec 2021 15:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[남들과는 다른 디자인]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211213_1/1639359974555N5oqc_JPEG/ED858CEBA7882.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[귀여운 동물들의 축제]]></title>
             <link>https://shopping.naver.com/art/event/20001794</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 Nov 2021 15:10:11 GMT</pubDate>
             <content:encoded><![CDATA[판화로 그린 작품]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211122_95/1637543599978iBk8K_JPEG/ED858CEBA788EAB8B0ED9A8DECA0842.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반짝반짝 빛나는 아이템]]></title>
-            <link>https://shopping.naver.com/art/event/20000414</link>
-            <guid>https://shopping.naver.com/art/event/20000414</guid>
-            <pubDate>Tue, 23 Nov 2021 15:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[유니크한 디자인 모음]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211122_55/1637541651507HIRGP_JPEG/ED858CEBA788EAB8B0ED9A8DECA0841.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
