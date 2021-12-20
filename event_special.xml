@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 14:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 15:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유니크한 공예 디자인 작품]]></title>
+            <link>https://shopping.naver.com/art/event/20001840</link>
+            <guid>https://shopping.naver.com/art/event/20001840</guid>
+            <pubDate>Mon, 20 Dec 2021 15:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211213_184/1639363111172bmA3P_JPEG/ED858CEBA7883.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나만의 특별한 핸드폰 만들기]]></title>
             <link>https://shopping.naver.com/art/event/20001806</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 28 Nov 2021 15:09:21 GMT</pubDate>
             <content:encoded><![CDATA[작가의 의도를 찾아봐요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211207_270/1638838583830bKsn4_JPEG/EC8898ECA0952.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아름다운 풍경 감상해요]]></title>
-            <link>https://shopping.naver.com/art/event/20000419</link>
-            <guid>https://shopping.naver.com/art/event/20000419</guid>
-            <pubDate>Thu, 25 Nov 2021 15:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[판화로 그린 작품]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211122_95/1637543599978iBk8K_JPEG/ED858CEBA788EAB8B0ED9A8DECA0842.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
