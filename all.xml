@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 00:34:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 02:00:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -133,7 +133,7 @@
             <guid>https://shopping.naver.com/art/event/20000705</guid>
             <pubDate>Thu, 02 Dec 2021 15:08:25 GMT</pubDate>
             <content:encoded><![CDATA[생활에 필요한 용품]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211129_189/1638148266785s3REA_JPEG/ED858CEBA7881.jpg?type=w304" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20211221_50/16400485577183UrSD_JPEG/EC8898ECA095.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나만을 위한 리미티드 에디션 그림 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -413,7 +413,7 @@
             <guid>https://shopping.naver.com/art/event/20000705</guid>
             <pubDate>Thu, 02 Dec 2021 15:08:25 GMT</pubDate>
             <content:encoded><![CDATA[생활에 필요한 용품]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211129_189/1638148266785s3REA_JPEG/ED858CEBA7881.jpg?type=w304" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20211221_50/16400485577183UrSD_JPEG/EC8898ECA095.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나만을 위한 리미티드 에디션 그림 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
