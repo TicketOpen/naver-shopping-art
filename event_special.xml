@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 14:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 15:09:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작가의 시선으로 바라봐요]]></title>
+            <link>https://shopping.naver.com/art/event/20003004</link>
+            <guid>https://shopping.naver.com/art/event/20003004</guid>
+            <pubDate>Thu, 30 Dec 2021 15:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[인물의 다양한 표현 방법]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211227_137/16405670965602OrRC_JPEG/ED858CEBA7882.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멋진 풍경과 함께해요]]></title>
             <link>https://shopping.naver.com/art/event/20002991</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 29 Dec 2021 05:11:11 GMT</pubDate>
             <content:encoded><![CDATA[작가의 의도를 찾아서]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211210_194/1639103978791oNsD1_JPEG/ED858CEBA788EAB8B0ED9A8DECA084.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거실 작품 고민하지 마세요]]></title>
-            <link>https://shopping.naver.com/art/event/20001201</link>
-            <guid>https://shopping.naver.com/art/event/20001201</guid>
-            <pubDate>Wed, 29 Dec 2021 05:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211206_49/1638760052335G42sn_JPEG/EAB7B8EB9DBCED8FB4EBA6ACEC98A4.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
