@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 01:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 02:36:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 03 Jan 2022 15:09:54 GMT</pubDate>
             <content:encoded><![CDATA[아트 액세서리 모음]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211231_250/1640936289866UPXVq_JPEG/ED858CEBA788EAB8B0ED9A8DECA084.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[색다른 느낌을 선사해 줘요]]></title>
+            <link>https://shopping.naver.com/art/event/20003598</link>
+            <guid>https://shopping.naver.com/art/event/20003598</guid>
+            <pubDate>Tue, 04 Jan 2022 02:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220104_117/1641263669722UAJsX_JPEG/ED858CEBA7883.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[추상 작품의 매력으로 빠져요]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 30 Dec 2021 15:09:48 GMT</pubDate>
             <content:encoded><![CDATA[인물의 다양한 표현 방법]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211227_137/16405670965602OrRC_JPEG/ED858CEBA7882.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멋진 풍경과 함께해요]]></title>
-            <link>https://shopping.naver.com/art/event/20002991</link>
-            <guid>https://shopping.naver.com/art/event/20002991</guid>
-            <pubDate>Wed, 29 Dec 2021 05:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[판화 작품 모음]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20211227_220/1640565749221misoQ_JPEG/ED858CEBA7881.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
