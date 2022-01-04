@@ -4,17 +4,9 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 14:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 15:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[색다른 느낌을 선사해 줘요]]></title>
-            <link>https://shopping.naver.com/art/event/20003598</link>
-            <guid>https://shopping.naver.com/art/event/20003598</guid>
-            <pubDate>Tue, 04 Jan 2022 02:36:42 GMT</pubDate>
-            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220104_117/1641263669722UAJsX_JPEG/ED858CEBA7883.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[나만의 휴대폰 꾸미기!]]></title>
             <link>https://shopping.naver.com/art/event/20003421</link>
@@ -86,6 +78,14 @@
             <pubDate>Thu, 30 Dec 2021 15:09:48 GMT</pubDate>
             <content:encoded><![CDATA[인물의 다양한 표현 방법]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20211227_137/16405670965602OrRC_JPEG/ED858CEBA7882.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멋진 풍경과 함께해요]]></title>
+            <link>https://shopping.naver.com/art/event/20002991</link>
+            <guid>https://shopping.naver.com/art/event/20002991</guid>
+            <pubDate>Tue, 04 Jan 2022 15:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[판화 작품 모음]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20211227_220/1640565749221misoQ_JPEG/ED858CEBA7881.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
