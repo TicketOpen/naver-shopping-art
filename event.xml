@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Oct 2022 14:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 15:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[판화로 표현한 다양한 작품들을 만나봐요]]></title>
+            <link>https://shopping.naver.com/art/event/20021287</link>
+            <guid>https://shopping.naver.com/art/event/20021287</guid>
+            <pubDate>Tue, 11 Oct 2022 15:25:30 GMT</pubDate>
+            <content:encoded><![CDATA[정물을 담았어요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221011_213/1665453279728fghyD_JPEG/10EC9B9411EC9DBC%2BEBA6ACEC8AA4ED8C85EBB0B0EB84881.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이탈리아 도예가 Paola Paronetto를 소개합니다]]></title>
             <link>https://shopping.naver.com/art/stores/101422253/news/2003076646</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 11 Oct 2022 06:01:04 GMT</pubDate>
             <content:encoded><![CDATA[우리 전통의 아름다움]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221003_240/1664776740116THYo1_JPEG/EBACB8ED9994EC9EACED9884ED9288%2BEBA6ACEC8AA4ED8C85EBB0.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더욱 다양해진 구성으로 돌아온 2023 아티쉬 캘린더를 만나보세요 !]]></title>
-            <link>https://shopping.naver.com/art/stores/1000013726/news/2003070351</link>
-            <guid>https://shopping.naver.com/art/stores/1000013726/news/2003070351</guid>
-            <pubDate>Tue, 11 Oct 2022 06:01:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/1000013726/news/2003070351" class="_3awplngVTT N=a:eli.news,i:2003070351 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">더욱 다양해진 구성으로 돌아온 2023 아티쉬 캘린더를 만나보세요 !</strong><p class="S7nFgeJfh8">2023년 아티쉬 캘린더가 돌아왔습니다! 더욱 다양해진 작가 라인업과 더욱 새롭고 예쁜 그림들로 구성되었답니다.💕 이번 캘린더에서는 지금까지 아티쉬에서 보지 못했던 새로운 그림을 많이 볼 수 있습니다. 특히,에바 알머슨을 좋아하는 분들에게는 반가운 소식일 것 같습니다:)😊 더 많은 작가들의 캘린더를 보고 싶으시다면 아티쉬로 놀러오세요📅 2023 캘린더 고흐 2023 캘린더 그랜마모지스 2023 캘린더 굴리굴리 2023 캘린더 라울듀피 2023 캘린더 앙리마티스 2023 캘린더 예너 토룬 2023 캘린더 일리야 밀스타인 2023 캘린더 자넷힐 2023 캘린더 클로드모네 2023 캘린더 플라베어 2023 캘린더 헤이메이디 2023 캘린더 하와이안샐러드 2023 캘린더 콰야 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) https://www.artish.co.kr/main/index.php</p><div class="j3YCzh0Fxa"><img style="opacity:0" src="https://shop-phinf.pstatic.net/20221006_29/1665014979249tLMuK_JPEG/%EC%BA%98%EB%A6%B0%EB%8D%94.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20221006_29/1665014979249tLMuK_JPEG/%EC%BA%98%EB%A6%B0%EB%8D%94.jpg?type=w304" class="_1ODFOxs9pO _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221006_29/1665014979249tLMuK_JPEG/%EC%BA%98%EB%A6%B0%EB%8D%94.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
