@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Oct 2022 14:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Oct 2022 15:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑스러운 동물의 모습을 감상해요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20021299</link>
+            <guid>https://shopping.naver.com/art/event/20021299</guid>
+            <pubDate>Sun, 16 Oct 2022 15:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[포스터로 꾸며요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221011_123/1665456096436tjxY4_JPEG/10EC9B9411EC9DBC%2BEBA6ACEC8AA4ED8C85EBB0B0EB84883.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[컨티뉴] 유니크한 감성 아트 레더노트 📔 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/stores/100384663/news/2003081057</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 12 Oct 2022 06:35:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/art/stores/100165354/news/2003078287" class="_3awplngVTT N=a:eli.news,i:2003078287 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">하명은개인전</strong><p class="S7nFgeJfh8">서울 강남구 삼성로 147길 4, 청화랑 문의 02 543 1663 성신여대 서양화과, 동대학원 서양화과를 졸업한 하명은 작가는 다양한 색의 배합을 찾아 '색'이라는 대상을 재현하고자 붓질로 그려낸 부조작품을 만들어냅니다. 이번 개인전에 보여주는 작품은 선명하며 화려한 색감으로 버무려지는 색 조화에 대한 결과입니다. 강렬한 컬러로 시선을 끌면서 시원스러운 붓의 움직임이 팝콘이나 꽃처럼 하나의 형상을 만들어 냅니다. 새로움과 다양함을 추구하는 하명은 작가의 10월 개인전에 많은 관심 부탁드립니다. Re-Color Line BRUSH 98x83x4.5cm mixed media 2021 Luna BRUSH 51x52x4.5cm mixed media 2022 Art dunny_8 inch</p><div class="j3YCzh0Fxa"><img style="opacity:0" src="https://shop-phinf.pstatic.net/20221012_15/1665554568859plVLl_JPEG/Television_BRUSH_100x31x4cm_mixed_media_2022_x7_small__.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20221012_15/1665554568859plVLl_JPEG/Television_BRUSH_100x31x4cm_mixed_media_2022_x7_small__.jpg?type=w304" class="_1ODFOxs9pO _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221012_15/1665554568859plVLl_JPEG/Television_BRUSH_100x31x4cm_mixed_media_2022_x7_small__.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판화로 표현한 다양한 작품들을 만나봐요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20021287</link>
-            <guid>https://shopping.naver.com/art/event/20021287</guid>
-            <pubDate>Sun, 16 Oct 2022 05:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[정물을 담았어요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221011_213/1665453279728fghyD_JPEG/10EC9B9411EC9DBC%2BEBA6ACEC8AA4ED8C85EBB0B0EB84881.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[컨티뉴] 유니크한 감성 아트 레더노트 📔 (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220920_93/1663667731769tE7US_JPEG/%EC%9D%B4%EB%8F%99%EA%B8%B0_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사랑스러운 동물의 모습을 감상해요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20021299</link>
+            <guid>https://shopping.naver.com/art/event/20021299</guid>
+            <pubDate>Sun, 16 Oct 2022 15:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[포스터로 꾸며요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221011_123/1665456096436tjxY4_JPEG/10EC9B9411EC9DBC%2BEBA6ACEC8AA4ED8C85EBB0B0EB84883.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[창의력을 두 배로 키워주는 다양한 상품들 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20021291</link>
             <guid>https://shopping.naver.com/art/event/20021291</guid>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 16 Oct 2022 05:46:37 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 10월 월간 기획전]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220921_174/1663743872326BRjS1_JPEG/11.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일상을 아트로 만들어볼까? (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20020212</link>
-            <guid>https://shopping.naver.com/art/event/20020212</guid>
-            <pubDate>Sun, 16 Oct 2022 05:46:37 GMT</pubDate>
-            <content:encoded><![CDATA[아트윈도 10월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220921_183/16637446906360kIIP_JPEG/22.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
