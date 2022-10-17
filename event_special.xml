@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Oct 2022 14:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 15:28:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공예디자인 매력에 빠져봐요]]></title>
+            <link>https://shopping.naver.com/art/event/20021238</link>
+            <guid>https://shopping.naver.com/art/event/20021238</guid>
+            <pubDate>Mon, 17 Oct 2022 15:28:04 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221011_288/16654178472897dHkz_JPEG/10EC9B9411EC9DBCEC9E91EAB080EB93A4EC9D98EAB7B8EBA3B9EC.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑스러운 동물의 모습을 감상해요]]></title>
             <link>https://shopping.naver.com/art/event/20021299</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 16 Oct 2022 05:46:37 GMT</pubDate>
             <content:encoded><![CDATA[깊이가 다른 풍경]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220926_52/1664203019766qYFVl_PNG/5BEC9C88EB8F845DEBA6ACEC8AA4ED8C85EBB0B0EB84883.png?type=w304" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[딱 하나뿐인 나의 작은 그림]]></title>
-            <link>https://shopping.naver.com/art/event/20020211</link>
-            <guid>https://shopping.naver.com/art/event/20020211</guid>
-            <pubDate>Sun, 16 Oct 2022 05:46:37 GMT</pubDate>
-            <content:encoded><![CDATA[아트윈도 10월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220921_174/1663743872326BRjS1_JPEG/11.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
