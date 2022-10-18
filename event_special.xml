@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Oct 2022 14:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 15:27:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개성 넘치는 사무용품들]]></title>
+            <link>https://shopping.naver.com/art/event/20021667</link>
+            <guid>https://shopping.naver.com/art/event/20021667</guid>
+            <pubDate>Tue, 18 Oct 2022 15:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[입사 선물로 추천해요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221017_108/166598159269909gi2_JPEG/10.17EAB3B5EC9888EB9494EC9E90EC9DB8EBA6ACEC8AA4ED8C85.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공예디자인 매력에 빠져봐요]]></title>
             <link>https://shopping.naver.com/art/event/20021238</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 16 Oct 2022 05:46:37 GMT</pubDate>
             <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220926_293/1664203108640mbVx0_PNG/5BEC9C88EB8F845DEBA6ACEC8AA4ED8C85EBB0B0EB8488EAB7B8E.png?type=w304" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[회화 작품이 우리 집 거실을 채워줄 거예요]]></title>
-            <link>https://shopping.naver.com/art/event/20020472</link>
-            <guid>https://shopping.naver.com/art/event/20020472</guid>
-            <pubDate>Sun, 16 Oct 2022 05:46:37 GMT</pubDate>
-            <content:encoded><![CDATA[깊이가 다른 풍경]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220926_52/1664203019766qYFVl_PNG/5BEC9C88EB8F845DEBA6ACEC8AA4ED8C85EBB0B0EB84883.png?type=w304" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
