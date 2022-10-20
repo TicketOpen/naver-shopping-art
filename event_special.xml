@@ -4,9 +4,33 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Oct 2022 08:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Oct 2022 09:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KCDF] 공예작가들이 만든 찻잔과 식탁용품]]></title>
+            <link>https://shopping.naver.com/art/event/20021918</link>
+            <guid>https://shopping.naver.com/art/event/20021918</guid>
+            <pubDate>Thu, 20 Oct 2022 09:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[KCDF 공예작가 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221020_81/1666251979027yzowT_JPEG/ED858CEBA788EAB8B0ED9A8DECA084.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF] 공예작가들이 만든 악세서리와 생활소품]]></title>
+            <link>https://shopping.naver.com/art/event/20021921</link>
+            <guid>https://shopping.naver.com/art/event/20021921</guid>
+            <pubDate>Thu, 20 Oct 2022 09:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[KCDF 공예작가 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221020_254/1666252868901z9kvc_JPEG/ED858CEBA788EAB8B0ED9A8D2.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF] 공예작가들이 만든 인테리어소품과 가구]]></title>
+            <link>https://shopping.naver.com/art/event/20021922</link>
+            <guid>https://shopping.naver.com/art/event/20021922</guid>
+            <pubDate>Thu, 20 Oct 2022 09:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[KCDF 공예작가 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221020_226/1666253096650sMj3l_JPEG/ED858CEBA788EAB8B0ED9A8D3.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[개성 넘치는 사무용품들]]></title>
             <link>https://shopping.naver.com/art/event/20021667</link>
@@ -62,30 +86,6 @@
             <pubDate>Sun, 16 Oct 2022 05:46:37 GMT</pubDate>
             <content:encoded><![CDATA[세계곳곳 다양한 풍경들]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221003_142/1664779602039ODUyN_JPEG/EC82ACECA784ED928DEAB2BD-EBA6ACEC8AA4ED8C85EBB0B0EB84.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양한 문화재 상품을 만나봐요]]></title>
-            <link>https://shopping.naver.com/art/event/20020861</link>
-            <guid>https://shopping.naver.com/art/event/20020861</guid>
-            <pubDate>Sun, 16 Oct 2022 05:46:37 GMT</pubDate>
-            <content:encoded><![CDATA[우리 전통의 아름다움]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221003_240/1664776740116THYo1_JPEG/EBACB8ED9994EC9EACED9884ED9288%2BEBA6ACEC8AA4ED8C85EBB0.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보고 있으면 기분이 좋아지는 포스터]]></title>
-            <link>https://shopping.naver.com/art/event/20020860</link>
-            <guid>https://shopping.naver.com/art/event/20020860</guid>
-            <pubDate>Sun, 16 Oct 2022 05:46:37 GMT</pubDate>
-            <content:encoded><![CDATA[선물용으로 좋아요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221003_30/1664774250715B1lSS_JPEG/EC9584ED8AB8EC9C88EB8F84-ED8FACEC8AA4ED84B0EC9DB8EBAC.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 집을 특별하게 바꿔주는 판화 작품]]></title>
-            <link>https://shopping.naver.com/art/event/20020473</link>
-            <guid>https://shopping.naver.com/art/event/20020473</guid>
-            <pubDate>Sun, 16 Oct 2022 05:46:37 GMT</pubDate>
-            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220926_293/1664203108640mbVx0_PNG/5BEC9C88EB8F845DEBA6ACEC8AA4ED8C85EBB0B0EB8488EAB7B8E.png?type=w304" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
