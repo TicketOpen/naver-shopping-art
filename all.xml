@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Oct 2022 15:27:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Oct 2022 16:37:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[우리 집 거실을 갤러리로 만들어요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20021675</link>
             <guid>https://shopping.naver.com/art/event/20021675</guid>
-            <pubDate>Thu, 20 Oct 2022 15:27:23 GMT</pubDate>
+            <pubDate>Thu, 20 Oct 2022 15:27:10 GMT</pubDate>
             <content:encoded><![CDATA[작가의 시선으로 감상해요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221017_282/1665982894100wCoy1_JPEG/10.17EC82ACECA784EBA6ACEC8AA4ED8C852.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
