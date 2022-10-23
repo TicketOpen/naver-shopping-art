@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Oct 2022 14:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Oct 2022 15:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[볼수록 빠져드는 매력적인 팝아트 작품]]></title>
+            <link>https://shopping.naver.com/art/event/20021680</link>
+            <guid>https://shopping.naver.com/art/event/20021680</guid>
+            <pubDate>Sun, 23 Oct 2022 15:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[눈이 즐거운 그림]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221017_37/16659861979382Hcdd_JPEG/10.17ED9A8CED9994EB9E98EC8AA4ED8C85.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오프라인 전시. '행복주파수']]></title>
             <link>https://shopping.naver.com/art/stores/100138255/news/2003090973</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 20 Oct 2022 09:27:55 GMT</pubDate>
             <content:encoded><![CDATA[KCDF 공예작가 기획전]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221020_254/1666252868901z9kvc_JPEG/ED858CEBA788EAB8B0ED9A8D2.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KCDF] 공예작가들이 만든 인테리어소품과 가구]]></title>
-            <link>https://shopping.naver.com/art/event/20021922</link>
-            <guid>https://shopping.naver.com/art/event/20021922</guid>
-            <pubDate>Thu, 20 Oct 2022 09:27:55 GMT</pubDate>
-            <content:encoded><![CDATA[KCDF 공예작가 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221020_226/1666253096650sMj3l_JPEG/ED858CEBA788EAB8B0ED9A8D3.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
