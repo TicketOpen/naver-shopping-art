@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 14:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 15:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[섬세하게 표현된 정물 작품을 감상해요]]></title>
+            <link>https://shopping.naver.com/art/event/20021690</link>
+            <guid>https://shopping.naver.com/art/event/20021690</guid>
+            <pubDate>Mon, 24 Oct 2022 15:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221017_157/1665993131922Ub04D_JPEG/10.17EC9E91EAB080ECA084EBA6ACEC8AA4ED8C85EBB0B0EB8488.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[행복해질 우리, 변진미 Solo Exhibition]]></title>
             <link>https://shopping.naver.com/art/stores/100254411/news/2003093865</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 20 Oct 2022 15:27:10 GMT</pubDate>
             <content:encoded><![CDATA[작가의 시선으로 감상해요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221017_282/1665982894100wCoy1_JPEG/10.17EC82ACECA784EBA6ACEC8AA4ED8C852.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 [공예정원] 할로윈 추천 상품 기획전(-10%)]]></title>
-            <link>https://shopping.naver.com/art/stores/100032742/news/2003089775</link>
-            <guid>https://shopping.naver.com/art/stores/100032742/news/2003089775</guid>
-            <pubDate>Thu, 20 Oct 2022 12:44:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/100032742/news/2003089775" class="_3awplngVTT N=a:eli.news,i:2003089775 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">2022년 [공예정원] 할로윈 추천 상품 기획전(-10%)</strong><p class="S7nFgeJfh8">[공예정원 추천상품 기획전] [공예정원] 할로윈 추천 상품 기획전(-10%) 이벤트 기간 : 10/20 ~ 10/31일까지 공예정원 기획전 10% Sale 할로윈을 완성시켜 줄 특별한 아이템을 찾는 당신에게 상품페이지 상단에서 10% 할인 쿠폰을 다운로드 받을 수 있습니다. ----------------------------------------------------------------------------- &lt;10% 할인 쿠폰받기&gt; 상품의 상세페이지 상단에서 확인 가능하며, 스토어의 '스토어찜' 설정을 해주셔야 다운로드가 가능합니다. ( ※쿠폰 해당 추천 상품은 하단의 '연관상품'에서 확인하실 수 있습니다.) 기획전 추천상품 (10%할인) 10%할인 구매가 가능한 추천상품의 상세 정보는, 아래의 상품별 페이지에서 확인하실 수 있습니다. 감사합니다.</p><div class="j3YCzh0Fxa"><img style="opacity:0" src="https://shop-phinf.pstatic.net/20221020_132/1666263852797tavhp_PNG/10%EC%9B%94-2%EC%B0%A8%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84%EB%B0%B0%EB%84%88.png?type=w304" data-src="https://shop-phinf.pstatic.net/20221020_132/1666263852797tavhp_PNG/10%EC%9B%94-2%EC%B0%A8%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84%EB%B0%B0%EB%84%88.png?type=w304" class="_1ODFOxs9pO _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221020_132/1666263852797tavhp_PNG/10%EC%9B%94-2%EC%B0%A8%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84%EB%B0%B0%EB%84%88.png?type=w304" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
