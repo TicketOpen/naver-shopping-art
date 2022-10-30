@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Oct 2022 14:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Oct 2022 15:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유니크한 그래픽 포스터]]></title>
+            <link>https://shopping.naver.com/art/event/20022116</link>
+            <guid>https://shopping.naver.com/art/event/20022116</guid>
+            <pubDate>Sun, 30 Oct 2022 15:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[트랜디한 그림으로 내 방 변신!]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_63/1666594885116t2S1B_JPEG/10.24-ED8FACEC8AA4ED84B0EAB7B8EB9E98ED94BDEBA6ACEC8AA4E.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재미있는 사람들의 모습]]></title>
             <link>https://shopping.naver.com/art/event/20022114</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 20 Oct 2022 21:21:30 GMT</pubDate>
             <content:encoded><![CDATA[입사 선물로 추천해요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221017_108/166598159269909gi2_JPEG/10.17EAB3B5EC9888EB9494EC9E90EC9DB8EBA6ACEC8AA4ED8C85.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공예디자인 매력에 빠져봐요]]></title>
-            <link>https://shopping.naver.com/art/event/20021238</link>
-            <guid>https://shopping.naver.com/art/event/20021238</guid>
-            <pubDate>Thu, 20 Oct 2022 21:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221011_288/16654178472897dHkz_JPEG/10EC9B9411EC9DBCEC9E91EAB080EB93A4EC9D98EAB7B8EBA3B9EC.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
