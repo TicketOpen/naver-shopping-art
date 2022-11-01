@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Nov 2022 14:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Nov 2022 15:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[특별한 날 당신을 위한 주얼리]]></title>
+            <link>https://shopping.naver.com/art/event/20022472</link>
+            <guid>https://shopping.naver.com/art/event/20022472</guid>
+            <pubDate>Tue, 01 Nov 2022 15:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[선물용으로 좋아요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221031_119/1667192077081tL7Me_JPEG/10.31-EBA6ACEC8AA4ED8C851.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[딱 하나뿐인 나의 작은 그림]]></title>
             <link>https://shopping.naver.com/art/event/20021812</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Oct 2022 15:21:25 GMT</pubDate>
             <content:encoded><![CDATA[분위기를 바꿔줘요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221024_150/1666594239647XtmbX_JPEG/10.24-ED8C90ED9994EBA6ACEC8AA4ED8C85EBB0B0EB8488.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만의 특별한 옷]]></title>
-            <link>https://shopping.naver.com/art/event/20022113</link>
-            <guid>https://shopping.naver.com/art/event/20022113</guid>
-            <pubDate>Tue, 25 Oct 2022 15:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[아트상품으로 스타일 완성]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221024_17/1666592703304IexFM_JPEG/10.19-EC9584ED8AB8EC8381ED9288EBA6ACEC8AA4ED8C85EBB0B0E.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
