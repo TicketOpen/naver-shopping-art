@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 15:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 16:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,7 +92,7 @@
             <link>https://shopping.naver.com/art/stores/100165354/news/5000014287</link>
             <guid>https://shopping.naver.com/art/stores/100165354/news/5000014287</guid>
             <pubDate>Sun, 06 Nov 2022 06:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/100165354/news/5000014287" class="_3awplngVTT N=a:eli.news,i:5000014287 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">꿈꾸는 책들 展</strong><div class="j3YCzh0Fxa"><img style="opacity:0" src="https://shop-phinf.pstatic.net/20221106_184/1667718937374o5x6s_JPEG/55.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20221106_184/1667718937374o5x6s_JPEG/55.jpg?type=w304" class="_1ODFOxs9pO _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="/art/stores/100165354/news/5000014287" class="_3awplngVTT N=a:eli.news,i:5000014287 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">꿈꾸는 책들 展</strong><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20221106_184/1667718937374o5x6s_JPEG/55.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20221106_184/1667718937374o5x6s_JPEG/55.jpg?type=w304" class="_1ODFOxs9pO _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221106_184/1667718937374o5x6s_JPEG/55.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[세상을 색다르게 담은 추상화 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20022509</link>
             <guid>https://shopping.naver.com/art/event/20022509</guid>
-            <pubDate>Mon, 07 Nov 2022 15:20:11 GMT</pubDate>
+            <pubDate>Mon, 07 Nov 2022 15:20:00 GMT</pubDate>
             <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221031_141/1667197776010cbfej_JPEG/10.31-EBA6ACEC8AA4ED8C854.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
