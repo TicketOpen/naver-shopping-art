@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 08:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 09:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[갤러리조이] Diaf 2022 대구국제아트페어 - 2022.11.24.~11.27]]></title>
+            <link>https://shopping.naver.com/art/stores/100227750/news/5000031644</link>
+            <guid>https://shopping.naver.com/art/stores/100227750/news/5000031644</guid>
+            <pubDate>Thu, 17 Nov 2022 09:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100227750/news/5000031644" class="_3awplngVTT N=a:eli.news,i:5000031644 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[갤러리조이] Diaf 2022 대구국제아트페어 - 2022.11.24.~11.27</strong><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20221117_189/1668674347233ub5fk_JPEG/%EC%B9%B4%EC%B9%B4%EC%98%A4_%ED%8F%AC%EC%8A%A4%ED%84%B0_800X600.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20221117_189/1668674347233ub5fk_JPEG/%EC%B9%B4%EC%B9%B4%EC%98%A4_%ED%8F%AC%EC%8A%A4%ED%84%B0_800X600.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221117_189/1668674347233ub5fk_JPEG/%EC%B9%B4%EC%B9%B4%EC%98%A4_%ED%8F%AC%EC%8A%A4%ED%84%B0_800X600.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이건희 컬렉션 X 김환기 산울림 에디션판화]]></title>
             <link>https://shopping.naver.com/art/stores/100138255/news/2002975224</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 15 Nov 2022 07:16:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/art/stores/100384663/news/5000027191" class="_3awplngVTT N=a:eli.news,i:5000027191 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[Artist] 따뜻한 그림을 그리는 작가, 한연서</strong><p class="S7nFgeJfh8">[Artist] 따뜻한 그림을 그리는 작가, 한연서 - 따뜻한 그림체의 한연서 작가 작품들을 소개합니다. 그림 하나만으로 포근 따뜻함과 정서적 안정감을 느낄 수 있답니다.🥰 호두까기 인형, 캔버스액자 빵빵그림, 무릎담요 어느 날 밤에, 캔버스액자 이상한 나라의 앨리스, 캔버스액자 나의 우주, 천 포스터 - [ 한연서 그림책 출시 ] 그림 작가 한연서의 첫 그림책 &lt;나의 별&gt;이 나왔습니다~! 주근깨 가득한 아이 보미가 자신의 외모를 사랑해 가는 과정을 담은 이야기입니다.</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20221115_177/1668491563242fxufF_JPEG/%EC%87%BC%ED%95%91%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B0%B0%EB%84%88_800x484.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20221115_177/1668491563242fxufF_JPEG/%EC%87%BC%ED%95%91%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B0%B0%EB%84%88_800x484.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221115_177/1668491563242fxufF_JPEG/%EC%87%BC%ED%95%91%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B0%B0%EB%84%88_800x484.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양한 인물 작품을 회화로 만나봐요]]></title>
-            <link>https://shopping.naver.com/art/event/20022805</link>
-            <guid>https://shopping.naver.com/art/event/20022805</guid>
-            <pubDate>Mon, 14 Nov 2022 15:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221107_147/1667805834726Xl8aq_JPEG/11.7-4.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
