@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 14:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 15:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 집 거실에서 펼쳐지는 아름다운 풍경]]></title>
+            <link>https://shopping.naver.com/art/event/20023121</link>
+            <guid>https://shopping.naver.com/art/event/20023121</guid>
+            <pubDate>Sun, 20 Nov 2022 15:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[사진 작품으로 채워요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221114_101/1668415441356sRnQg_JPEG/11.14-EBA6ACEC8AA4ED8C853.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에바알머슨과 함께하는 티타임을 즐겨보세요]]></title>
             <link>https://shopping.naver.com/art/stores/1000013726/news/5000033119</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Nov 2022 05:19:06 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/art/stores/100429941/news/5000028816" class="_3awplngVTT N=a:eli.news,i:5000028816 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[서울 홈테이블데코페어] 참가안내 및 선착순 초대권 증정 이벤트</strong><p class="S7nFgeJfh8">[ 서울 홈테이블데코페어 무료 초대권 증정 이벤트] 서울 홈테이블데코페어 초대권 증정 이벤트를 진행합니다. 전시 관람을 원하시는 분들은 네이버 톡톡으로 참석자 2인의 성함과 연락처를 남겨주세요. 함꼐 오실 분 성함과 연락처도 함꼐 작성해주세요 ( 모바일 초대권으로 복사 전달이 불가능하여, 개별 전달 해야하는 관계로 참석자 모두의 성함과 연락처가 필요합니다.) 작성해주신 연락처로 개별 초대권이 문자로 전달됩니다. * 수령 방법 : 네이버 톡톡으로 안내해드립니다. [ 서울 홈 테이블 데코 페어 참가 안내 ] ▶기간 : 2022년 12월 1일[Thu] - 4일[Sun] 4일간 ▶장소 : 코엑스 A홀 AD147 심도마도 부스 ▶관람 시간 : 10:00 - 19:00 (목,금,토 / 입장마감 18:00) 10:00 - 18:00 (일 / 입장마감 17:00) 삶의 공간에 아름다움과 가치를 전해 드리는 프리미엄 홈 스타일링 전시 홈테이블데코페어에 심도마도가 참가합니다. 서울 홈테이블데코페어에서 심도마도의 도와줘맷과 레인보우와펜백, 볼스트랩 외 다양한 제품을 관람 및 구매하실 수 있으며 이벤트가 진행될 예정입니다. 코엑스 A홀 AD147 심도마도 많은 응원과 관심 부탁드립니다.</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20221116_24/16685752230742IFxW_JPEG/Untitled-1.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20221116_24/16685752230742IFxW_JPEG/Untitled-1.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221116_24/16685752230742IFxW_JPEG/Untitled-1.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일상을 아트로 만들어볼까?]]></title>
-            <link>https://shopping.naver.com/art/event/20023111</link>
-            <guid>https://shopping.naver.com/art/event/20023111</guid>
-            <pubDate>Tue, 15 Nov 2022 15:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[공예디자인의 멋]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221114_1/1668412222535MC5yJ_JPEG/5BEC9C88EB8F845DEBA6ACEC8AA4ED8C85EBB0B0EB8488.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
