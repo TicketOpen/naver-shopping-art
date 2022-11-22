@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 14:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 15:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가볍게 꾸미기 좋은 포스터 작품 모음]]></title>
+            <link>https://shopping.naver.com/art/event/20023323</link>
+            <guid>https://shopping.naver.com/art/event/20023323</guid>
+            <pubDate>Tue, 22 Nov 2022 15:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[정물을 담은 그림]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221121_147/1668994844063QtUI0_JPEG/11.22-ED8FACEC8AA4ED84B0.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유영국 작가의 에디션 판화로 우리집을 갤러리로]]></title>
             <link>https://shopping.naver.com/art/stores/100138255/news/2002757220</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 18 Nov 2022 07:17:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/art/stores/1000013726/news/5000033107" class="_3awplngVTT N=a:eli.news,i:5000033107 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">어지러운 마음을 편안하게 해주는 색감의 그림, 클로드 모네</strong><p class="S7nFgeJfh8">🌞오늘 하루 어떻게 보내셨나요? 혹시 지친 하루를 보내지는 않으셨나요?😔 그렇다면 오늘 받은 스트레스 다 날려버리시라고 마음을 편안하게 해주는 모네의 그림을 가져와봤어요. 차분한 색감의 그림이 어지러운 마음을 달래줄 거에요.😉 - 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) https://www.artish.co.kr/main/index.php</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20221118_8/1668753654321Dci4n_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20221118_8/1668753654321Dci4n_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221118_8/1668753654321Dci4n_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신비로운 팝아트의 세계로 빠져봐요]]></title>
-            <link>https://shopping.naver.com/art/event/20023116</link>
-            <guid>https://shopping.naver.com/art/event/20023116</guid>
-            <pubDate>Thu, 17 Nov 2022 15:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[판화 작품 모음]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221114_277/16684134167994CeXy_JPEG/11.14-EBA6ACEC8AA4ED8C852.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
