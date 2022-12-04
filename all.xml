@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 14:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 15:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공예디자인으로 개성있게 꾸며봐요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20023498</link>
+            <guid>https://shopping.naver.com/art/event/20023498</guid>
+            <pubDate>Sun, 04 Dec 2022 15:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[인테리어 효과 만점]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221127_147/1669551246543k1Gd0_JPEG/11.27-EAB3B5EC9888EB9494EC9E90EC9DB8.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11가지 즐거움 展 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/stores/100165354/news/5000054767</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 30 Nov 2022 15:18:15 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221116_120/1668582941228y7U7g_JPEG/ECA09CEBAAA9-EC9786EC9D8C-1.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만을 위한 리미티드 에디션 그림 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20023216</link>
-            <guid>https://shopping.naver.com/art/event/20023216</guid>
-            <pubDate>Wed, 30 Nov 2022 15:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221116_87/166858320825681psC_JPEG/ECA09CEBAAA9-EC9786EC9D8C-1.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[11가지 즐거움 展 (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221124_26/1669272783989oERtB_JPEG/KakaoTalk_20221123_154114498.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공예디자인으로 개성있게 꾸며봐요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20023498</link>
+            <guid>https://shopping.naver.com/art/event/20023498</guid>
+            <pubDate>Sun, 04 Dec 2022 15:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[인테리어 효과 만점]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221127_147/1669551246543k1Gd0_JPEG/11.27-EAB3B5EC9888EB9494EC9E90EC9DB8.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[판화로 감상하는 다양한 작품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20023497</link>
             <guid>https://shopping.naver.com/art/event/20023497</guid>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 28 Nov 2022 15:16:08 GMT</pubDate>
             <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221121_68/1668995303047nObeX_JPEG/11.22-EAB3B5EC9888EB9494EC9E90EC9DB8.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑스러운 동물을 보며 힐링해요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20023325</link>
-            <guid>https://shopping.naver.com/art/event/20023325</guid>
-            <pubDate>Sun, 27 Nov 2022 15:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[아이방 꾸미기 좋아요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221121_160/1668995159292zAmYs_JPEG/11.22-ED9A8CED9994.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
