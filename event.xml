@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 14:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 15:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[풍경이 주는 감동을 느껴요]]></title>
+            <link>https://shopping.naver.com/art/event/20023495</link>
+            <guid>https://shopping.naver.com/art/event/20023495</guid>
+            <pubDate>Mon, 05 Dec 2022 15:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221127_157/1669549165105IY4sy_JPEG/11.27-EC9E91EAB080ECA084.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[달력증정] 프롬메이 박지영 2023 캘린더를 드려요!]]></title>
             <link>https://shopping.naver.com/art/stores/100138255/news/5000041520</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 01 Dec 2022 03:09:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/art/stores/101347270/news/5000047071" class="_3awplngVTT N=a:eli.news,i:5000047071 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">018 project. 사유의 숲  open</strong><p class="S7nFgeJfh8">PROJECT NO. 018 &lt; 사유의 숲 &gt; OPEN Online / Offline 동시 오픈 *오프라인은 네이버예약 후 방문해 주시길 바랍니다. (프로젝트 이외의 다양한 작품들을 관람하시고 설명도 들으실 수 있습니다) 매 프로젝트마다 타이블은 작가들의 작품을 보다 많은 사람들이 나눌 수 있는 예술을 공유 하려 합니다. 공간이 협소하여 예약제로 운영하고 있으니, 방문 예정이신 분들은 DM 또는 네이버예약을 통하여 예약하신 후 방문 해주세요. 많은 관심 부탁드립니다. -</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20221129_91/1669691507218yp2YT_JPEG/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C-8.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20221129_91/1669691507218yp2YT_JPEG/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C-8.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221129_91/1669691507218yp2YT_JPEG/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C-8.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딱 하나뿐인 나의 작은 그림]]></title>
-            <link>https://shopping.naver.com/art/event/20023213</link>
-            <guid>https://shopping.naver.com/art/event/20023213</guid>
-            <pubDate>Wed, 30 Nov 2022 15:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[아트윈도 12월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221116_74/1668582334893Akmx2_JPEG/ECA09CEBAAA9-EC9786EC9D8C-1.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

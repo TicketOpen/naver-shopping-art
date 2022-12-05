@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 14:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 15:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[풍경이 주는 감동을 느껴요]]></title>
+            <link>https://shopping.naver.com/art/event/20023495</link>
+            <guid>https://shopping.naver.com/art/event/20023495</guid>
+            <pubDate>Mon, 05 Dec 2022 15:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221127_157/1669549165105IY4sy_JPEG/11.27-EC9E91EAB080ECA084.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공예디자인으로 개성있게 꾸며봐요]]></title>
             <link>https://shopping.naver.com/art/event/20023498</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 29 Nov 2022 15:18:23 GMT</pubDate>
             <content:encoded><![CDATA[사진으로 감상해요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221127_23/1669550800048cFiDL_JPEG/11.27-EC82ACECA784.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양한 공예디자인 제품들을 만나봐요]]></title>
-            <link>https://shopping.naver.com/art/event/20023326</link>
-            <guid>https://shopping.naver.com/art/event/20023326</guid>
-            <pubDate>Mon, 28 Nov 2022 15:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221121_68/1668995303047nObeX_JPEG/11.22-EAB3B5EC9888EB9494EC9E90EC9DB8.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
