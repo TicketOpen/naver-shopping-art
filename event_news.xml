@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 04:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 05:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[즐거운 성탄절, 행복한 연말 보내세요]]></title>
+            <link>https://shopping.naver.com/art/stores/100165354/news/5000080177</link>
+            <guid>https://shopping.naver.com/art/stores/100165354/news/5000080177</guid>
+            <pubDate>Wed, 21 Dec 2022 05:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[청화랑을 기억하고 찾아주시는 모든 분들께 감사드립니다. 모두 즐거운 성탄절 보내시길 바랍니다. 내년에는 더 자주 뵐 수 있기를 소망합니다. Merry Christmas!]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221221_4/1671599294164LjAIW_JPEG/KakaoTalk_20221220_150542009.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김환기 화가의 노란 전면점화 에디션]]></title>
             <link>https://shopping.naver.com/art/stores/100138255/news/2003070141</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 16 Dec 2022 02:34:00 GMT</pubDate>
             <content:encoded><![CDATA[🎄 12월에 가장 설레는 날은 역시 크리스마스이지 않을까요? 크리스마스를 앞두고 거리도 반짝이는 장식으로 가득합니다. ✨️✨️ 우리 집도 크리스마스 분위기로 한번 꾸며볼까요? 가장 간편한 방법 중 하나는 가볍게 툭 걸 수 있는 모빌을 활용하는 거에요.🎅 플렌스테드 크리스마스 시리즈 모빌로 올해 크리스마스를 즐겁게 보내보세요. 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) https://www.artish.co.kr/main/index.php]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221216_299/1671157494796pDDwa_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀여운 플레이모빌 피규어와 키링을 아티쉬에서만나보세요🎈]]></title>
-            <link>https://shopping.naver.com/art/stores/1000013726/news/5000073033</link>
-            <guid>https://shopping.naver.com/art/stores/1000013726/news/5000073033</guid>
-            <pubDate>Fri, 16 Dec 2022 02:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[🌍세계적인 미니 피규어 브랜드 플레이모빌이 아티쉬에 입고되었습니다!👏 플레이모빌은 어린이를 위한 역할놀이 장난감이지만, 키덜트 시장에서 어른들에게도 많은 사랑을 받고 있습니다.💕 수많은 종류의 플레이모빌 중에서 나를 닮은 피규어가 하나쯤은 있지 않을까요? 그런 기대를 하면서 플레이모빌 피규어와 키링을 수집하는 재미를 느껴보세요.🪄 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) https://www.artish.co.kr/main/index.php]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221216_212/1671157018594948Rj_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
