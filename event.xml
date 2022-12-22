@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 07:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 08:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아름다운 제주를 담은 노트와 오브제를 아티쉬에서 만나보세요!]]></title>
+            <link>https://shopping.naver.com/art/stores/1000013726/news/5000083028</link>
+            <guid>https://shopping.naver.com/art/stores/1000013726/news/5000083028</guid>
+            <pubDate>Thu, 22 Dec 2022 08:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/1000013726/news/5000083028" class="_3awplngVTT N=a:eli.news,i:5000083028 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">아름다운 제주를 담은 노트와 오브제를 아티쉬에서 만나보세요!</strong><p class="S7nFgeJfh8">여러분에게 제주도는 어떤 곳인가요?🍊 누군가에게는 그저 사는 곳일 뿐일 수도 있고, 누군가에게는 늘 가고 싶은 특별한 여행지일 수 있지만, 제주도 특유의 아름다운 풍경에 대해서는 그 누구도 이견을 가지지 않을 것이라고 생각합니다. 한평생 아름다운 제주를 그린 이왈종 화백, 그의 작품이 담긴 노트와 오브제를 아티쉬에서 만나보세요! 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) https://www.artish.co.kr/main/index.php</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20221222_105/1671695327313XpBNx_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20221222_105/1671695327313XpBNx_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221222_105/1671695327313XpBNx_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[달콤하고 행복한 순간을 담은 헤진 작가 신작 에디션 출시, 엘디프]]></title>
             <link>https://shopping.naver.com/art/stores/100340190/news/5000081760</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 19 Dec 2022 15:18:34 GMT</pubDate>
             <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221212_292/1670836606461hjrmh_JPEG/12.12-EC9E91EAB080EB93A4EC9D98EAB7B8EBA3B9ECA084.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보기만 해도 힐링 되는 풍경 사진]]></title>
-            <link>https://shopping.naver.com/art/event/20023989</link>
-            <guid>https://shopping.naver.com/art/event/20023989</guid>
-            <pubDate>Sun, 18 Dec 2022 15:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[환상적인 풍경에 기분 UP!]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221212_41/1670836457686clh4J_JPEG/12.12-EC82ACECA784ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
