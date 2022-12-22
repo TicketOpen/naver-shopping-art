@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 14:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 15:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[창의력 쑥쑥 키워주는 상품들]]></title>
+            <link>https://shopping.naver.com/art/event/20024264</link>
+            <guid>https://shopping.naver.com/art/event/20024264</guid>
+            <pubDate>Thu, 22 Dec 2022 15:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[아트상품의 재발견!]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221220_39/1671508106544VeeG3_JPEG/12.20-EC96B4EBA6B0EC9DB4EC9AA9ED9288.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포스터로 만나보는 유명한 명화 작품]]></title>
             <link>https://shopping.naver.com/art/event/20024263</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 06 Dec 2022 15:17:07 GMT</pubDate>
             <content:encoded><![CDATA[집에서 가볍게 감상해요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221205_47/1670209326772cFKyf_JPEG/12.4-ED8FACEC8AA4ED84B0.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풍경이 주는 감동을 느껴요]]></title>
-            <link>https://shopping.naver.com/art/event/20023495</link>
-            <guid>https://shopping.naver.com/art/event/20023495</guid>
-            <pubDate>Mon, 05 Dec 2022 15:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221127_157/1669549165105IY4sy_JPEG/11.27-EC9E91EAB080ECA084.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
