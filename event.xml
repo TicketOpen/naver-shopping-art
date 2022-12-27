@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 14:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 15:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[특별한 식기로 꾸미는 주방!]]></title>
+            <link>https://shopping.naver.com/art/event/20024437</link>
+            <guid>https://shopping.naver.com/art/event/20024437</guid>
+            <pubDate>Tue, 27 Dec 2022 15:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[더 맛있게 보여요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221227_56/1672143194415fHzdp_JPEG/EC8B9DEAB8B0.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[갤러리작] 새해 특별전 : ALL NEW CREATION]]></title>
             <link>https://shopping.naver.com/art/stores/100143599/news/5000090421</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 23 Dec 2022 04:18:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/art/stores/100384663/news/5000079732" class="_3awplngVTT N=a:eli.news,i:5000079732 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[컨티뉴] 좋은 일들을 소망하며 🐇계묘년 토끼 그림전 I</strong><p class="S7nFgeJfh8">좋은 일들을 소망하며 🐇계묘년 토끼 그림전 I 토끼는 우리에게 친근하고 사랑스러운 동물 중 하나이죠. 조그마하고 귀여운 생김새며 재빠른 움직임에서 민첩하고 영특한 동물입니다. 번성, 풍요의 의미를 지니고 있어 열두띠중에 가장 생기가 있는 띠라고 하네요. 2023년 계묘년, 검은토끼의 해는 풍요를 상징하는 토끼와 더불어 인간의 지혜를 상징하는 검은색이 만나는 해랍니다. 늘 좋은 일들만 있기를 소망하며 2023년 토끼같이 성장하고 번창하는 한 해가 되었으면 합니다.🍀 그런 의미에서 주위사람, 사랑하는 사람들에게 그림을 통해 마음을 전해보는건 어떨까요? 행운토끼 네잎 클로버를 문 토끼처럼 행운이 가득하시길 Artist. 김제민 토끼의 꿈 나비처럼 날고 싶은 토끼 Artist. 김제민 행복한 토끼가족 함께하는 시간이 행복한 러블리 토끼가족 Artist. 그녀 사랑이 시작되던 날에 마음 한 가득 설레임으로 가득했던 그 날에 우리 Artist. 송미숙 Best Friend Oh You're my best friend So you can lean on me Oh You're my best friend So you can lean on me Artist. 로이크리티엘 Your moments in now 2023년도, 여러분의 행복하고 즐거운 순간으로 가득 채워주세요.. 2023년은 여러분의 해입니다. 그 모든 순간을 니나노와 미스터 도기가 함께 할께요~ Artist. 니나노 친구가 생겼어 포근하고 따뜻한 친구가 생겼어 Artist. 현현 새해 우리 앞의 짙은 안개들이 사라지고 밝은 태양이 떠올라 온 세상을 환하게 비추는 새해가 오기를. Artist. 째찌 CONTEENEW 스토어팜</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20221221_173/1671593730722FGvX0_JPEG/%EC%87%BC%ED%95%91%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B0%B0%EB%84%88_800x484.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20221221_173/1671593730722FGvX0_JPEG/%EC%87%BC%ED%95%91%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B0%B0%EB%84%88_800x484.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221221_173/1671593730722FGvX0_JPEG/%EC%87%BC%ED%95%91%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B0%B0%EB%84%88_800x484.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창의력 쑥쑥 키워주는 상품들]]></title>
-            <link>https://shopping.naver.com/art/event/20024264</link>
-            <guid>https://shopping.naver.com/art/event/20024264</guid>
-            <pubDate>Thu, 22 Dec 2022 15:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[아트상품의 재발견!]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221220_39/1671508106544VeeG3_JPEG/12.20-EC96B4EBA6B0EC9DB4EC9AA9ED9288.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
