@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 14:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 15:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집 안에서 즐기는 아름다운 풍경]]></title>
+            <link>https://shopping.naver.com/art/event/20024440</link>
+            <guid>https://shopping.naver.com/art/event/20024440</guid>
+            <pubDate>Mon, 02 Jan 2023 15:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221227_205/1672143532271CeIvP_JPEG/EC9E91EAB080EB93A4EC9D98EAB7B8EBA3B9ECA084.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멋진 풍경을 담은 사진]]></title>
             <link>https://shopping.naver.com/art/event/20024439</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 27 Dec 2022 15:16:12 GMT</pubDate>
             <content:encoded><![CDATA[더 맛있게 보여요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221227_56/1672143194415fHzdp_JPEG/EC8B9DEAB8B0.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포스터로 아이방을 꾸며봐요]]></title>
-            <link>https://shopping.naver.com/art/event/20024265</link>
-            <guid>https://shopping.naver.com/art/event/20024265</guid>
-            <pubDate>Mon, 26 Dec 2022 15:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221220_106/1671508305734hgIlM_JPEG/12.20-EC9E91EAB080EB93A4EAB7B8EBA3B9ECA084.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
