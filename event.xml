@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 14:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 15:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[풍부한 감성을 담은 회화]]></title>
+            <link>https://shopping.naver.com/art/event/20024617</link>
+            <guid>https://shopping.naver.com/art/event/20024617</guid>
+            <pubDate>Sun, 08 Jan 2023 15:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[아름다운 추상화 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230102_66/1672652517837HgK3e_JPEG/ED9A8CED9994-ECB694EC8381.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[컨티뉴] 행운을 가져다 줄​ 🐇계묘년 토끼 그림전 II]]></title>
             <link>https://shopping.naver.com/art/stores/100384663/news/5000111748</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 08 Jan 2023 11:12:06 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/art/stores/1000013726/news/5000104521" class="_3awplngVTT N=a:eli.news,i:5000104521 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">풍요와 행운의 상징, 윤병락 작가의 사과 에디션 10%SALE</strong><p class="S7nFgeJfh8">2023년 한해에 좋은 일이 가득하길 바라는 마음을 담아 풍요와 행운의 상징, 윤병락 작가의 사과 에디션을 선물해보세요. 🍎🍏 ✅ 새해맞이 10% 할인(~1/15) ✅ 자작나무로 제작된 첫 에디션 ✅ 선물용으로도 좋은 보관 패키지 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) https://www.artish.co.kr/main/index.php</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230104_4/1672795810197eh4wz_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230104_4/1672795810197eh4wz_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230104_4/1672795810197eh4wz_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니크한 분위기의 그래픽 포스터]]></title>
-            <link>https://shopping.naver.com/art/event/20024615</link>
-            <guid>https://shopping.naver.com/art/event/20024615</guid>
-            <pubDate>Sun, 08 Jan 2023 11:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[유쾌하고 개성 넘치는 작품]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230102_183/1672652192740X6bI0_JPEG/ED8FACEC8AA4ED84B0-EAB7B8EB9E98ED94BD.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

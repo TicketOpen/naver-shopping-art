@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 14:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 15:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[풍부한 감성을 담은 회화]]></title>
+            <link>https://shopping.naver.com/art/event/20024617</link>
+            <guid>https://shopping.naver.com/art/event/20024617</guid>
+            <pubDate>Sun, 08 Jan 2023 15:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[아름다운 추상화 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230102_66/1672652517837HgK3e_JPEG/ED9A8CED9994-ECB694EC8381.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생활용품도 특별하게 사용해요]]></title>
             <link>https://shopping.naver.com/art/event/20024616</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 31 Dec 2022 15:14:36 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 1월 월간 기획전]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221216_288/1671154628729Bdphj_JPEG/ECA09CEBAAA9-EC9786EC9D8C-1.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트를 쉽고 편하게 갖자]]></title>
-            <link>https://shopping.naver.com/art/event/20024185</link>
-            <guid>https://shopping.naver.com/art/event/20024185</guid>
-            <pubDate>Sat, 31 Dec 2022 15:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[아트윈도 1월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221216_281/1671153763788Gpq8J_JPEG/ECA09CEBAAA9-EC9786EC9D8C-1.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
