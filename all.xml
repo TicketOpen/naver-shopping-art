@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 07:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 08:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -91,7 +91,7 @@
             <title><![CDATA[설 명절 아티쉬 배송일정 안내 (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
             <link>https://shopping.naver.com/art/stores/1000013726/news/5000116634</link>
             <guid>https://shopping.naver.com/art/stores/1000013726/news/5000116634</guid>
-            <pubDate>Mon, 09 Jan 2023 07:15:18 GMT</pubDate>
+            <pubDate>Mon, 09 Jan 2023 07:15:09 GMT</pubDate>
             <content:encoded><![CDATA[오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) https://www.artish.co.kr/main/index.php]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230109_100/1673247537969IiEUX_JPEG/%EB%B0%B0%EC%86%A1%EC%95%88%EB%82%B4_2023%EC%84%A4.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
