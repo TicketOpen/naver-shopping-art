@@ -4,9 +4,65 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 14:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 15:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딱 하나뿐인 나의 작은 그림]]></title>
+            <link>https://shopping.naver.com/art/event/20025022</link>
+            <guid>https://shopping.naver.com/art/event/20025022</guid>
+            <pubDate>Tue, 31 Jan 2023 15:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[아트윈도 2월 월간 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230118_191/1674023445533HOd1b_JPEG/ECA09CEBAAA9-EC9786EC9D8C-1.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일상을 아트로 만들어볼까?]]></title>
+            <link>https://shopping.naver.com/art/event/20025023</link>
+            <guid>https://shopping.naver.com/art/event/20025023</guid>
+            <pubDate>Tue, 31 Jan 2023 15:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[아트윈도 2월 월간 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230118_104/1674024142385Neqna_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나만을 위한 리미티드 에디션 그림]]></title>
+            <link>https://shopping.naver.com/art/event/20025024</link>
+            <guid>https://shopping.naver.com/art/event/20025024</guid>
+            <pubDate>Tue, 31 Jan 2023 15:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[아트윈도 2월 월간 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230118_89/16740244737980sMuy_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트렌디한 그림으로 내 방 변신!]]></title>
+            <link>https://shopping.naver.com/art/event/20025025</link>
+            <guid>https://shopping.naver.com/art/event/20025025</guid>
+            <pubDate>Tue, 31 Jan 2023 15:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[아트윈도 2월 월간 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230118_280/1674024726146ugqrp_JPEG/ECA09CEBAAA9-EC9786EC9D8C-1.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내외 유명 작가 사진을 쇼핑하다]]></title>
+            <link>https://shopping.naver.com/art/event/20025026</link>
+            <guid>https://shopping.naver.com/art/event/20025026</guid>
+            <pubDate>Tue, 31 Jan 2023 15:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[아트윈도 2월 월간 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230118_119/1674025029922HHdnF_JPEG/ECA09CEBAAA9-EC9786EC9D8C-1.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트를 쉽고 편하게 갖자]]></title>
+            <link>https://shopping.naver.com/art/event/20025027</link>
+            <guid>https://shopping.naver.com/art/event/20025027</guid>
+            <pubDate>Tue, 31 Jan 2023 15:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[아트윈도 2월 월간 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230118_45/16740254027477USmj_JPEG/ECA09CEBAAA9-EC9786EC9D8C-1.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다양한 포스터 작품을 한눈에]]></title>
+            <link>https://shopping.naver.com/art/event/20025272</link>
+            <guid>https://shopping.naver.com/art/event/20025272</guid>
+            <pubDate>Tue, 31 Jan 2023 15:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[인테리어 제격 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230130_180/1675065990702zgEaE_JPEG/ED8FACEC8AA4ED84B0-ED8C9DEC9584ED8AB81.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마음이 따스해지는 감성 수채화]]></title>
             <link>https://shopping.naver.com/art/event/20025096</link>
@@ -30,62 +86,6 @@
             <pubDate>Thu, 26 Jan 2023 15:16:57 GMT</pubDate>
             <content:encoded><![CDATA[환상적인 풍경에 기분 UP!]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230119_154/1674112506825QOUXI_JPEG/ED8C90ED9994-ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소장 가치 100% 아트 주얼리]]></title>
-            <link>https://shopping.naver.com/art/event/20025093</link>
-            <guid>https://shopping.naver.com/art/event/20025093</guid>
-            <pubDate>Tue, 24 Jan 2023 15:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[특별한 선물로도 좋아요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230119_219/1674111576790CXykw_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8-ECA3BCEC96BCEBA6AC.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행복을 부르는 따뜻한 그림들]]></title>
-            <link>https://shopping.naver.com/art/event/20025005</link>
-            <guid>https://shopping.naver.com/art/event/20025005</guid>
-            <pubDate>Mon, 23 Jan 2023 15:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230116_292/1673857955188jRMIz_JPEG/EC9E91EAB080EAB7B8EBA3B9ECA084.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아름다운 풍경을 담은 회화 작품]]></title>
-            <link>https://shopping.naver.com/art/event/20025008</link>
-            <guid>https://shopping.naver.com/art/event/20025008</guid>
-            <pubDate>Sun, 22 Jan 2023 15:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[마음의 위안을 느껴요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230116_16/1673859334909kAjMC_JPEG/ED9A8CED9994-ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[센스있는 아트 패션]]></title>
-            <link>https://shopping.naver.com/art/event/20025007</link>
-            <guid>https://shopping.naver.com/art/event/20025007</guid>
-            <pubDate>Thu, 19 Jan 2023 15:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[스타일의 완성도를 높여줘요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230116_162/1673859138299qwUgQ_JPEG/EC9584ED8AB8EC8381ED9288-ED8CA8EC8598EC9D98EBA598.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀여운 동물을 담은 포스터 작품]]></title>
-            <link>https://shopping.naver.com/art/event/20025006</link>
-            <guid>https://shopping.naver.com/art/event/20025006</guid>
-            <pubDate>Tue, 17 Jan 2023 15:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[아이방 꾸미기 좋아요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230116_206/1673859002811o9L99_JPEG/ED8FACEC8AA4ED84B0-EB8F99EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀여운 동물을 집으로 초대해요]]></title>
-            <link>https://shopping.naver.com/art/event/20024750</link>
-            <guid>https://shopping.naver.com/art/event/20024750</guid>
-            <pubDate>Mon, 16 Jan 2023 15:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230109_175/1673257887947g2s5X_JPEG/EC9E91EAB080EAB7B8EBA3B9ECA08401.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멋진 풍경을 실내에서 감상해요]]></title>
-            <link>https://shopping.naver.com/art/event/20024749</link>
-            <guid>https://shopping.naver.com/art/event/20024749</guid>
-            <pubDate>Sun, 15 Jan 2023 15:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[힐링 되는 작품]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230109_209/1673257745156mg0w5_JPEG/EC82ACECA784-ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
