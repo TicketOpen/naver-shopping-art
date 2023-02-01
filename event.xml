@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 06:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 07:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아티쉬 윈즈데이] 사랑이 담긴 선물을 준비해요 🎁 최대 20% 할인]]></title>
+            <link>https://shopping.naver.com/art/stores/1000013726/news/5000237472</link>
+            <guid>https://shopping.naver.com/art/stores/1000013726/news/5000237472</guid>
+            <pubDate>Wed, 01 Feb 2023 07:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/1000013726/news/5000237472" class="_3awplngVTT N=a:eli.news,i:5000237472 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[아티쉬 윈즈데이] 사랑이 담긴 선물을 준비해요 🎁 최대 20% 할인</strong><p class="S7nFgeJfh8">2월 1주차 아티쉬 윈즈데이 어느 덧 2월이 되어 발렌타인데이를 앞두고 있어요 :) 사랑하는 사람에게 마음을 전할 수 있는 사랑이 가득 담긴 아티쉬의 상품들을 한주간 20% 할인된 가격에 만나보세요 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) https://www.artish.co.kr/main/index.php</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230201_132/1675232321918A28jO_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D_%EC%9C%88%EC%A6%88%EB%8D%B0%EC%9D%B4.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230201_132/1675232321918A28jO_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D_%EC%9C%88%EC%A6%88%EB%8D%B0%EC%9D%B4.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230201_132/1675232321918A28jO_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D_%EC%9C%88%EC%A6%88%EB%8D%B0%EC%9D%B4.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국 최초의 추상화가, 유영국 YOOYOUNHKUK]]></title>
             <link>https://shopping.naver.com/art/stores/100138255/news/5000069105</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 31 Jan 2023 15:16:32 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 2월 월간 기획전]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230118_119/1674025029922HHdnF_JPEG/ECA09CEBAAA9-EC9786EC9D8C-1.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트를 쉽고 편하게 갖자]]></title>
-            <link>https://shopping.naver.com/art/event/20025027</link>
-            <guid>https://shopping.naver.com/art/event/20025027</guid>
-            <pubDate>Tue, 31 Jan 2023 15:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[아트윈도 2월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230118_45/16740254027477USmj_JPEG/ECA09CEBAAA9-EC9786EC9D8C-1.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
