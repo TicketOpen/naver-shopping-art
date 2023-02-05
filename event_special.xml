@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 14:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 15:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 정물들의 모습]]></title>
+            <link>https://shopping.naver.com/art/event/20025273</link>
+            <guid>https://shopping.naver.com/art/event/20025273</guid>
+            <pubDate>Sun, 05 Feb 2023 15:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[분위기가 달라져요~]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230130_170/16750662829920NIto_JPEG/ED9A8CED9994-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아트상품으로 분위기 전환]]></title>
             <link>https://shopping.naver.com/art/event/20025271</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 Jan 2023 15:17:53 GMT</pubDate>
             <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230119_47/16741136708093jPA6_JPEG/EC9E91EAB080EAB7B8EBA3B9ECA084.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보면 볼수록 빠져드는 추상 사진]]></title>
-            <link>https://shopping.naver.com/art/event/20025095</link>
-            <guid>https://shopping.naver.com/art/event/20025095</guid>
-            <pubDate>Sun, 29 Jan 2023 15:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[작가의 의도를 찾아서]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230119_10/1674112603425rakVH_JPEG/EC82ACECA784-ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
