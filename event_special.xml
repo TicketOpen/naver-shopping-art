@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 14:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 15:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑스러운 동물을 보며 힐링해요]]></title>
+            <link>https://shopping.naver.com/art/event/20025430</link>
+            <guid>https://shopping.naver.com/art/event/20025430</guid>
+            <pubDate>Mon, 13 Feb 2023 15:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230206_225/1675670379384fW2p1_JPEG/EC9E91EAB080EB93A4EC9D98EAB7B8EBA3B9ECA084.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[풍경을 사진으로 감상해요]]></title>
             <link>https://shopping.naver.com/art/event/20025428</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 31 Jan 2023 15:16:46 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 2월 월간 기획전]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230118_89/16740244737980sMuy_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트렌디한 그림으로 내 방 변신!]]></title>
-            <link>https://shopping.naver.com/art/event/20025025</link>
-            <guid>https://shopping.naver.com/art/event/20025025</guid>
-            <pubDate>Tue, 31 Jan 2023 15:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[아트윈도 2월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230118_280/1674024726146ugqrp_JPEG/ECA09CEBAAA9-EC9786EC9D8C-1.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
