@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 14:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 15:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아름다운 꽃과 함께 해요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20025669</link>
+            <guid>https://shopping.naver.com/art/event/20025669</guid>
+            <pubDate>Mon, 20 Feb 2023 15:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230213_95/1676281392848pHX6j_JPEG/EAB7B8EBA3B9ECA084.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우징 : 자연스러운 자연 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/stores/101682249/news/5000263022</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 16 Feb 2023 15:16:51 GMT</pubDate>
             <content:encoded><![CDATA[다양한 디자인 아트 상품]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230213_147/1676281143065f9c5n_JPEG/EC9584ED8AB8EC8381ED9288-ED8CA8EC8598EC9D98EBA598.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국의 팝 아이콘, 줄리안오피의 오브제 입고! (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/stores/100438513/news/5000259301</link>
-            <guid>https://shopping.naver.com/art/stores/100438513/news/5000259301</guid>
-            <pubDate>Thu, 16 Feb 2023 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/100438513/news/5000259301" class="_3awplngVTT N=a:eli.news,i:5000259301 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">영국의 팝 아이콘, 줄리안오피의 오브제 입고!</strong><p class="S7nFgeJfh8">줄리안오피, Boston statuettes 안녕하세요 아트앤에디션입니다 : ) 오늘은 영국의 팝 아이콘, 줄리안오피 작가님의 오브제와 함께 돌아왔습니다! 줄리안오피 작가님의 오브제는 항상 인기가 많은 작품중에 하나인데요! 이 Boston statuettes 오브제도 작년, 입고 후 1달도 되지않아 품절되었던 작품입니다. 보스턴의 행인들을 묘사하여 우리 일상 속 자연스러운 모습을 담아낸 작품이며 이번에도 한정된 수량으로 아트앤에디션이 준비했으니 놓치지말고 꼭 소장하시길 바랍니다 : ) 줄리안오피 작가님의 오브제, Boston statuettes은 하나하나 개별로 구매 가능한 오브제이며, 작품을 받침판에 꼽아 세워둘 수 있는 형태입니다. &lt; 줄리안오피 작가님의 작품 바로가기 &gt;</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230216_151/1676524455669da34V_JPEG/%EC%A4%84%EB%A6%AC%EC%95%88%EC%98%A4%ED%94%BC.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230216_151/1676524455669da34V_JPEG/%EC%A4%84%EB%A6%AC%EC%95%88%EC%98%A4%ED%94%BC.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230216_151/1676524455669da34V_JPEG/%EC%A4%84%EB%A6%AC%EC%95%88%EC%98%A4%ED%94%BC.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우징 : 자연스러운 자연 (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230216_25/1676527600619LvHIf_JPEG/230302-BAMA-thumb-naver.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아름다운 꽃과 함께 해요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20025669</link>
+            <guid>https://shopping.naver.com/art/event/20025669</guid>
+            <pubDate>Mon, 20 Feb 2023 15:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230213_95/1676281392848pHX6j_JPEG/EAB7B8EBA3B9ECA084.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[재미있는 인물 표현 방법 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20025668</link>
             <guid>https://shopping.naver.com/art/event/20025668</guid>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 05 Feb 2023 15:15:42 GMT</pubDate>
             <content:encoded><![CDATA[분위기가 달라져요~]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230130_170/16750662829920NIto_JPEG/ED9A8CED9994-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트상품으로 분위기 전환 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20025271</link>
-            <guid>https://shopping.naver.com/art/event/20025271</guid>
-            <pubDate>Thu, 02 Feb 2023 15:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[특별함을 원해요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230130_164/1675066094585sLQg6_JPEG/EC9584ED8AB8EC83B9ED9288-EBACB8EAB5ACEBA598.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

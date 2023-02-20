@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 14:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 15:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아름다운 꽃과 함께 해요]]></title>
+            <link>https://shopping.naver.com/art/event/20025669</link>
+            <guid>https://shopping.naver.com/art/event/20025669</guid>
+            <pubDate>Mon, 20 Feb 2023 15:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230213_95/1676281392848pHX6j_JPEG/EAB7B8EBA3B9ECA084.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재미있는 인물 표현 방법]]></title>
             <link>https://shopping.naver.com/art/event/20025668</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Feb 2023 13:25:57 GMT</pubDate>
             <content:encoded><![CDATA[분위기가 달라져요~]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230130_170/16750662829920NIto_JPEG/ED9A8CED9994-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트상품으로 분위기 전환]]></title>
-            <link>https://shopping.naver.com/art/event/20025271</link>
-            <guid>https://shopping.naver.com/art/event/20025271</guid>
-            <pubDate>Wed, 15 Feb 2023 13:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[특별함을 원해요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230130_164/1675066094585sLQg6_JPEG/EC9584ED8AB8EC83B9ED9288-EBACB8EAB5ACEBA598.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
