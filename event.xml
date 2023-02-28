@@ -4,9 +4,65 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 14:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 15:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딱 하나뿐인 나의 작은 그림]]></title>
+            <link>https://shopping.naver.com/art/event/20025934</link>
+            <guid>https://shopping.naver.com/art/event/20025934</guid>
+            <pubDate>Tue, 28 Feb 2023 15:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[아트윈도 3월 월간 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230222_159/1677054301599t5GhU_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일상을 아트로 만들어볼까?]]></title>
+            <link>https://shopping.naver.com/art/event/20025935</link>
+            <guid>https://shopping.naver.com/art/event/20025935</guid>
+            <pubDate>Tue, 28 Feb 2023 15:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[아트윈도 3월 월간 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230222_59/1677055048269eG3gk_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나만을 위한 리미티드 에디션 그림]]></title>
+            <link>https://shopping.naver.com/art/event/20025936</link>
+            <guid>https://shopping.naver.com/art/event/20025936</guid>
+            <pubDate>Tue, 28 Feb 2023 15:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[아트윈도 3월 월간 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230222_284/1677055324986Tfnjr_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트렌디한 그림으로 내 방 변신!]]></title>
+            <link>https://shopping.naver.com/art/event/20025937</link>
+            <guid>https://shopping.naver.com/art/event/20025937</guid>
+            <pubDate>Tue, 28 Feb 2023 15:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[아트윈도 3월 월간 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230222_133/1677056527707ryvSk_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내외 유명 작가 사진을 쇼핑하다]]></title>
+            <link>https://shopping.naver.com/art/event/20025938</link>
+            <guid>https://shopping.naver.com/art/event/20025938</guid>
+            <pubDate>Tue, 28 Feb 2023 15:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[아트윈도 3월 월간 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230222_211/1677057314006fpJ5N_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트를 쉽고 편하게 갖자]]></title>
+            <link>https://shopping.naver.com/art/event/20025939</link>
+            <guid>https://shopping.naver.com/art/event/20025939</guid>
+            <pubDate>Tue, 28 Feb 2023 15:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[아트윈도 3월 월간 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230222_215/1677057791700D6Dhh_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다채로운 풍경 작품을 모았어요]]></title>
+            <link>https://shopping.naver.com/art/event/20026054</link>
+            <guid>https://shopping.naver.com/art/event/20026054</guid>
+            <pubDate>Tue, 28 Feb 2023 15:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[힐링하기 좋은 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230227_36/16774808502134veK2_JPEG/ED8FACEC8AA4ED84B0-ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Artist] 사소한 일상 속 작은 순간들, sehyunyim 임세현 작가]]></title>
             <link>https://shopping.naver.com/art/stores/100384663/news/5000277972</link>
@@ -30,62 +86,6 @@
             <pubDate>Tue, 28 Feb 2023 01:18:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/art/stores/1000014753/news/5000269183" class="_3awplngVTT N=a:eli.news,i:5000269183 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">스페인을 꼴라쥬로 표현해 낸 작가, Pavel</strong><p class="S7nFgeJfh8">안녕하세요 해외감성 아티스트 큐레이팅샵 4만마켓입니다 건축가 겸 아티스트, 'Pavel' 바르셀로나의 건축가 겸 아티스트인 Pavel 을 소개합니다 가우디의 여러가지 아름다운 건축물들을 아름다운 꼴라쥬 기법으로 나타내는 예술가를 아시나요? Pavel은 독일 라이프치히에서 태아났고 지금은 칠레 국적을 가지고 있는 건축가 겸 아티스트 랍니다. 건축과 비주얼 아트에 관심을 갖게 되면서 안토니오 가우디가 다녔던 바르셀로나 건축 학교를 졸업하여 건축가가 된 Pavel 작가 작가는 바르셀로나에서 일러스트, 사진, 바르셀로나의 특징을 반영하여 새로운 풍경을 만드는 작품 활동을 하고 있습니다 도시에서 여러 층이 중첩되어 있는 느낌을 받았고, 이런 도시의 인상을 꼴라쥬 기법을 통하여 물리적 유사성을 찾아 작품으로 승화시켰어요 Pavel의 작품으로 스페인 여행에서의 추억을 소장해 보세요 세계 곳곳의 숨은 아트상품을 만나고 싶다면, 4만마켓으로! http://www.40000market.com/</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230223_46/1677127623680IT6jb_JPEG/marsalada_top.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230223_46/1677127623680IT6jb_JPEG/marsalada_top.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230223_46/1677127623680IT6jb_JPEG/marsalada_top.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제12회 2023 부산국제화랑아트페어-성원아트갤러리  C-4]]></title>
-            <link>https://shopping.naver.com/art/stores/100305343/news/5000277040</link>
-            <guid>https://shopping.naver.com/art/stores/100305343/news/5000277040</guid>
-            <pubDate>Mon, 27 Feb 2023 22:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/100305343/news/5000277040" class="_3awplngVTT N=a:eli.news,i:5000277040 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">제12회 2023 부산국제화랑아트페어-성원아트갤러리  C-4</strong><p class="S7nFgeJfh8">제12회 2023 부산국제화랑아트페어-성원아트갤러리 C-4 제12회 2023 부산국제화랑아트페어-성원아트갤러리 C-4에 참여합니다. 저희 갤러리의 이름처럼 많은 성원부탁드고 많은 관심 부탁드립니다. 사진 설명을 입력하세요. . 행사명 제12회 부산국제화랑아트페어 기간 2023년 3월 02일(목)-05일(일) 장소 부산 벡스코(BEXCO) 제 1전시관 1홀,2홀 VIP &amp; PRESS 프리뷰 2022년 3월 2일(목) 15:00~20:00 일반오픈 2022년 3월 3일(금) -5일(일) 3월 8일(금) – 9일(토) 11:00 ~ 19:00 (입장마감 18:00) 3월 10일(일) 11:00 ~ 18 :00 (입장마감 17:00) 성원아트갤러리 부스 C-4로 만나뵙겠습니다~*^^ 참여작가 곽지은 문성원 윤인수 김필순 최보경 구준효 하혜영 사진 설명을 입력하세요. 성원아트갤러리 부스 C-4로 만나뵙겠습니다~*^^ 참여작가- 곽지은 문성원 김필순 윤인수 최보경 구준효 하혜영 &lt;성원아트갤러리 찾아오시는길&gt; BOOTH NO.C-4로 오시면 성원아트갤러리를 만나 보실 수 있습니다. https://shopping.naver.com/art/stores/100305343 &lt;찾아오시는길&gt; 문의: 0507133449998 #바마#부산국제화랑아트페어 #2023바마#아트페어</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20210705_228/16254240998944G9Sh_JPEG/KakaoTalk_20210704_235930262.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20210705_228/16254240998944G9Sh_JPEG/KakaoTalk_20210704_235930262.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20210705_228/16254240998944G9Sh_JPEG/KakaoTalk_20210704_235930262.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일상속에서 아름다움 느껴요]]></title>
-            <link>https://shopping.naver.com/art/event/20025874</link>
-            <guid>https://shopping.naver.com/art/event/20025874</guid>
-            <pubDate>Mon, 27 Feb 2023 15:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230220_229/1676882041578W8j5s_JPEG/EC9E91EAB080EAB7B8EBA3B9ECA084.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NEW EDITION] 유의랑 작가의 판화 오픈]]></title>
-            <link>https://shopping.naver.com/art/stores/100438513/news/5000276439</link>
-            <guid>https://shopping.naver.com/art/stores/100438513/news/5000276439</guid>
-            <pubDate>Mon, 27 Feb 2023 09:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/100438513/news/5000276439" class="_3awplngVTT N=a:eli.news,i:5000276439 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[NEW EDITION] 유의랑 작가의 판화 오픈</strong><p class="S7nFgeJfh8">안녕하세요 아트앤에디션입니다! 유의랑작가님의 신작 판화, 꼼꼼시리즈를 소개해드립니다 : ) 유의랑 작가님의 이번 꼼꼼시리즈 판화는 차분하고 귀여운 색감이 포인트가 되는 작품인데요! 작품의 크기도 크지 않아 방이나 거실에 걸어 감상하기 좋습니다 ㅎㅎ 꼼꼼시리즈라는 제목과 같이 꼼꼼하고 세밀한 작가님의 붓터치를 감상하실 수 있습니다^^ 아트앤에디션 사이트에서 다양한 액자와 함께 만나보세요 : ) &lt;유의랑작가님 작품 바로가기&gt;</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230227_129/1677488971765OUT7J_JPEG/%EC%9C%A0%EC%9D%98%EB%9E%91_%EB%B0%B0%EB%84%88.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230227_129/1677488971765OUT7J_JPEG/%EC%9C%A0%EC%9D%98%EB%9E%91_%EB%B0%B0%EB%84%88.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230227_129/1677488971765OUT7J_JPEG/%EC%9C%A0%EC%9D%98%EB%9E%91_%EB%B0%B0%EB%84%88.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이왈종 화가 소형 에디션 판화 입점]]></title>
-            <link>https://shopping.naver.com/art/stores/100138255/news/5000179883</link>
-            <guid>https://shopping.naver.com/art/stores/100138255/news/5000179883</guid>
-            <pubDate>Mon, 27 Feb 2023 01:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/100138255/news/5000179883" class="_3awplngVTT N=a:eli.news,i:5000179883 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">이왈종 화가 소형 에디션 판화 입점</strong><p class="S7nFgeJfh8">안녕하세요, 그림닷컴 입니다. 제주도의 풍경이 독특한 화풍으로 표현된 '제주생할의 중도' ! 이왈종 화백님의 에디션 판화 6종이 신규 입점되었습니다. 37 x 37.5cm의 아담한 사이즈라 안방 탁자 위, 책상 위, 좁은 복도의 벽면 등 어디에나 예쁘게 어우러집니다. 두 작품을 함께 걸어두면 꼭 한 세트로 맞춘 것 처럼 더욱 빛날거예요. 그동안 이왈종 작품을 소장하고 싶었지만, 가격이 부담스러우셨던 고객님께 더욱 추천드리고 싶어요 : ) 모두 99점 한정판인 99 Editions 정품이며 그림닷컴의 판화, 원화 작품들은 정품임을 보증하는 보증서를 함께 보내드립니다. 이왈종 화백님의 에디션 판화는 그 희소성이 날이갈수록 높아지고 있습니다. 정말 어렵게 구한 작품들이에요 : ) 아트콜렉터 분들이라면 놓치지 마세요 ! 제주생활의 中道 이왈종 화백의 에디션 판화를 이번기회에 꼭! 소장해보세요 : )</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230116_198/1673855476438Vqdz6_JPEG/%EC%9D%B4%EC%99%88%EC%A2%85%EB%AF%B8%E3%85%A3.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230116_198/1673855476438Vqdz6_JPEG/%EC%9D%B4%EC%99%88%EC%A2%85%EB%AF%B8%E3%85%A3.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230116_198/1673855476438Vqdz6_JPEG/%EC%9D%B4%EC%99%88%EC%A2%85%EB%AF%B8%E3%85%A3.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정물들의 생생한 사진 작품]]></title>
-            <link>https://shopping.naver.com/art/event/20025875</link>
-            <guid>https://shopping.naver.com/art/event/20025875</guid>
-            <pubDate>Sun, 26 Feb 2023 15:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[분위기가 달라져요~]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230220_88/1676882184724FIp9b_JPEG/EC82ACECA784-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨티뉴] 행운이 피어나는 그림 - 풍수 인테리어]]></title>
-            <link>https://shopping.naver.com/art/stores/100384663/news/5000271143</link>
-            <guid>https://shopping.naver.com/art/stores/100384663/news/5000271143</guid>
-            <pubDate>Fri, 24 Feb 2023 04:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/100384663/news/5000271143" class="_3awplngVTT N=a:eli.news,i:5000271143 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[컨티뉴] 행운이 피어나는 그림 - 풍수 인테리어</strong><p class="S7nFgeJfh8">풍수 인테리어 그림 사과 코끼리 부엉이 호랑이 🍎🐘🦉🐯 건강 사랑 재물 돈 들어오는 그림 행운이 피어나는 그림 요즘은 집안 인테리어, 가구나 물건의 위치도 풍수지리에 따른 좋은 기운을 받기위해 신경쓰시는 분들이 많죠. 건강, 사랑, 재물이 차곡차곡 쌓일 수 있도록 풍수 인테리어 그림으로 집안의 분위기를 바꿔보세요~! 🍎사과🍎 의욕, 성장, 결실 열정과 생기, 결실과 행운을 불러옵니다. 사과나무의 얼굴 작은 아름다움을 이야기하는 동안 시간 틈에 맺혀있던 마음의 빛깔이 한움큼씩 꽃눈으로 솟아났습니다. Artist. 푸르나 Fine apple 걱정하는 것 대신에 괜찮은 사과처럼 오늘 하루를 맛있게 보내보아요. Artist. 알로쏭지 사과수확 빨갛게 익은 사과를 주섬주섬 담아넣었더니 어느새 바구니에 한가득 Artist. GraceJ 🐘코끼리🐘 건강, 화목, 부, 재물복 돈을 관장하는 동물로 여겨져 재물, 부를 상징합니다. 선물 당신에게 주고 싶어요. Artist. 현현 기억할께 나는 너를 기억할게 Artist. 현현 너를 좋아해서야 앞으로 어떤 일이 또 다가올지 모르지만 끝까지 함께 하고 싶어 Artist. 현현 Blue Artist. 노연희 🦉부엉이🦉 부, 지혜 부엉이의 습성처럼 부와 행운이 들어오면 집안에 있도록 지켜주고, 어둠 속을 밝히는 지혜를 가집니다. 산책하는 부엉이 Artist. 으녁 상상속 부엉이 Artist. 으녁 올빼미 Artist. 노연희 🐯호랑이🐯 명예, 권위, 액운방지, 수호 용맹스러운 신비함이 액운을 방지하는 의미를 가집니다. 봄 날 Artist. 김제민 호랑이 Artist. 글림작가임진순 스마일호랑이 핑크 Artist. 달솜 풀숲호랑이3 풀숲에서 신나는 모험을 즐기는 호기심 많은 호랑이의 일상. Artist. 레몬루나 저희 컨티뉴 제품을 구매하시면 창작자에게 일정 수익이 지원되어 더 좋은 작품을 만드는 원동력이 됩니다. 컨티뉴는 작가님들의 창작 활동을 응원합니다:)</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230224_59/16772064017226tagg_JPEG/%EC%87%BC%ED%95%91%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B0%B0%EB%84%88_800x484.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230224_59/16772064017226tagg_JPEG/%EC%87%BC%ED%95%91%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B0%B0%EB%84%88_800x484.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230224_59/16772064017226tagg_JPEG/%EC%87%BC%ED%95%91%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B0%B0%EB%84%88_800x484.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀여운 동물을 집으로 초대해요]]></title>
-            <link>https://shopping.naver.com/art/event/20025873</link>
-            <guid>https://shopping.naver.com/art/event/20025873</guid>
-            <pubDate>Thu, 23 Feb 2023 15:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[재미있는 동물 작품 모음]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230220_280/1676881708276aQto3_JPEG/ED8C90ED9994-EB8F99EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
