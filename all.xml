@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 04:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 05:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,6 +200,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230227_278/16774829655631uIq4_JPEG/EC9584ED8AB8-EC96B4EBA6B0EC9DB4EC8381ED9288.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아트윈도 작가의 원데이 클래스 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/10000324</link>
+            <guid>https://shopping.naver.com/art/event/10000324</guid>
+            <pubDate>Wed, 08 Mar 2023 05:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[만나고, 만들고, 소장하는~]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20201126_190/16063897171364dHHK_JPEG/39796940663503010_2140847920.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[딱 하나뿐인 나의 작은 그림 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20025934</link>
             <guid>https://shopping.naver.com/art/event/20025934</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Feb 2023 15:17:02 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 3월 월간 기획전]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230222_211/1677057314006fpJ5N_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트를 쉽고 편하게 갖자 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20025939</link>
-            <guid>https://shopping.naver.com/art/event/20025939</guid>
-            <pubDate>Tue, 28 Feb 2023 15:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[아트윈도 3월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230222_215/1677057791700D6Dhh_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
