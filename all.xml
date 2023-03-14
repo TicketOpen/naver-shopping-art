@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 14:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 15:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[섬세함이 돋보이는 정물 작품 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20026405</link>
+            <guid>https://shopping.naver.com/art/event/20026405</guid>
+            <pubDate>Tue, 14 Mar 2023 15:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[인기 있는 포스터 모음]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230313_227/1678706918320W38IW_JPEG/ED8FACEC8AA4ED84B0-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새학기맞이 학교 인테리어 아트컨설팅 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/stores/100138255/news/5000274823</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 12 Mar 2023 15:14:47 GMT</pubDate>
             <content:encoded><![CDATA[사진으로 감상해봐요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230306_232/1678102998007lYzPQ_JPEG/EC82ACECA784-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따스해진 날씨, 시원한 음료를 담을 유리컵 할인 20% (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/stores/1000013726/news/5000294007</link>
-            <guid>https://shopping.naver.com/art/stores/1000013726/news/5000294007</guid>
-            <pubDate>Fri, 10 Mar 2023 09:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/1000013726/news/5000294007" class="_3awplngVTT N=a:eli.news,i:5000294007 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">따스해진 날씨, 시원한 음료를 담을 유리컵 할인 20%</strong><p class="S7nFgeJfh8">올해 들어 오늘 날씨가 가장 따뜻한 것 같습니다.🥰 외투 없이, 손에는 아이스 음료를 들고 다니는 분들이 많았어요.🧊 이제 머그 대신 차가운 음료를 위한 유리컵을 자주 사용하게 될 것 같아요. 즐거운 티타임을 위한 예쁜 아티쉬 유리컵은 어떨까요? 지금 아티쉬에서 다양한 유리컵을 확인해보세요! 👉🏻 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) https://www.artish.co.kr/main/index.php</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230310_56/1678437008477Oswdr_JPEG/3.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230310_56/1678437008477Oswdr_JPEG/3.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230310_56/1678437008477Oswdr_JPEG/3.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새학기맞이 학교 인테리어 아트컨설팅 (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230309_204/1678351403051K762d_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[섬세함이 돋보이는 정물 작품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20026405</link>
+            <guid>https://shopping.naver.com/art/event/20026405</guid>
+            <pubDate>Tue, 14 Mar 2023 15:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[인기 있는 포스터 모음]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230313_227/1678706918320W38IW_JPEG/ED8FACEC8AA4ED84B0-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다양한 인물 작품을 감상해봐요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20026207</link>
             <guid>https://shopping.naver.com/art/event/20026207</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Feb 2023 15:17:02 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 3월 월간 기획전]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230222_159/1677054301599t5GhU_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일상을 아트로 만들어볼까? (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20025935</link>
-            <guid>https://shopping.naver.com/art/event/20025935</guid>
-            <pubDate>Tue, 28 Feb 2023 15:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[아트윈도 3월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230222_59/1677055048269eG3gk_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

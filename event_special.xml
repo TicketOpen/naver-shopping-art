@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 14:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 15:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[섬세함이 돋보이는 정물 작품]]></title>
+            <link>https://shopping.naver.com/art/event/20026405</link>
+            <guid>https://shopping.naver.com/art/event/20026405</guid>
+            <pubDate>Tue, 14 Mar 2023 15:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[인기 있는 포스터 모음]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230313_227/1678706918320W38IW_JPEG/ED8FACEC8AA4ED84B0-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다양한 인물 작품을 감상해봐요]]></title>
             <link>https://shopping.naver.com/art/event/20026207</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 28 Feb 2023 15:17:18 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 3월 월간 기획전]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230222_159/1677054301599t5GhU_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일상을 아트로 만들어볼까?]]></title>
-            <link>https://shopping.naver.com/art/event/20025935</link>
-            <guid>https://shopping.naver.com/art/event/20025935</guid>
-            <pubDate>Tue, 28 Feb 2023 15:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[아트윈도 3월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230222_59/1677055048269eG3gk_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
