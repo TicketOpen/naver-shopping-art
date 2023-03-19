@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 14:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 15:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝아트로 집 꾸미기 시작해요]]></title>
+            <link>https://shopping.naver.com/art/event/20026407</link>
+            <guid>https://shopping.naver.com/art/event/20026407</guid>
+            <pubDate>Sun, 19 Mar 2023 15:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[디테일이 달라요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230313_109/1678707208508qo9Wd_JPEG/ED9A8CED9994-ED8C9DEC9584ED8AB8.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일상 속에 스며든 아트상품을 만나봐요]]></title>
             <link>https://shopping.naver.com/art/event/20026406</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 Mar 2023 15:18:52 GMT</pubDate>
             <content:encoded><![CDATA[디테일이 달라요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230227_278/16774829655631uIq4_JPEG/EC9584ED8AB8-EC96B4EBA6B0EC9DB4EC8381ED9288.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트윈도 작가의 원데이 클래스]]></title>
-            <link>https://shopping.naver.com/art/event/10000324</link>
-            <guid>https://shopping.naver.com/art/event/10000324</guid>
-            <pubDate>Wed, 08 Mar 2023 05:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[만나고, 만들고, 소장하는~]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20201126_190/16063897171364dHHK_JPEG/39796940663503010_2140847920.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
