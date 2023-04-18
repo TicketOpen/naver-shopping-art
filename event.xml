@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 14:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 15:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빛나는 주얼리로 패션을 완성해요]]></title>
+            <link>https://shopping.naver.com/art/event/20027426</link>
+            <guid>https://shopping.naver.com/art/event/20027426</guid>
+            <pubDate>Tue, 18 Apr 2023 15:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[유니크한 디자인 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230417_115/1681734846281iSPue_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8-ECA3BCEC96BCEBA6AC.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일상에 색을 더하다]]></title>
             <link>https://shopping.naver.com/art/stores/100032742/news/5000351245</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 16 Apr 2023 15:14:33 GMT</pubDate>
             <content:encoded><![CDATA[다양한 사람들의 모습]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230411_95/1681179314003i2NoM_JPEG/ED9A8CED9994-EC9DB8EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화랑미술제 2023 소식 및 리뷰]]></title>
-            <link>https://shopping.naver.com/art/stores/100030788/news/5000347134</link>
-            <guid>https://shopping.naver.com/art/stores/100030788/news/5000347134</guid>
-            <pubDate>Sun, 16 Apr 2023 03:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/100030788/news/5000347134" class="_3awplngVTT N=a:eli.news,i:5000347134 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">화랑미술제 2023 소식 및 리뷰</strong><p class="S7nFgeJfh8">2023 화랑미술제 부스. B 72 갤러리소헌 &amp; 소헌컨템포러리 2023. 4. 12 (수) - 4. 16 (일) (5일간) 서울 삼성동 COEX 1층 B홀, 3층 D홀 • VIP프리뷰 2023. 4. 12 (수) 15:00 ~ 20:00 (VIP 카드 소지자에 한함) • 관람시간 2023. 4. 13 (목) - 15 (토) 11:00 ~ 19:30 (입장마감 19:00) 2023. 4. 16 (일) 11:00 ~ 17:00 (입장마감 16:30) 이 계 원 Ke-won Lee 김 일 권 EEL-Kwon Kim 임 소 아 So-Ah Yim 조 근 호 Keun-Ho CHO 백진 BaekJin 방 인 균 In-Gyun Bang 곽 윤 정 yun-jung Kwak 박 성 열 Seong-Yul Park 김 혜 연 Hye-Yeon Kim 최 나 리 Na-Ri CHOI 황 세 진 Sae-Jin Hwang 김혜연 작가</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230416_230/1681613649185IzWlv_JPEG/SOHEON.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230416_230/1681613649185IzWlv_JPEG/SOHEON.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230416_230/1681613649185IzWlv_JPEG/SOHEON.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
