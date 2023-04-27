@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 14:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 15:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생활 속에 스며든 아트상품을 만나봐요]]></title>
+            <link>https://shopping.naver.com/art/event/20027563</link>
+            <guid>https://shopping.naver.com/art/event/20027563</guid>
+            <pubDate>Thu, 27 Apr 2023 15:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[특별함을 원해요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230424_21/1682336508033tLA8V_JPEG/EC9584ED8AB8-EC839DED999CEC9EA1ED9994.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다양한 포스터 작품을 한눈에]]></title>
             <link>https://shopping.naver.com/art/event/20027562</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 11 Apr 2023 15:16:06 GMT</pubDate>
             <content:encoded><![CDATA[분위기를 바꿔주는 작품]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230411_294/1681178989362D0qV3_JPEG/ED8FACEC8AA4ED84B0-EB8F99EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보고만 있어도 힐링 되는 나무 그림들]]></title>
-            <link>https://shopping.naver.com/art/event/20026998</link>
-            <guid>https://shopping.naver.com/art/event/20026998</guid>
-            <pubDate>Mon, 10 Apr 2023 15:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230404_262/1680569540723ANWNq_JPEG/EC9E91EAB080EAB7B8EBA3B9ECA084.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
