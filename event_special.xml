@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 03:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 04:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 01 May 2023 15:14:41 GMT</pubDate>
             <content:encoded><![CDATA[유니크한 공예 작품]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230426_271/16825166715133MBTG_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[집에서 멋진 풍경을 감상해요]]></title>
+            <link>https://shopping.naver.com/art/event/20027736</link>
+            <guid>https://shopping.naver.com/art/event/20027736</guid>
+            <pubDate>Tue, 02 May 2023 04:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[보기만 해도 힐링 돼요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230502_233/1682997477897ceoK3_JPEG/ED8FACEC8AA4ED84B0-ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딱 하나뿐인 나의 작은 그림]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Apr 2023 15:17:12 GMT</pubDate>
             <content:encoded><![CDATA[특별함을 원해요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230424_21/1682336508033tLA8V_JPEG/EC9584ED8AB8-EC839DED999CEC9EA1ED9994.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양한 포스터 작품을 한눈에]]></title>
-            <link>https://shopping.naver.com/art/event/20027562</link>
-            <guid>https://shopping.naver.com/art/event/20027562</guid>
-            <pubDate>Tue, 25 Apr 2023 15:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[정물을 담은 그림]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230424_152/1682336086147v4Ren_JPEG/ED8FACEC8AA4ED84B0-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
