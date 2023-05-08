@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 14:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 15:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마음을 담은 아트 선물]]></title>
+            <link>https://shopping.naver.com/art/event/20027737</link>
+            <guid>https://shopping.naver.com/art/event/20027737</guid>
+            <pubDate>Mon, 08 May 2023 15:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[유니크한 아이템 모음]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230502_251/1682997563610OPjCD_JPEG/EBACB8ED9994EC9EACED9884ED9288.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[집에서 멋진 풍경을 감상해요]]></title>
             <link>https://shopping.naver.com/art/event/20027736</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 30 Apr 2023 15:13:46 GMT</pubDate>
             <content:encoded><![CDATA[아트윈도 5월 월간 기획전]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230412_189/1681278110756o34DU_JPEG/EC82ACECA7845EC9B94.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트를 쉽고 편하게 갖자]]></title>
-            <link>https://shopping.naver.com/art/event/20027196</link>
-            <guid>https://shopping.naver.com/art/event/20027196</guid>
-            <pubDate>Sun, 30 Apr 2023 15:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[아트윈도 5월 월간 기획전]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230412_172/1681278958075y4bAH_JPEG/EC9584ED8AB8EC8381ED92885EC9B94.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
