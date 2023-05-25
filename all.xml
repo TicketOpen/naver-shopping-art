@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 01:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 02:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230516_247/1684203118435kGPWz_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8-EC839DED999CEC9EA1ED99.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[창의력이 쑥쑥 커져요! (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20028111</link>
+            <guid>https://shopping.naver.com/art/event/20028111</guid>
+            <pubDate>Thu, 25 May 2023 02:33:35 GMT</pubDate>
+            <content:encoded><![CDATA[아트상품의 재발견]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230516_11/1684202999731nW3M3_JPEG/EC9584ED8AB8-EC96B4EBA6B0EC9DB4EC8381ED9288.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[추상의 아름다움이 담긴 포스터 모음 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20028110</link>
             <guid>https://shopping.naver.com/art/event/20028110</guid>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 May 2023 15:15:08 GMT</pubDate>
             <content:encoded><![CDATA[유니크한 아이템 모음]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230502_251/1682997563610OPjCD_JPEG/EBACB8ED9994EC9EACED9884ED9288.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집에서 멋진 풍경을 감상해요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20027736</link>
-            <guid>https://shopping.naver.com/art/event/20027736</guid>
-            <pubDate>Mon, 08 May 2023 01:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[보기만 해도 힐링 돼요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230502_233/1682997477897ceoK3_JPEG/ED8FACEC8AA4ED84B0-ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
