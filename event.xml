@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 14:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 15:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사진으로 만나는 풍경 작품]]></title>
+            <link>https://shopping.naver.com/art/event/20028279</link>
+            <guid>https://shopping.naver.com/art/event/20028279</guid>
+            <pubDate>Thu, 25 May 2023 15:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[힐링을 위한 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230522_217/1684757152598L4s0i_JPEG/EC82ACECA784-ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[전시 소식] 한 점 하늘, 호암미술관 김환기 회고전]]></title>
             <link>https://shopping.naver.com/art/stores/100138255/news/5000403785</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 23 May 2023 06:19:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/art/stores/100384663/news/5000418678" class="_3awplngVTT N=a:eli.news,i:5000418678 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[컨티뉴] 시원한 여름 그림 인테리어🐳🌊</strong><p class="S7nFgeJfh8">시원한 여름 그림 인테리어🐳🌊 새로운 계절을 맞이해, 리프레쉬가 필요한 요즘 - 안녕하세요. 컨티뉴 입니다. 점점 더워지고 있는 날씨에 집 안을 시원하게 만들어 줄 수 있는 여름 인테리어 그림을 준비했습니다! :) 곧 다가올 여름 준비를 위해 시원한 작품으로 집안을 꾸며보세요!🌊 유영하는 삶, 아레아레아 [ 캔버스액자 A3~A0 size ] 인생은 또 흘러가는 대로 풀리기도 하곤 하니까. 고래의 비, 째찌 [ 캔버스액자 A3~A0 size ] 끝날 기미가 보이지 않는 폭염에 많이 힘들었지? 제주의 여름, 모봄 [ 레더코스터 2개 1set ] 아름다운 우도, 머스터드 [ 장패드 ] 가만히 있어도 좋아요 Slowly, 그녀 [ 종이포스터 400~1000mm size ] 천천히 천천히 아주 조금 늦을 뿐. 해지는바다, 이호석탄 [ 종이포스터 A3~A0 size ] 말로 표현할 수 없는 벅찬 감동이 온 몸으로 스며드는 시간. 마음은 언제나 여행중 우리의 여름, 찬H [ 캔버스액자 A3~A0 size ] 산토리니, 그양 [ 마우스패드 ] 파란 선율이 느껴지는 산토리니의 오후 저희 컨티뉴 제품을 구매하시면 창작자에게 일정 수익이 지원되어 더 좋은 작품을 만드는 원동력이 됩니다. 컨티뉴는 작가님들의 창작 활동을 응원합니다:) 바다그림 여름그림 인테리어액자 바다포스터 여름포스터 인테리어포스터 제주그림 제주바다 여름바다 여름바다그림 여름바다포스터 바다인테리어포스터 고래그림 파란그림 파랑그림 야자수그림</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230523_212/1684814156605jEks7_JPEG/%EC%87%BC%ED%95%91%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B0%B0%EB%84%88_800x484.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230523_212/1684814156605jEks7_JPEG/%EC%87%BC%ED%95%91%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B0%B0%EB%84%88_800x484.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230523_212/1684814156605jEks7_JPEG/%EC%87%BC%ED%95%91%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B0%B0%EB%84%88_800x484.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멋진 인물 작품을 회화로 만나봐요]]></title>
-            <link>https://shopping.naver.com/art/event/20028113</link>
-            <guid>https://shopping.naver.com/art/event/20028113</guid>
-            <pubDate>Mon, 22 May 2023 15:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[아름다운 인물화 작품]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230516_3/1684203249013XXQhb_JPEG/ED9A8CED9994-EC9DB8EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
