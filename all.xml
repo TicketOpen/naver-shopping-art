@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 14:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 15:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[귀여운 동물들을 회화로 만나보세요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20028425</link>
+            <guid>https://shopping.naver.com/art/event/20028425</guid>
+            <pubDate>Thu, 01 Jun 2023 15:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[보고만 있어도 기분 UP!]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230529_40/1685354983764oKIAL_JPEG/ED9A8CED9994-EB8F99EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[ARTISH] 최대 70% 할인! ✨ 아티쉬 단종 특가상품 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/stores/1000013726/news/5000440293</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 29 May 2023 15:15:18 GMT</pubDate>
             <content:encoded><![CDATA[일상 속의 아트]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230522_284/16847570552445c8g8_JPEG/EC9584ED8AB8-ED8CA8EC8598EC868CED9288.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니크한 팝아트 포스터 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20028280</link>
-            <guid>https://shopping.naver.com/art/event/20028280</guid>
-            <pubDate>Sun, 28 May 2023 15:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[선물하기 좋은 인기 작품]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230522_233/1684757236087Ai9dA_JPEG/ED8FACEC8AA4ED84B0-ED8C9DEC9584ED8AB8.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[ARTISH] 최대 70% 할인! ✨ 아티쉬 단종 특가상품 (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230524_69/1684913484153QIiWH_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D_%EC%9C%88%EC%A6%88%EB%8D%B0%EC%9D%B4.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[귀여운 동물들을 회화로 만나보세요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20028425</link>
+            <guid>https://shopping.naver.com/art/event/20028425</guid>
+            <pubDate>Thu, 01 Jun 2023 15:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[보고만 있어도 기분 UP!]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230529_40/1685354983764oKIAL_JPEG/ED9A8CED9994-EB8F99EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[공예디자인으로 채우는 독특한 우리 집 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20028424</link>
             <guid>https://shopping.naver.com/art/event/20028424</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 16 May 2023 16:23:27 GMT</pubDate>
             <content:encoded><![CDATA[깊이가 있는 그림]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230516_163/1684202877863ij2XC_JPEG/ED8FACEC8AA4ED84B0-ECB694EC8381.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정물들의 생생한 사진 작품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20027880</link>
-            <guid>https://shopping.naver.com/art/event/20027880</guid>
-            <pubDate>Mon, 15 May 2023 15:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[분위기가 달라져요~]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230508_256/1683547848752XPEO0_JPEG/EC82ACECA784-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
