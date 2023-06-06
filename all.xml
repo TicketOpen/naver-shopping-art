@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 14:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 15:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매력적인 명화 포스터를 감상해요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20028569</link>
+            <guid>https://shopping.naver.com/art/event/20028569</guid>
+            <pubDate>Tue, 06 Jun 2023 15:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[인기 있는 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230605_112/1685942159772uu5Lj_JPEG/ED8FACEC8AA4ED84B0-EBAA85ED9994.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정겨운 '여행의 풍경', 나윤찬 작가 신작 에디션 출시 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/stores/100138255/news/5000336349</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 04 Jun 2023 15:13:44 GMT</pubDate>
             <content:encoded><![CDATA[볼수록 매력 만점]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230529_132/16853550720651CzHY_JPEG/ED8C90ED9994-ED8C9DEC9584ED8AB8.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리오더 [ 사뜻한 그린오닉스 목걸이 ] (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/stores/100160502/news/5000445089</link>
-            <guid>https://shopping.naver.com/art/stores/100160502/news/5000445089</guid>
-            <pubDate>Fri, 02 Jun 2023 11:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/100160502/news/5000445089" class="_3awplngVTT N=a:eli.news,i:5000445089 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">프리오더 [ 사뜻한 그린오닉스 목걸이 ]</strong><p class="S7nFgeJfh8">사뜻한 그린오닉스 목걸이 Pre-order 6월 기획 이음 6월 기획 Pre-Order 사뜻한 그린오닉스 목걸이 229,000 --&gt; 189,000 4만원 할인! 이음에서는 싱그러운 6월을 맞아 초록초록한 목걸이를 미리 같이 주문해 봅니다. 같이 주문해서 더 좋은가격으로 만나실수 있습니다. 주문기간 : 6월 2일 ~6월 12일 작품제작기간 : 6월 13일~ 6월 30일 배송 시작: 7월 1일 부터 주문기간에 할인가격으로 오픈합니다. 아주 작은 물건이라도 잠시 쓰고 버려지는 물건이 너무 많아 속상합니다. 좋은 재료를 사용하고, 오래 사용해도 고쳐쓸 수 있고, 그 사람이 담겨 점점 멋드러지는 물건을 만들고자 노력합니다. 이 지구를 위해서요 [ 작가의 작품 . 작품관리 ] 고객 한분한분을 위해 주문후 핸드메이드로 작품제작을 하고 평생 AS로 최선을 다합니다. *** 작품포장은 선물용으로 준비했습니다. *** 선물용 포장</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230602_224/1685703114639Qe8uI_JPEG/2023_6%EA%B1%B0%EC%9A%B8%ED%94%84%EB%A6%AC%EC%98%A4%EB%8D%94.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230602_224/1685703114639Qe8uI_JPEG/2023_6%EA%B1%B0%EC%9A%B8%ED%94%84%EB%A6%AC%EC%98%A4%EB%8D%94.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230602_224/1685703114639Qe8uI_JPEG/2023_6%EA%B1%B0%EC%9A%B8%ED%94%84%EB%A6%AC%EC%98%A4%EB%8D%94.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정겨운 '여행의 풍경', 나윤찬 작가 신작 에디션 출시 (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230601_146/1685601005803wTg3z_JPEG/%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%EC%8D%B8%EB%84%A4%EC%9D%BC_mo.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[매력적인 명화 포스터를 감상해요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20028569</link>
+            <guid>https://shopping.naver.com/art/event/20028569</guid>
+            <pubDate>Tue, 06 Jun 2023 15:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[인기 있는 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230605_112/1685942159772uu5Lj_JPEG/ED8FACEC8AA4ED84B0-EBAA85ED9994.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세상을 색다르게 담은 추상화 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20028427</link>
             <guid>https://shopping.naver.com/art/event/20028427</guid>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 22 May 2023 15:15:23 GMT</pubDate>
             <content:encoded><![CDATA[아름다운 인물화 작품]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230516_3/1684203249013XXQhb_JPEG/ED9A8CED9994-EC9DB8EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특별한 공예디자인 작품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20028112</link>
-            <guid>https://shopping.naver.com/art/event/20028112</guid>
-            <pubDate>Sun, 21 May 2023 15:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[다양하게 골라요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230516_247/1684203118435kGPWz_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8-EC839DED999CEC9EA1ED99.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
