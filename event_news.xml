@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 05:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 06:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠션커버 신규 라인업 출시 20% 할인]]></title>
+            <link>https://shopping.naver.com/art/stores/1000013726/news/5000463849</link>
+            <guid>https://shopping.naver.com/art/stores/1000013726/news/5000463849</guid>
+            <pubDate>Fri, 16 Jun 2023 06:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[[NEW] 새로운 쿠션커버 라인업! 6/16~6/30 20% SALE 오랜만에 쿠션커버 신규 라인업이 출시되었습니다! 여기에 정말 많은 분들이 기다려주셨던 이왈종 쿠션커버 재입고 소식까지! 리뉴얼된 옥스퍼드 소재도 꼭 확인해주세요. 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) https://www.artish.co.kr/main/index.php]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230616_110/1686892731321180EJ_JPEG/%EC%BF%A0%EC%85%98%EC%BB%A4%EB%B2%84-%EC%8B%A0%EA%B7%9C.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Artist] 일상의 스쳐가는 모습을 그리는, 선유 작가]]></title>
             <link>https://shopping.naver.com/art/stores/100384663/news/5000463556</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 14 Jun 2023 07:13:48 GMT</pubDate>
             <content:encoded><![CDATA[함축적 오브제로 삶의 다양한 단면을 빚어내는 이남숙 작가님의 신규 에디션이 출시되었습니다. 강렬한 그래피티와 두터운 마띠에르로 그려진 캐릭터들의 천진난만한 모습에서 생명의 경이로운 힘을 느낄 수 있어요. 즐거운 상상력이 가득한 작품으로 공간에 유쾌함을 더해보세요! 🧚‍♀️🧚‍♂️🧚‍♀️ 이남숙 작가님의 &lt;HAPPY BLOSSOM&gt; Collection 엘디프에서 만나보세요. :) ••••• "저는 작업을 할 때 가장 행복하고 이것이 제가 가장 잘 할 수 있는 일이라 생각합니다. 이러한 과정을 통해 만들어진 제 작품을 사랑해주시고 공감해주시는 분들께 감사드립니다." - 이남숙 작가 인터뷰 중 그림 선물 L'Diff Homepage L'Diff Instagram]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20190125_119/100940222_1548386283583v2Tsc_JPEG/%BE%C6%C6%AE%C0%A9%B5%B5_%C5%B8%C0%CC%C6%B2.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윈즈데이] 뜨거운 햇빛과 비로부터 지켜줄 에바알머슨 양우산 20% 할인☂]]></title>
-            <link>https://shopping.naver.com/art/stores/1000013726/news/5000460241</link>
-            <guid>https://shopping.naver.com/art/stores/1000013726/news/5000460241</guid>
-            <pubDate>Wed, 14 Jun 2023 07:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[6월 2주차 아티쉬 윈즈데이 뜨거운 햇빛과 변덕스러운 날씨때문에 가방에 우산을 가지고 다니는 분들이 보여요 에바알머슨이 그려진 아티쉬 양우산은 UV코팅처리와 발수처리가 되어있어서 양산과 우산 두가지 용도로 쓰기 좋습니다 콤팩트한 사이즈와 가벼운 무게로 제작된 에바알머슨 양우산을 20% 할인된 가격에 만나보세요 🌷🌼🌻 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) https://www.artish.co.kr/main/index.php]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230614_191/1686723963293sM7iR_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D_%EC%9C%88%EC%A6%88%EB%8D%B0%EC%9D%B4.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
