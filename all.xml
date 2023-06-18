@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 15:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 16:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[유니크한 분위기의 그래픽 포스터 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20028736</link>
             <guid>https://shopping.naver.com/art/event/20028736</guid>
-            <pubDate>Sun, 18 Jun 2023 15:14:36 GMT</pubDate>
+            <pubDate>Sun, 18 Jun 2023 15:14:25 GMT</pubDate>
             <content:encoded><![CDATA[유쾌하고 개성 넘치는 작품]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230613_101/1686631157587h1hSI_JPEG/ED8FACEC8AA4ED84B0-EAB7B8EB9E98ED94BD.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
@@ -179,7 +179,7 @@
             <title><![CDATA[바다 장어 원투 낚시 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20028739</link>
             <guid>https://shopping.naver.com/art/event/20028739</guid>
-            <pubDate>Sun, 18 Jun 2023 15:14:36 GMT</pubDate>
+            <pubDate>Sun, 18 Jun 2023 15:14:25 GMT</pubDate>
             <content:encoded><![CDATA[#바다낚시#장어낚시]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230613_147/1686631779871CwwYJ_JPEG/EBB094EB8BA4EBA6ACEC8AA4ED8C85.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
