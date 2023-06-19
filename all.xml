@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 01:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 02:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Sun, 18 Jun 2023 15:14:25 GMT</pubDate>
             <content:encoded><![CDATA[유쾌하고 개성 넘치는 작품]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230613_101/1686631157587h1hSI_JPEG/ED8FACEC8AA4ED84B0-EAB7B8EB9E98ED94BD.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바다 장어 원투 낚시 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20028739</link>
-            <guid>https://shopping.naver.com/art/event/20028739</guid>
-            <pubDate>Sun, 18 Jun 2023 15:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[#바다낚시#장어낚시]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230613_147/1686631779871CwwYJ_JPEG/EBB094EB8BA4EBA6ACEC8AA4ED8C85.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿠션커버 신규 라인업 출시 20% 할인 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -88,10 +80,18 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230613_146/1686631054669HGuI3_JPEG/EC82ACECA784-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[액자로도, 시계로도 활용 가능한 아티쉬 LED시계 20% (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/1000013726/news/5000462621</link>
+            <guid>https://shopping.naver.com/art/stores/1000013726/news/5000462621</guid>
+            <pubDate>Thu, 15 Jun 2023 11:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/1000013726/news/5000462621" class="_3awplngVTT N=a:eli.news,i:5000462621 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">액자로도, 시계로도 활용 가능한 아티쉬 LED시계 20%</strong><p class="S7nFgeJfh8">우리집 벽에는 무엇을 걸어야 할 지 고민되나요? 시계? 아니면 그림? 이런 고민이 들 때는 아티쉬 LED 벽시계를 추천합니다!🤗 그림액자와 시계의 기능을 동시에 하는 공간활용 만점 시계랍니다.🕑 평소에는 인테리어 액자로 사용하고, 시간이 궁금할 때 시계로 사용하는 아티쉬 LED시계입니다. 그림을 터치하거나 박수 소리를 내 시간이 나타나게 해보세요.⏰ 내일까지 20% 할인 진행되니 서둘러주세요.🏃🏻‍♀️💨</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230615_90/1686824139330TbrA7_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230615_90/1686824139330TbrA7_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230615_90/1686824139330TbrA7_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[NEW!] 장욱진 작가 에디션 판화 오픈! (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
             <link>https://shopping.naver.com/art/stores/100438513/news/5000465687</link>
             <guid>https://shopping.naver.com/art/stores/100438513/news/5000465687</guid>
-            <pubDate>Mon, 19 Jun 2023 01:19:48 GMT</pubDate>
+            <pubDate>Mon, 19 Jun 2023 01:19:42 GMT</pubDate>
             <content:encoded><![CDATA[장욱진 작가님의 에디션 판화 오픈! 안녕하세요 아트앤에디션입니다. 장욱진 작가님의 에디션 판화 오픈 소식을 전해드리려고 하는데요! 장욱진 작가님은 자연과 사물을 그대로 재현하는 것이 아니라 사물 안에 내재해있는 근원적이고 정신적인 본질을 추구하여 동화적이고 이상적인 내면세계를 표현하였습니다. 장욱진 작가님의 단순한 선과 독창적인 색채를 판화로 만나보세요! 순수함 가득한 고향의 풍경 장욱진은 박수근, 이중섭, 김환기 등과 함께 한국의 근현대 미술을 대표하는2세대 서양화가이다. 일본 동경제국미술학교에서 유화를 전공하고 한국 전쟁 이후 서울대학교 미술대학에서 교수(1954-1960)로 재직하였으나, 작품 창작에 몰입하기 위해 6년만에 사임한다. 자연과 더불어 살며 단순한 선과 독창적인 색채의 그림을 선보인 그는 세련된 표현과 조형적 치밀성으로 독특한 화풍을 선보였다. 다정다감한 집들과 시골풍경, 산, 까치, 강아지, 소, 나무, 해와 달 등 일상의 흔하고 소박한 것들을 소재로 해학이 담긴 장욱진 예술의 전형을 열었다. 자연과 사물들을 그대로 재현하는 것이 아니라 사물 안에 내재해 있는 근원적이고 정신적인 본질을 추구하였다. 그렇기에 장욱진의 작품은 단순하면서도 대담하다. 평생을 “나는 심플하다” 라고 외치며 자연속에 살며 그림을 통해 동화적이고 이상적인 내면세계를 표현했다. 1990년 12월 27일에 73세의 나이로 작고하였다]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230619_296/1687135359209dOGFK_JPEG/%EC%9E%A5%EC%9A%B1%EC%A7%841.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
@@ -176,14 +176,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230613_101/1686631157587h1hSI_JPEG/ED8FACEC8AA4ED84B0-EAB7B8EB9E98ED94BD.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[바다 장어 원투 낚시 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20028739</link>
-            <guid>https://shopping.naver.com/art/event/20028739</guid>
-            <pubDate>Sun, 18 Jun 2023 15:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[#바다낚시#장어낚시]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230613_147/1686631779871CwwYJ_JPEG/EBB094EB8BA4EBA6ACEC8AA4ED8C85.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[정물들의 생생한 사진 작품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20028735</link>
             <guid>https://shopping.naver.com/art/event/20028735</guid>
@@ -246,6 +238,14 @@
             <pubDate>Sun, 04 Jun 2023 15:13:44 GMT</pubDate>
             <content:encoded><![CDATA[볼수록 매력 만점]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230529_132/16853550720651CzHY_JPEG/ED8C90ED9994-ED8C9DEC9584ED8AB8.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀여운 동물들을 회화로 만나보세요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20028425</link>
+            <guid>https://shopping.naver.com/art/event/20028425</guid>
+            <pubDate>Mon, 19 Jun 2023 02:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[보고만 있어도 기분 UP!]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230529_40/1685354983764oKIAL_JPEG/ED9A8CED9994-EB8F99EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

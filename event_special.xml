@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 01:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 02:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Sun, 18 Jun 2023 15:14:36 GMT</pubDate>
             <content:encoded><![CDATA[유쾌하고 개성 넘치는 작품]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230613_101/1686631157587h1hSI_JPEG/ED8FACEC8AA4ED84B0-EAB7B8EB9E98ED94BD.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바다 장어 원투 낚시]]></title>
-            <link>https://shopping.naver.com/art/event/20028739</link>
-            <guid>https://shopping.naver.com/art/event/20028739</guid>
-            <pubDate>Sun, 18 Jun 2023 15:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[#바다낚시#장어낚시]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230613_147/1686631779871CwwYJ_JPEG/EBB094EB8BA4EBA6ACEC8AA4ED8C85.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정물들의 생생한 사진 작품]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Sun, 04 Jun 2023 15:13:57 GMT</pubDate>
             <content:encoded><![CDATA[볼수록 매력 만점]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230529_132/16853550720651CzHY_JPEG/ED8C90ED9994-ED8C9DEC9584ED8AB8.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀여운 동물들을 회화로 만나보세요]]></title>
+            <link>https://shopping.naver.com/art/event/20028425</link>
+            <guid>https://shopping.naver.com/art/event/20028425</guid>
+            <pubDate>Mon, 19 Jun 2023 02:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[보고만 있어도 기분 UP!]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230529_40/1685354983764oKIAL_JPEG/ED9A8CED9994-EB8F99EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

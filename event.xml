@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 01:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 02:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Sun, 18 Jun 2023 15:14:25 GMT</pubDate>
             <content:encoded><![CDATA[유쾌하고 개성 넘치는 작품]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230613_101/1686631157587h1hSI_JPEG/ED8FACEC8AA4ED84B0-EAB7B8EB9E98ED94BD.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바다 장어 원투 낚시]]></title>
-            <link>https://shopping.naver.com/art/event/20028739</link>
-            <guid>https://shopping.naver.com/art/event/20028739</guid>
-            <pubDate>Sun, 18 Jun 2023 15:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[#바다낚시#장어낚시]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230613_147/1686631779871CwwYJ_JPEG/EBB094EB8BA4EBA6ACEC8AA4ED8C85.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿠션커버 신규 라인업 출시 20% 할인]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Thu, 15 Jun 2023 15:16:02 GMT</pubDate>
             <content:encoded><![CDATA[사진으로 힐링해요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230613_146/1686631054669HGuI3_JPEG/EC82ACECA784-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[액자로도, 시계로도 활용 가능한 아티쉬 LED시계 20%]]></title>
+            <link>https://shopping.naver.com/art/stores/1000013726/news/5000462621</link>
+            <guid>https://shopping.naver.com/art/stores/1000013726/news/5000462621</guid>
+            <pubDate>Mon, 19 Jun 2023 02:42:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/1000013726/news/5000462621" class="_3awplngVTT N=a:eli.news,i:5000462621 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">액자로도, 시계로도 활용 가능한 아티쉬 LED시계 20%</strong><p class="S7nFgeJfh8">우리집 벽에는 무엇을 걸어야 할 지 고민되나요? 시계? 아니면 그림? 이런 고민이 들 때는 아티쉬 LED 벽시계를 추천합니다!🤗 그림액자와 시계의 기능을 동시에 하는 공간활용 만점 시계랍니다.🕑 평소에는 인테리어 액자로 사용하고, 시간이 궁금할 때 시계로 사용하는 아티쉬 LED시계입니다. 그림을 터치하거나 박수 소리를 내 시간이 나타나게 해보세요.⏰ 내일까지 20% 할인 진행되니 서둘러주세요.🏃🏻‍♀️💨</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230615_90/1686824139330TbrA7_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230615_90/1686824139330TbrA7_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230615_90/1686824139330TbrA7_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
