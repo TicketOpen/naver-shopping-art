@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 14:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 15:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[창의력을 키워주는 상품들]]></title>
+            <link>https://shopping.naver.com/art/event/20029667</link>
+            <guid>https://shopping.naver.com/art/event/20029667</guid>
+            <pubDate>Thu, 20 Jul 2023 15:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[디테일이 달라요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230718_298/1689648088520Ajf3B_JPEG/EC96B4EBA6B0EC9DB4EC8381ED9288.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다채로운 정물 작품 모음]]></title>
             <link>https://shopping.naver.com/art/event/20029666</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 03 Jul 2023 15:16:40 GMT</pubDate>
             <content:encoded><![CDATA[컬러로 만들어지는 추상화]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230626_1/1687784345037q6rhn_JPEG/ED9A8CED9994-ECB694EC8381.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국미가 느껴지는 공예디자인]]></title>
-            <link>https://shopping.naver.com/art/event/20029148</link>
-            <guid>https://shopping.naver.com/art/event/20029148</guid>
-            <pubDate>Sun, 02 Jul 2023 15:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[다양하게 골라요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230626_133/1687784098884caf7p_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8-ECA084ED86B5EAB3B5EC98.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
