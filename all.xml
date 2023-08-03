@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 15:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 16:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[멋진 인물 작품을 회화로 만나봐요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20029954</link>
             <guid>https://shopping.naver.com/art/event/20029954</guid>
-            <pubDate>Thu, 03 Aug 2023 15:15:46 GMT</pubDate>
+            <pubDate>Thu, 03 Aug 2023 15:15:32 GMT</pubDate>
             <content:encoded><![CDATA[회화 작품 모음]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230731_112/1690786238266r1JFS_JPEG/EC9DB8EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
