@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 14:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 15:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멋진 풍경을 실내에서 감상해요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20029956</link>
+            <guid>https://shopping.naver.com/art/event/20029956</guid>
+            <pubDate>Mon, 07 Aug 2023 15:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[힐링되는 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230731_180/1690786561742N3L7Q_JPEG/ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[NEW] 나 혼자 산다 맥시멀리스트의 그 작품 ! (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/stores/100138255/news/5000572060</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 01 Aug 2023 15:14:52 GMT</pubDate>
             <content:encoded><![CDATA[한국미가 느껴져요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230731_1/1690786086432dwLDR_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ARTISH] 8월, 아티쉬의 새로운 할인소식💛 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/stores/1000013726/news/5000551857</link>
-            <guid>https://shopping.naver.com/art/stores/1000013726/news/5000551857</guid>
-            <pubDate>Tue, 01 Aug 2023 05:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/1000013726/news/5000551857" class="_3awplngVTT N=a:eli.news,i:5000551857 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[ARTISH] 8월, 아티쉬의 새로운 할인소식💛</strong><p class="S7nFgeJfh8">긴 장마와 여름 더위에 지쳐있지는 않나요? 그래서 이맘 때에는 많은 사람이 기력을 보충하기 위해 복날에 삼계탕을 먹고, 시원한 바다나 계곡으로 물놀이를 떠나죠. 아티쉬도 여러분의 지친 몸과 마음을 달래줄, 여름날의 선물같은 소식을 들고 왔어요. 신상품 소식부터 특별한 이벤트까지, 같이 한번 살펴볼까요? [NEW] 리유저블 마켓백 8/1~8/16 출시기념 20% 할인​​​​​​​ 주머니에 쏙, 아티쉬 마켓백이 신상으로 돌아왔습니다! 평소에는 작게 접어 보관하고, 담을 물건이 생기면 펼쳐서 사용해주세요. 비닐봉투 사용도 줄이고, 예쁜 가방도 가질 수 있는 1석2조 소비를 할 수 있어요. [기획전] 나만의 책상 꾸미기 - 아티쉬 데스크테리어 아이템 8/1~8/16 최대 20% 할인​​​​​​​ 시시각각 변화하는 나의 기분과 톡톡 튀는 개성을 표현할 수 있는 나만의 공간, 책상 1. Stationery item 2.Wallterior ​​​​​​​ 3.Point item​​​​​​​ ​​​​​​​ 4. Office item ​​​​​​​ [NEW] 조나스 우드 포스터 식물에 매료된 아티스트 조나스 우드의 새로운 포스터가 들어왔어요. 이번 포스터에는 커다란 선반에 다양한 식물 화분이 놓인 풍경을 묘사했는데요. 플렌테리어를 좋아하시는 분이라면 이번 포스터를 아주 마음에 들어하실 것 같습니다. 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) https://www.artish.co.kr/main/index.php</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230801_51/1690865681565OEBGB_JPEG/%EB%A7%88%EC%BC%93%EB%B0%B1.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230801_51/1690865681565OEBGB_JPEG/%EB%A7%88%EC%BC%93%EB%B0%B1.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230801_51/1690865681565OEBGB_JPEG/%EB%A7%88%EC%BC%93%EB%B0%B1.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[NEW] 나 혼자 산다 맥시멀리스트의 그 작품 ! (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230731_266/1690789393103IXliY_JPEG/%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D_%EC%9C%88%EC%A6%88%EB%8D%B0%EC%9D%B44.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[멋진 풍경을 실내에서 감상해요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20029956</link>
+            <guid>https://shopping.naver.com/art/event/20029956</guid>
+            <pubDate>Mon, 07 Aug 2023 15:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[힐링되는 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230731_180/1690786561742N3L7Q_JPEG/ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[재미있는 판화 작품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20029955</link>
             <guid>https://shopping.naver.com/art/event/20029955</guid>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 23 Jul 2023 15:13:28 GMT</pubDate>
             <content:encoded><![CDATA[분위기 전환에 제격]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230718_197/1689648187347Xmqrw_JPEG/EC8B9DEAB8B0.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창의력을 키워주는 상품들 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20029667</link>
-            <guid>https://shopping.naver.com/art/event/20029667</guid>
-            <pubDate>Thu, 20 Jul 2023 15:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[디테일이 달라요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230718_298/1689648088520Ajf3B_JPEG/EC96B4EBA6B0EC9DB4EC8381ED9288.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
