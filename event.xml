@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 14:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 15:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[휴대폰에 특별한 아트를 담아봐요~]]></title>
+            <link>https://shopping.naver.com/art/event/20030090</link>
+            <guid>https://shopping.naver.com/art/event/20030090</guid>
+            <pubDate>Thu, 10 Aug 2023 15:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 상품으로 꾸며요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230807_157/16913886411597dnMb_JPEG/EC9584ED8AB8EC8381ED9288-ED9CB4EB8C80ED8FB0EC95A1EC84.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예술과 함께하는 티타임, 최윤정 작가 아트 티코스터 출시 - 엘디프]]></title>
             <link>https://shopping.naver.com/art/stores/100340190/news/5000588979</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 07 Aug 2023 15:14:57 GMT</pubDate>
             <content:encoded><![CDATA[힐링되는 작품]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230731_180/1690786561742N3L7Q_JPEG/ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재미있는 판화 작품]]></title>
-            <link>https://shopping.naver.com/art/event/20029955</link>
-            <guid>https://shopping.naver.com/art/event/20029955</guid>
-            <pubDate>Sun, 06 Aug 2023 15:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[눈이 즐거운 그림]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230731_83/1690786385009zuHRr_JPEG/ED8C90ED9994.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
