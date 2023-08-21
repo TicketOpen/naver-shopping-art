@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 14:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 15:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유니크한 문구류로 일상 속 아름다움 찾기]]></title>
+            <link>https://shopping.naver.com/art/event/20030266</link>
+            <guid>https://shopping.naver.com/art/event/20030266</guid>
+            <pubDate>Mon, 21 Aug 2023 15:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[아트상품으로 꾸며요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230813_106/1691930869622oVkaJ_JPEG/EC9584ED8AB8EC8381ED9288-EBACB8EAB5ACEBA598.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재미있는 팝아트의 세계]]></title>
             <link>https://shopping.naver.com/art/event/20030265</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 06 Aug 2023 15:13:29 GMT</pubDate>
             <content:encoded><![CDATA[눈이 즐거운 그림]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230731_83/1690786385009zuHRr_JPEG/ED8C90ED9994.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멋진 인물 작품을 회화로 만나봐요]]></title>
-            <link>https://shopping.naver.com/art/event/20029954</link>
-            <guid>https://shopping.naver.com/art/event/20029954</guid>
-            <pubDate>Thu, 03 Aug 2023 15:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[회화 작품 모음]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230731_112/1690786238266r1JFS_JPEG/EC9DB8EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
