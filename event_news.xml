@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 08:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 09:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[윈즈데이]  시원한 음료를 담기 좋은 유리컵 20% 할인]]></title>
+            <link>https://shopping.naver.com/art/stores/1000013726/news/5000623430</link>
+            <guid>https://shopping.naver.com/art/stores/1000013726/news/5000623430</guid>
+            <pubDate>Wed, 23 Aug 2023 09:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[🧊 🧊 얼음을 넣으면 더 예쁜 유리컵이 지금 할인중이에요. 다음주 진행되니 유리컵 필요하신 분들은 서둘러주세요!💨 🧊 🧊 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) https://www.artish.co.kr/main/index.php]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230823_22/16927790418161uXia_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D_%EC%9C%88%EC%A6%88%EB%8D%B0%EC%9D%B4.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SALE] LOOK at ME, 아티스트 콜라보 거울 출시]]></title>
             <link>https://shopping.naver.com/art/stores/100138255/news/5000623361</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 17 Aug 2023 06:17:28 GMT</pubDate>
             <content:encoded><![CDATA[[NEW] 마그넷 8/17~8/31 출시기념 1+1 이벤트! 일상 생활에서 마그넷이 은근 많이 필요한 것 같아요. 현관에 차키를 걸어두거나 냉장고에 메모나 사진을 붙일 때 유용하게 쓰이죠. 이왕이면 예쁘기까지 한 아티쉬 마그넷으로 공간에 생기를 불어넣어보세요💖 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) https://www.artish.co.kr/main/index.php]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230817_125/1692252245802Hm5Qa_JPEG/%EB%A7%88%EA%B7%B8%EB%84%B7-%EC%B6%9C%EC%8B%9C.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윈즈데이] 에바알머슨, 머그&디저트접시 20%할인]]></title>
-            <link>https://shopping.naver.com/art/stores/1000013726/news/5000612734</link>
-            <guid>https://shopping.naver.com/art/stores/1000013726/news/5000612734</guid>
-            <pubDate>Wed, 16 Aug 2023 06:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.16-08.23 20% SALE 행복을 그리는 작가 에바 알머슨, 그녀가 식탁에 다시 한번 행복을 가져왔습니다. 에바 알머슨의 디저트 접시와 머그잔으로 식탁에서 더욱 즐겁고 특별하게 보내보세요.]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230816_207/1692165848986rO6aA_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D_%EC%9C%88%EC%A6%88%EB%8D%B0%EC%9D%B4.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
