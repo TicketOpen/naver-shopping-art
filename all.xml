@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 14:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 15:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아트상품으로 분위기 전환 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20030669</link>
+            <guid>https://shopping.naver.com/art/event/20030669</guid>
+            <pubDate>Thu, 31 Aug 2023 15:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[특별함을 원해요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230828_69/1693209501512AvxQ7_JPEG/EC9584ED8AB8-EC839DED999CEC9EA1ED9994.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[한정 쿠폰] 이왈종판화, 제주의 풍요로움을 담다, (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/stores/100138255/news/5000398054</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 28 Aug 2023 15:15:12 GMT</pubDate>
             <content:encoded><![CDATA[시선을 끄는 매력]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230822_17/1692672870084SMRIe_JPEG/ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동물 작품으로 꾸며요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20030543</link>
-            <guid>https://shopping.naver.com/art/event/20030543</guid>
-            <pubDate>Sun, 27 Aug 2023 15:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[보기만 해도 힐링돼요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230822_58/169267276135192Pqj_JPEG/ED8C90ED9994.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[한정 쿠폰] 이왈종판화, 제주의 풍요로움을 담다, (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230824_79/1692818791292qYcT1_JPEG/_2308_artwindo(527).jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아트상품으로 분위기 전환 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20030669</link>
+            <guid>https://shopping.naver.com/art/event/20030669</guid>
+            <pubDate>Thu, 31 Aug 2023 15:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[특별함을 원해요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230828_69/1693209501512AvxQ7_JPEG/EC9584ED8AB8-EC839DED999CEC9EA1ED9994.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[명화를 한눈에 담아요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20030668</link>
             <guid>https://shopping.naver.com/art/event/20030668</guid>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 14 Aug 2023 15:13:21 GMT</pubDate>
             <content:encoded><![CDATA[보고만 있어도 기분 UP!]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230807_1/1691388821222NpdiR_JPEG/ED9A8CED9994-EB8F99EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공예디자인으로 찾는 나만의 스타일 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20030092</link>
-            <guid>https://shopping.naver.com/art/event/20030092</guid>
-            <pubDate>Sun, 13 Aug 2023 15:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[나만의 유니크한 소품]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230807_104/16913887388217cvrG_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8-EC839DED999CEC9EA1ED99.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
