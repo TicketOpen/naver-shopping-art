@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 14:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 15:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추석맞이특별할인전]]></title>
+            <link>https://shopping.naver.com/art/stores/100327883/news/5000653468</link>
+            <guid>https://shopping.naver.com/art/stores/100327883/news/5000653468</guid>
+            <pubDate>Sat, 09 Sep 2023 15:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 황금같은 추석을 맞아 빅이벤트를 준비했습니다. 풍수지리에 좋은 인기 작품들을 5일간 특별할인 행사로 진행합니다. 마음에는 들었는데 가격 때문에 망설이셨다면 이번 기회는 행운이 되실 수도 있겠습니다. 직접 실물을 보고싶으시다면 사전에 전화 예약으로 관람 가능합니다. 문의 : 031 337 2429 주소는 관심 주셔서 감사드리며, 행복한 추석 연휴 보내시길 바랍니다 🍀]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230909_98/1694267144319fcING_JPEG/tmp7383484038826750835.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SALE] 풍요롭게 복福스럽게, 추석맞이 10% 세일 기획전]]></title>
             <link>https://shopping.naver.com/art/stores/100138255/news/5000645299</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Sep 2023 08:17:58 GMT</pubDate>
             <content:encoded><![CDATA[일리야 밀스타인 마그넷 9/1~9/14 출시기념 1+1 이벤트! 아티쉬의 베스트 작가 일리야 밀스타인의 마그넷 컬렉션이 출시되었습니다. 다양한 컨셉의 마그넷을 확인하고 여러분의 취향에 맞는 디자인을 찾아보세요. 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) https://www.artish.co.kr/main/index.php]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230901_145/1693554069853j3gMw_JPEG/%EC%9D%BC%EB%A6%AC%EC%95%BC-%EB%A7%88%EA%B7%B8%EB%84%B7.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 보온 아이템 20% 할인🍁]]></title>
-            <link>https://shopping.naver.com/art/stores/1000013726/news/5000637910</link>
-            <guid>https://shopping.naver.com/art/stores/1000013726/news/5000637910</guid>
-            <pubDate>Fri, 01 Sep 2023 08:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[가을 보온 아이템 ​​​​​​​​9/1~9/14 스카프&amp;담요 전체 20% 할인 ​​​​​​​점점 서늘해지는 날씨를 대비해요. 아티쉬 추천 가을 보온 아이템! 1. 스카프 목이 따뜻하면 온 몸이 따뜻해져요. 목을 보호해줄 가벼운 스카프를 둘러주세요. 2. 담요 가을, 겨울 사무실 필수템! 슬슬 담요 하나 장만해 두어야겠어요. ​​​​​​​ 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) https://www.artish.co.kr/main/index.php]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230901_167/1693553697054ECyCO_JPEG/%EA%B0%80%EC%9D%84-%EB%B3%B4%EC%98%A8-%EC%95%84%EC%9D%B4%ED%85%9C.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
