@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 14:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 15:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트렌디한 감각의 그래픽 아트 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20030802</link>
+            <guid>https://shopping.naver.com/art/event/20030802</guid>
+            <pubDate>Sun, 10 Sep 2023 15:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[유니크한 멋에 빠져들어]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230904_194/16938257433877WHNH_JPEG/ED8FACEC8AA4ED84B0-EAB7B8EB9E98ED94BD.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추석맞이특별할인전 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/stores/100327883/news/5000653468</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 04 Sep 2023 15:14:20 GMT</pubDate>
             <content:encoded><![CDATA[힐링 되는 작품]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230828_120/1693209679289b6Sq5_JPEG/ED9A8CED9994-ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 Kiaf SEOUL 키아프 서울 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/stores/100347664/news/5000641059</link>
-            <guid>https://shopping.naver.com/art/stores/100347664/news/5000641059</guid>
-            <pubDate>Mon, 04 Sep 2023 05:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/100347664/news/5000641059" class="_3awplngVTT N=a:eli.news,i:5000641059 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">2023 Kiaf SEOUL 키아프 서울</strong><p class="S7nFgeJfh8">2023 Kiaf SEOUL 키아프 서울 20여년의 역사를 가진 한국 최초의 국제아트페어이자 전 세계 갤러리들이 참가하는 Kiaf SEOUL이 오는 9월 6일 VIP 프리뷰를 시작으로 10일까지 코엑스에서 진행됩니다. 저희 서정아트도 다양한 작품으로 찾아뵐 예정이니 여러분들의 많은 관심 부탁드립니다 :) ⓒKiaf SEOUL ⓒ서정아트 ※ 아트페어 기간 내 을지로관은 휴관하오니 방문시 참고하시기 바랍니다. (* 위 사진 참고) 📅 전시 일정 2023. 09. 07 ~ 2023. 09. 10 VIP Preview 2023. 09. 06 📌 전시 장소 COEX A108 서정아트</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230904_42/1693803043610lokCm_JPEG/230907-Kiaf-thumb-naver.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230904_42/1693803043610lokCm_JPEG/230907-Kiaf-thumb-naver.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230904_42/1693803043610lokCm_JPEG/230907-Kiaf-thumb-naver.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[추석맞이특별할인전 (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230901_145/1693554069853j3gMw_JPEG/%EC%9D%BC%EB%A6%AC%EC%95%BC-%EB%A7%88%EA%B7%B8%EB%84%B7.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[트렌디한 감각의 그래픽 아트 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20030802</link>
+            <guid>https://shopping.naver.com/art/event/20030802</guid>
+            <pubDate>Sun, 10 Sep 2023 15:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[유니크한 멋에 빠져들어]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230904_194/16938257433877WHNH_JPEG/ED8FACEC8AA4ED84B0-EAB7B8EB9E98ED94BD.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[색다른 모습의 정물 작품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20030804</link>
             <guid>https://shopping.naver.com/art/event/20030804</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 22 Aug 2023 15:14:03 GMT</pubDate>
             <content:encoded><![CDATA[특별하게 꾸며요~]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230822_149/1692672516461FYXS2_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니크한 문구류로 일상 속 아름다움 찾기 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20030266</link>
-            <guid>https://shopping.naver.com/art/event/20030266</guid>
-            <pubDate>Mon, 21 Aug 2023 15:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[아트상품으로 꾸며요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230813_106/1691930869622oVkaJ_JPEG/EC9584ED8AB8EC8381ED9288-EBACB8EAB5ACEBA598.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
