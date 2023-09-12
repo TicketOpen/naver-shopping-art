@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 14:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 15:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포인트가 되는 장식품으로 꾸며요]]></title>
+            <link>https://shopping.naver.com/art/event/20031011</link>
+            <guid>https://shopping.naver.com/art/event/20031011</guid>
+            <pubDate>Tue, 12 Sep 2023 15:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[톡톡 튀는 데코 아이템]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230911_268/1694431929833XCp61_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[NEW] 나 혼자 산다 위너 송민호님이 선택한 작품!]]></title>
             <link>https://shopping.naver.com/art/stores/100138255/news/5000572060</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 09 Sep 2023 15:12:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/art/stores/100327883/news/5000653468" class="_3awplngVTT N=a:eli.news,i:5000653468 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">추석맞이특별할인전</strong><p class="S7nFgeJfh8">2023년 황금같은 추석을 맞아 빅이벤트를 준비했습니다. 풍수지리에 좋은 인기 작품들을 5일간 특별할인 행사로 진행합니다. 마음에는 들었는데 가격 때문에 망설이셨다면 이번 기회는 행운이 되실 수도 있겠습니다. 직접 실물을 보고싶으시다면 사전에 전화 예약으로 관람 가능합니다. 문의 : 031 337 2429 주소는 관심 주셔서 감사드리며, 행복한 추석 연휴 보내시길 바랍니다 🍀</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230909_98/1694267144319fcING_JPEG/tmp7383484038826750835.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230909_98/1694267144319fcING_JPEG/tmp7383484038826750835.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230909_98/1694267144319fcING_JPEG/tmp7383484038826750835.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NEW!] 이경훈 작가 에디션 판화 오픈!]]></title>
-            <link>https://shopping.naver.com/art/stores/100438513/news/5000650914</link>
-            <guid>https://shopping.naver.com/art/stores/100438513/news/5000650914</guid>
-            <pubDate>Fri, 08 Sep 2023 03:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/100438513/news/5000650914" class="_3awplngVTT N=a:eli.news,i:5000650914 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[NEW!] 이경훈 작가 에디션 판화 오픈!</strong><p class="S7nFgeJfh8">이경훈 작가님의 에디션 판화 오픈! 안녕하세요 아트앤에디션 입니다. 이경훈 작가님의 에디션 판화 오픈 소식을 전해드리려고 하는데요! 사라져가는 기억의 감정을 그리다 이경훈 작가의 작품 속 일상의 장소는 평화로운 현대판 무릉도원을 연상하게 한다. 작가는 점점 일상에서 지나쳐 버리는 감정들과 함께 허한 생각들이 들 때마다 이 전에 느꼈던 가슴 벅찬 순간들, 설레었던 추억에 잠시 빠져든다. 그때의 그 감정들을 상상해가며 그때의 나와 지금의 내가 서로를 위로하고 화해하듯 한 화면에서 서로 이야기하는 것처럼 그려낸다.</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230713_162/1689226136816SkiIk_JPEG/1.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230713_162/1689226136816SkiIk_JPEG/1.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230713_162/1689226136816SkiIk_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
