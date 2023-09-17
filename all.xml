@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 14:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 15:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유니크한 팝아트 포스터 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20031013</link>
+            <guid>https://shopping.naver.com/art/event/20031013</guid>
+            <pubDate>Sun, 17 Sep 2023 15:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[선물하기 좋은 인기 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230911_41/1694432165680ugE4e_JPEG/ED8C90ED9994-ED8C9DEC9584ED8AB8.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 넗고 크게 ! 와이드 쿠션 신규 출시 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/stores/1000013726/news/5000678885</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 13 Sep 2023 01:01:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/art/stores/100032742/news/5000661558" class="_3awplngVTT N=a:eli.news,i:5000661558 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[2023 공예정원 한가위] 추천상품 10% 할인</strong><p class="S7nFgeJfh8">[공예정원 기획전] [공예정원] 한가위 기획전 23.09.11~23.10.03 공예정원 추천상품 10% Sale 추석 선물 추천드려요!! 감사의 마음을 전하는 추석선물~~ 공예정원 추천상품에서 만나요!! 이벤트기간 : 2023. 9. 11~ 10. 3까지 풍요로운 여유로운 맘으로 공예정원상품 추천드립니다. 공예정원 온라인숍님, 쇼핑 꿀팁 받으세요! 알림받기 동의하면 쿠폰이 쏙!!! 혜택받아서 꼭 쓰세요! 10%할인 구매가 가능한 추천상품의 상세 정보는, 상품별 페이지에서도 확인하실 수 있습니다. 감사합니다.</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230913_154/169455896631142ys6_JPEG/2023%EC%B6%94%EC%84%9D_%EA%B8%B0%ED%9A%8D%EC%A0%84(%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84_%EB%A9%94%EC%9D%B8).jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230913_154/169455896631142ys6_JPEG/2023%EC%B6%94%EC%84%9D_%EA%B8%B0%ED%9A%8D%EC%A0%84(%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84_%EB%A9%94%EC%9D%B8).jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230913_154/169455896631142ys6_JPEG/2023%EC%B6%94%EC%84%9D_%EA%B8%B0%ED%9A%8D%EC%A0%84(%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84_%EB%A9%94%EC%9D%B8).jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포인트가 되는 장식품으로 꾸며요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20031011</link>
-            <guid>https://shopping.naver.com/art/event/20031011</guid>
-            <pubDate>Tue, 12 Sep 2023 15:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[톡톡 튀는 데코 아이템]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230911_268/1694431929833XCp61_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 넗고 크게 ! 와이드 쿠션 신규 출시 (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230912_197/16945003619192MCUC_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D_%EC%9D%B4%EC%9A%B0%ED%99%98.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유니크한 팝아트 포스터 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20031013</link>
+            <guid>https://shopping.naver.com/art/event/20031013</guid>
+            <pubDate>Sun, 17 Sep 2023 15:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[선물하기 좋은 인기 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230911_41/1694432165680ugE4e_JPEG/ED8C90ED9994-ED8C9DEC9584ED8AB8.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보면 볼수록 빠져드는 추상 회화 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20031012</link>
             <guid>https://shopping.naver.com/art/event/20031012</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 31 Aug 2023 15:14:09 GMT</pubDate>
             <content:encoded><![CDATA[특별함을 원해요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230828_69/1693209501512AvxQ7_JPEG/EC9584ED8AB8-EC839DED999CEC9EA1ED9994.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명화를 한눈에 담아요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20030668</link>
-            <guid>https://shopping.naver.com/art/event/20030668</guid>
-            <pubDate>Tue, 29 Aug 2023 15:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[집안의 품격이 높아져요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230828_151/16932093909910Ne0s_JPEG/ED8FACEC8AA4ED84B0-EBAA85ED9994.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
