@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 14:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 15:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정물들의 생생한 사진 작품 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20031368</link>
+            <guid>https://shopping.naver.com/art/event/20031368</guid>
+            <pubDate>Thu, 28 Sep 2023 15:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[사진으로 힐링해요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230925_84/1695605571694oCyB2_JPEG/EC82ACECA784-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[작품추천] 다가올 추석, 에디션 작품 추천! (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
             <link>https://shopping.naver.com/art/stores/100438513/news/5000782351</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 24 Sep 2023 15:13:27 GMT</pubDate>
             <content:encoded><![CDATA[아름다운 공간을 만들어요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230918_46/1695034365190mXRFu_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8-ECA084ED86B5EAB3B5EC98.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공지] 서정아트 추석 연휴 휴무 안내 (9월 28일 ~ 10월 3일) (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/stores/100347664/news/5000738918</link>
-            <guid>https://shopping.naver.com/art/stores/100347664/news/5000738918</guid>
-            <pubDate>Fri, 22 Sep 2023 01:54:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/100347664/news/5000738918" class="_3awplngVTT N=a:eli.news,i:5000738918 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[공지] 서정아트 추석 연휴 휴무 안내 (9월 28일 ~ 10월 3일)</strong><p class="S7nFgeJfh8">서정아트 휴무 안내 서정아트를 찾아주시는 모든 분들께 감사의 말씀을 전합니다. 추석 연휴 기간인 9월 28일 ~ 10월 3일까지 서정아트 스마트스토어·아트윈도 모두 휴무이며, 연휴 기간 동안 주문 건은 추석 연휴 이후 순차적으로 배송될 예정입니다. 이외 서정아트 강남, 을지로, 부산 갤러리 전관 휴관하오니 갤러리 방문에 참고하여 주시기 바랍니다. ｜연휴 휴무 기간｜ 9월 28일 (목) ~ 10월 3일 (화) ｜연휴 휴무 기간 배송 안내｜ 9월 22일 이후의 주문/결제 건은 10월 4일 부터 순차적으로 발송 예정입니다. 감사합니다.</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230922_37/1695346961144do9HI_JPEG/230913_%EC%84%9C%EC%A0%95%EC%95%84%ED%8A%B8_%EC%B6%94%EC%84%9D%ED%9C%B4%EA%B4%80%EC%95%88%EB%82%B4_%EA%B3%B5%EC%A7%80-1.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230922_37/1695346961144do9HI_JPEG/230913_%EC%84%9C%EC%A0%95%EC%95%84%ED%8A%B8_%EC%B6%94%EC%84%9D%ED%9C%B4%EA%B4%80%EC%95%88%EB%82%B4_%EA%B3%B5%EC%A7%80-1.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230922_37/1695346961144do9HI_JPEG/230913_%EC%84%9C%EC%A0%95%EC%95%84%ED%8A%B8_%EC%B6%94%EC%84%9D%ED%9C%B4%EA%B4%80%EC%95%88%EB%82%B4_%EA%B3%B5%EC%A7%80-1.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[작품추천] 다가올 추석, 에디션 작품 추천! (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230921_36/1695258845999wsJcB_JPEG/%EA%B5%AC%EC%B1%84%EC%97%B0.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정물들의 생생한 사진 작품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20031368</link>
+            <guid>https://shopping.naver.com/art/event/20031368</guid>
+            <pubDate>Thu, 28 Sep 2023 15:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[사진으로 힐링해요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230925_84/1695605571694oCyB2_JPEG/EC82ACECA784-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[판화 작품으로 표현한 다양한 인물의 모습 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20031367</link>
             <guid>https://shopping.naver.com/art/event/20031367</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Sep 2023 15:14:46 GMT</pubDate>
             <content:encoded><![CDATA[톡톡 튀는 데코 아이템]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230911_268/1694431929833XCp61_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양한 문화재 상품을 만나봐요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20030803</link>
-            <guid>https://shopping.naver.com/art/event/20030803</guid>
-            <pubDate>Mon, 11 Sep 2023 15:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[우리 전통의 아름다움]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230904_12/1693825805131qA3tQ_JPEG/EC9584ED8AB8EC8381ED9288-EBACB8ED9994EC9EACED9884ED92.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

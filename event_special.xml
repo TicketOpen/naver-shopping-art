@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 14:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 15:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정물들의 생생한 사진 작품]]></title>
+            <link>https://shopping.naver.com/art/event/20031368</link>
+            <guid>https://shopping.naver.com/art/event/20031368</guid>
+            <pubDate>Thu, 28 Sep 2023 15:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[사진으로 힐링해요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230925_84/1695605571694oCyB2_JPEG/EC82ACECA784-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[판화 작품으로 표현한 다양한 인물의 모습]]></title>
             <link>https://shopping.naver.com/art/event/20031367</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 12 Sep 2023 15:14:59 GMT</pubDate>
             <content:encoded><![CDATA[톡톡 튀는 데코 아이템]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230911_268/1694431929833XCp61_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양한 문화재 상품을 만나봐요]]></title>
-            <link>https://shopping.naver.com/art/event/20030803</link>
-            <guid>https://shopping.naver.com/art/event/20030803</guid>
-            <pubDate>Mon, 11 Sep 2023 15:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[우리 전통의 아름다움]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230904_12/1693825805131qA3tQ_JPEG/EC9584ED8AB8EC8381ED9288-EBACB8ED9994EC9EACED9884ED92.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
