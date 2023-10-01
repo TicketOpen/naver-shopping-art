@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Oct 2023 14:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Oct 2023 15:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동물 작품으로 꾸며요]]></title>
+            <link>https://shopping.naver.com/art/event/20031369</link>
+            <guid>https://shopping.naver.com/art/event/20031369</guid>
+            <pubDate>Sun, 01 Oct 2023 15:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[귀여움으로 분위기 UP!]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230925_159/1695605669121KKnjg_JPEG/ED8FACEC8AA4ED84B0-EB8F99EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정물들의 생생한 사진 작품]]></title>
             <link>https://shopping.naver.com/art/event/20031368</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Sep 2023 05:14:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/art/stores/100339527/news/5000765132" class="_3awplngVTT N=a:eli.news,i:5000765132 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[전시소식] LIDART '북극光 - AURORA 전시'</strong><p class="S7nFgeJfh8">LIDART 전시안내 안녕하세요. 컬러풀한 세상을 꿈꾸는 리드아트입니다. 오랜만에 리드아트 쇼룸에 준비된 전시를 소개합니다. 북극光 - AURORA 전시안내 일정 : 23.09. 25 ~ 장소 : 리드아트 쇼룸 (종로구 율곡로 185, 2층 ) 시간 : 평일 AM 11:30 - PM 07:00 / 토요일 PM 01:00 - PM 07:00 / 휴일 : 일요일 및 공휴일 전시공간과 카페 공간을 함께 이용할 수 있습니다. CMYK 전구를 활용하여 만들어진 아름다운 컬러는 공간을 에너지 넘치게 하고 에너지는 우리의 감정에 파장을 일으킵니다. 마치 오로라처럼 컬러로 가득 차는 순간의 아름다운 에너지가 여러분께 전달되기를 바랍니다.</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20230925_103/16956143445796Q7WP_JPEG/aurora.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20230925_103/16956143445796Q7WP_JPEG/aurora.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230925_103/16956143445796Q7WP_JPEG/aurora.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[즐거움을 더해주는 인테리어 공예작품]]></title>
-            <link>https://shopping.naver.com/art/event/20031244</link>
-            <guid>https://shopping.naver.com/art/event/20031244</guid>
-            <pubDate>Sun, 24 Sep 2023 15:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[아름다운 공간을 만들어요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230918_46/1695034365190mXRFu_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8-ECA084ED86B5EAB3B5EC98.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
