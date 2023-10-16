@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 14:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 15:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동물들을 집으로 초대해요]]></title>
+            <link>https://shopping.naver.com/art/event/20031553</link>
+            <guid>https://shopping.naver.com/art/event/20031553</guid>
+            <pubDate>Mon, 16 Oct 2023 15:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[보고만 있어도 기분 UP!]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231009_297/1696835273817afXEk_JPEG/ED9A8CED9994-EB8F99EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식기들의 다양한 변신!]]></title>
             <link>https://shopping.naver.com/art/event/20031552</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 01 Oct 2023 15:13:32 GMT</pubDate>
             <content:encoded><![CDATA[귀여움으로 분위기 UP!]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230925_159/1695605669121KKnjg_JPEG/ED8FACEC8AA4ED84B0-EB8F99EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정물들의 생생한 사진 작품]]></title>
-            <link>https://shopping.naver.com/art/event/20031368</link>
-            <guid>https://shopping.naver.com/art/event/20031368</guid>
-            <pubDate>Thu, 28 Sep 2023 15:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[사진으로 힐링해요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230925_84/1695605571694oCyB2_JPEG/EC82ACECA784-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
