@@ -4,9 +4,41 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 14:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 15:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 찻잔과 식탁용품]]></title>
+            <link>https://shopping.naver.com/art/event/20032114</link>
+            <guid>https://shopping.naver.com/art/event/20032114</guid>
+            <pubDate>Sun, 05 Nov 2023 15:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[찻잔과 식탁용품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_164/16983883091661GNyM_PNG/ED8AB9ED9689%2B1.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 악세서리와 생활소품]]></title>
+            <link>https://shopping.naver.com/art/event/20032115</link>
+            <guid>https://shopping.naver.com/art/event/20032115</guid>
+            <pubDate>Sun, 05 Nov 2023 15:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[악세서리와 생활소품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_23/1698388320616EisOp_PNG/ED8AB9ED9689%2B2.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 인테리어소품과 가구]]></title>
+            <link>https://shopping.naver.com/art/event/20032116</link>
+            <guid>https://shopping.naver.com/art/event/20032116</guid>
+            <pubDate>Sun, 05 Nov 2023 15:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공예디자인의 아름다움]]></title>
+            <link>https://shopping.naver.com/art/event/20032147</link>
+            <guid>https://shopping.naver.com/art/event/20032147</guid>
+            <pubDate>Sun, 05 Nov 2023 15:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[다양하게 골라요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231030_54/1698650736739DEijQ_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8-EAB080EAB5ACECA1B0EBAA.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 생활 속에 스며든 아트상품을 만나봐요]]></title>
             <link>https://shopping.naver.com/art/event/20032146</link>
@@ -54,38 +86,6 @@
             <pubDate>Tue, 24 Oct 2023 15:16:25 GMT</pubDate>
             <content:encoded><![CDATA[가볍게 꾸미기 좋아요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231023_155/1698050408420Y7NuW_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8-ED8CA8EC8598EC868CED92.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트렌디하고 유니크한 디자인]]></title>
-            <link>https://shopping.naver.com/art/event/20031766</link>
-            <guid>https://shopping.naver.com/art/event/20031766</guid>
-            <pubDate>Mon, 23 Oct 2023 15:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[나만의 개성을 살려요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231016_14/1697456388602RfKxc_JPEG/EC9584ED8AB8EC8381ED9288-EBACB8EAB5ACEBA598.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다채로운 풍경 작품을 모았어요]]></title>
-            <link>https://shopping.naver.com/art/event/20031765</link>
-            <guid>https://shopping.naver.com/art/event/20031765</guid>
-            <pubDate>Sun, 22 Oct 2023 15:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[기분이 좋아지는 그림]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231016_272/1697456309612eGhSS_JPEG/ED8FACEC8AA4ED84B0-ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정물을 담은 생생한 사진 작품을 감상해요]]></title>
-            <link>https://shopping.naver.com/art/event/20031764</link>
-            <guid>https://shopping.naver.com/art/event/20031764</guid>
-            <pubDate>Thu, 19 Oct 2023 15:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[분위기가 달라져요~]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231016_300/1697455805715fsNTa_JPEG/EC82ACECA784-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추상 작품을 감상하는 취미]]></title>
-            <link>https://shopping.naver.com/art/event/20031763</link>
-            <guid>https://shopping.naver.com/art/event/20031763</guid>
-            <pubDate>Tue, 17 Oct 2023 15:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[작가의 의도를 찾아봐요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231016_89/16974555044900MT7z_JPEG/ED8C90ED9994-ECB694EC8381.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
