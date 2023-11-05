@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 15:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 16:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[[KCDF]공예작가들이 만든 찻잔과 식탁용품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20032114</link>
             <guid>https://shopping.naver.com/art/event/20032114</guid>
-            <pubDate>Sun, 05 Nov 2023 15:13:36 GMT</pubDate>
+            <pubDate>Sun, 05 Nov 2023 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[찻잔과 식탁용품]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_164/16983883091661GNyM_PNG/ED8AB9ED9689%2B1.png?type=w304" length="0" type="image/png"/>
         </item>
@@ -179,7 +179,7 @@
             <title><![CDATA[[KCDF]공예작가들이 만든 악세서리와 생활소품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20032115</link>
             <guid>https://shopping.naver.com/art/event/20032115</guid>
-            <pubDate>Sun, 05 Nov 2023 15:13:36 GMT</pubDate>
+            <pubDate>Sun, 05 Nov 2023 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[악세서리와 생활소품]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_23/1698388320616EisOp_PNG/ED8AB9ED9689%2B2.png?type=w304" length="0" type="image/png"/>
         </item>
@@ -187,7 +187,7 @@
             <title><![CDATA[[KCDF]공예작가들이 만든 인테리어소품과 가구 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20032116</link>
             <guid>https://shopping.naver.com/art/event/20032116</guid>
-            <pubDate>Sun, 05 Nov 2023 15:13:36 GMT</pubDate>
+            <pubDate>Sun, 05 Nov 2023 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
         </item>
@@ -195,7 +195,7 @@
             <title><![CDATA[공예디자인의 아름다움 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20032147</link>
             <guid>https://shopping.naver.com/art/event/20032147</guid>
-            <pubDate>Sun, 05 Nov 2023 15:13:36 GMT</pubDate>
+            <pubDate>Sun, 05 Nov 2023 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[다양하게 골라요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231030_54/1698650736739DEijQ_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8-EAB080EAB5ACECA1B0EBAA.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
