@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 14:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 15:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 05 Nov 2023 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[다양한 인물의 표현 방식 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20032288</link>
+            <guid>https://shopping.naver.com/art/event/20032288</guid>
+            <pubDate>Tue, 07 Nov 2023 15:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[판화 인물 작품 모음]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231106_21/1699269863658Cv2yR_JPEG/ED8C90ED9994-EC9DB8EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[SALE] 2024 아티스트 다이어리 신규 출시 💛 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 05 Nov 2023 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[다양하게 골라요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231030_54/1698650736739DEijQ_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8-EAB080EAB5ACECA1B0EBAA.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개관8주년기념 김성지개인전 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/stores/100327883/news/5000836751</link>
-            <guid>https://shopping.naver.com/art/stores/100327883/news/5000836751</guid>
-            <pubDate>Sat, 04 Nov 2023 15:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/100327883/news/5000836751" class="_3awplngVTT N=a:eli.news,i:5000836751 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">개관8주년기념 김성지개인전</strong><p class="S7nFgeJfh8">*** 개관 8주년 기념 김성지 초대개인전 2023.11.1-11.30 전시 관람은 전화 예약으로 가능하오니 관심있는 분은 참고해주시면 감사하겠습니다. 문의사항 있으시면 톡톡문의 또는 031 337 2429 로 연락주세요 특별 할인 이벤트 있습니다. ***감사합니다</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20231104_295/1699106352900JTnMP_JPEG/tmp2013704605278447659.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20231104_295/1699106352900JTnMP_JPEG/tmp2013704605278447659.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231104_295/1699106352900JTnMP_JPEG/tmp2013704605278447659.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[SALE] 2024 아티스트 다이어리 신규 출시 💛 (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
@@ -192,6 +192,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[다양한 인물의 표현 방식 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20032288</link>
+            <guid>https://shopping.naver.com/art/event/20032288</guid>
+            <pubDate>Tue, 07 Nov 2023 15:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[판화 인물 작품 모음]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231106_21/1699269863658Cv2yR_JPEG/ED8C90ED9994-EC9DB8EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[멋진 풍경을 실내에서 감상해요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20032148</link>
             <guid>https://shopping.naver.com/art/event/20032148</guid>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 29 Oct 2023 15:12:55 GMT</pubDate>
             <content:encoded><![CDATA[다양한 분위기를 느껴봐요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231023_136/1698050587650mArud_JPEG/ED8C90ED9994-ED8C9DEC9584ED8AB8.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선물하기 좋은 회화 그림 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20032002</link>
-            <guid>https://shopping.naver.com/art/event/20032002</guid>
-            <pubDate>Thu, 26 Oct 2023 15:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 느낌의 정물 작품]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231023_268/1698050503510L1cGe_JPEG/ED9A8CED9994-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
