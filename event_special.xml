@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 14:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 15:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 05 Nov 2023 15:13:36 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[신비로운 팝아트의 세계로 빠져봐요]]></title>
+            <link>https://shopping.naver.com/art/event/20032290</link>
+            <guid>https://shopping.naver.com/art/event/20032290</guid>
+            <pubDate>Sun, 12 Nov 2023 15:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[인테리어 작품 추천]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231106_97/1699270019866k6P2c_JPEG/ED8FACEC8AA4ED84B0-ED8C9DEC9584ED8AB8.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[재미있는 추상 작품의 세계]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 31 Oct 2023 15:15:45 GMT</pubDate>
             <content:encoded><![CDATA[다양한 포스터 모음]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231030_35/1698650543851kLhFQ_JPEG/ED8FACEC8AA4ED84B0-ECB694EC8381.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풍경을 사진으로 감상해요]]></title>
-            <link>https://shopping.naver.com/art/event/20032004</link>
-            <guid>https://shopping.naver.com/art/event/20032004</guid>
-            <pubDate>Mon, 30 Oct 2023 15:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[힐링하기 좋은 작품]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231023_215/16980506597487PDy2_JPEG/EC82ACECA784-ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
