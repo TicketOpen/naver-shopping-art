@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 14:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 15:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 05 Nov 2023 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[창의력이 숙쑥 커져요!]]></title>
+            <link>https://shopping.naver.com/art/event/20032640</link>
+            <guid>https://shopping.naver.com/art/event/20032640</guid>
+            <pubDate>Thu, 23 Nov 2023 15:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[아트상품의 재발견]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231120_68/1700463866371CzE34_JPEG/EC9584ED8AB8EC8381ED9288-EC96B4EBA6B0EC9DB4EC9AA9ED92.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장욱진 화백의 아트포스터 및 에디션 판화 예약구매 소식을 알려드려요!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Nov 2023 15:16:23 GMT</pubDate>
             <content:encoded><![CDATA[사진으로 힐링해요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231113_45/1699865352194NMBYl_JPEG/EC82ACECA784-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀여운 동물들의 축제]]></title>
-            <link>https://shopping.naver.com/art/event/20032488</link>
-            <guid>https://shopping.naver.com/art/event/20032488</guid>
-            <pubDate>Sun, 19 Nov 2023 15:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[판화 작품 모음]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231113_74/1699865268465qeO3D_JPEG/ED8C90ED9994-EB8F99EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
