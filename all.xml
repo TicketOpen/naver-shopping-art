@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 14:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 15:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 05 Nov 2023 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[유니크한 분위기의 그래픽 포스터 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20032829</link>
+            <guid>https://shopping.naver.com/art/event/20032829</guid>
+            <pubDate>Sun, 03 Dec 2023 15:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[유쾌하고 개성 넘치는 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231127_115/1701084655433C19UH_JPEG/ED8FACEC8AA4ED84B0-EAB7B8EB9E98ED94BD.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[GALLERYJOY ARTSHOP] 이정란 선인장 구매시 미니산타모자 증정 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Dec 2023 03:15:38 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/art/stores/101682249/news/5000878544" class="_3awplngVTT N=a:eli.news,i:5000878544 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">케이브이아트 12월 전시소식 _ 박은수 초대전 : MUSIC OF LIFE</strong><p class="S7nFgeJfh8">#현대미술 #미술품 #부산전시 #갤러리소식 #부산갤러리</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20231201_20/1701399525841sDAmN_JPEG/KakaoTalk_20231123_200032809_07.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20231201_20/1701399525841sDAmN_JPEG/KakaoTalk_20231123_200032809_07.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231201_20/1701399525841sDAmN_JPEG/KakaoTalk_20231123_200032809_07.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풍경을 사진으로 감상해요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/event/20032828</link>
-            <guid>https://shopping.naver.com/art/event/20032828</guid>
-            <pubDate>Thu, 30 Nov 2023 15:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[힐링하기 좋은 작품]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231127_262/1701084555755PvjrF_JPEG/EC82ACECA784-ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[GALLERYJOY ARTSHOP] 이정란 선인장 구매시 미니산타모자 증정 (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
@@ -192,6 +192,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[유니크한 분위기의 그래픽 포스터 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20032829</link>
+            <guid>https://shopping.naver.com/art/event/20032829</guid>
+            <pubDate>Sun, 03 Dec 2023 15:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[유쾌하고 개성 넘치는 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231127_115/1701084655433C19UH_JPEG/ED8FACEC8AA4ED84B0-EAB7B8EB9E98ED94BD.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[풍경을 사진으로 감상해요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20032828</link>
             <guid>https://shopping.naver.com/art/event/20032828</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Nov 2023 15:15:10 GMT</pubDate>
             <content:encoded><![CDATA[집안의 품격이 높아져요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231120_218/1700463780349QBA6Y_JPEG/ED8FACEC8AA4ED84B0-EBAA85ED9994.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다채로운 정물 작품 모음 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20032489</link>
-            <guid>https://shopping.naver.com/art/event/20032489</guid>
-            <pubDate>Mon, 20 Nov 2023 15:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[사진으로 힐링해요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231113_45/1699865352194NMBYl_JPEG/EC82ACECA784-ECA095EBACBC.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
