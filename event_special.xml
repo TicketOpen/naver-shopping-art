@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 14:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 15:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 05 Nov 2023 15:13:36 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[나만의 개성있는 패션소품]]></title>
+            <link>https://shopping.naver.com/art/event/20032830</link>
+            <guid>https://shopping.naver.com/art/event/20032830</guid>
+            <pubDate>Mon, 04 Dec 2023 15:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[일상 속의 아트]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231127_234/1701084762683mdJ5V_JPEG/EC9584ED8AB8EC8381ED9288-ED8CA8EC8598EC868CED9288.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유니크한 분위기의 그래픽 포스터]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 23 Nov 2023 15:15:25 GMT</pubDate>
             <content:encoded><![CDATA[아트상품의 재발견]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231120_68/1700463866371CzE34_JPEG/EC9584ED8AB8EC8381ED9288-EC96B4EBA6B0EC9DB4EC9AA9ED92.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유명한 명화를 감상해요]]></title>
-            <link>https://shopping.naver.com/art/event/20032639</link>
-            <guid>https://shopping.naver.com/art/event/20032639</guid>
-            <pubDate>Tue, 21 Nov 2023 15:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[집안의 품격이 높아져요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231120_218/1700463780349QBA6Y_JPEG/ED8FACEC8AA4ED84B0-EBAA85ED9994.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
