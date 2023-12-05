@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 04:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 05:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -141,7 +141,7 @@
             <guid>https://shopping.naver.com/art/stores/101682249/news/5000878544</guid>
             <pubDate>Fri, 01 Dec 2023 03:15:38 GMT</pubDate>
             <content:encoded><![CDATA[#현대미술 #미술품 #부산전시 #갤러리소식 #부산갤러리]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231201_20/1701399525841sDAmN_JPEG/KakaoTalk_20231123_200032809_07.jpg?type=w304" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20231205_81/1701737358304kHuF2_PNG/%ED%8F%AC%EC%8A%A4%ED%84%B0_1.png?type=w304" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[서울 홈테이블데코페어] 부스 이벤트 안내 (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
