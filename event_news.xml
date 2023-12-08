@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 07:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 08:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[컨티뉴 아트샵] 책상에 작은 갤러리! 예술적인 달력🗓️과 함께 하세요]]></title>
+            <link>https://shopping.naver.com/art/stores/100384663/news/5000890122</link>
+            <guid>https://shopping.naver.com/art/stores/100384663/news/5000890122</guid>
+            <pubDate>Fri, 08 Dec 2023 08:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[[컨티뉴 아트샵] 책상에 작은 갤러리 13장의 그림이 담긴 달력과 함께 하세요. 회사라는 공간에 지친 자신에게 전하는 작은 선물 어떠세요? 저희 컨티뉴에서는 2024를 맞이하여 다양한 디자인의 달력을 준비 했습니다. 명화 작가 탁상 한장 달력 자신이 좋아하는 디자인을 찾아보시고 책상이라는 공간 안에 자신만의 감각과 감성을 채워보세요.]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231208_25/1702017058326PFkli_JPEG/MicrosoftTeams-image.png?type=w304" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[즐기고 나누는 예술, 15에디션 프로젝트]]></title>
             <link>https://shopping.naver.com/art/stores/100438513/news/5000889353</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Dec 2023 07:13:38 GMT</pubDate>
             <content:encoded><![CDATA[[컨티뉴 아트샵] 일상의 여유, 이호석탄 ☕ 쇼핑라이브 작가전 여러분에게 집은 어떤 느낌이세요? 저는 밖에서 받은 피곤함을 없애는 공간이에요 집은 저에게 휴식을 주죠!☕ 이번에 소개해 드릴 이호석탄 작가님은 마음이 편안한 순간을 담아내는 그림을 그리세요! 전체적인 색감이 녹색을 사용하여 담아냅니다🍀 녹색은 사람을 편안하게 주는 색상이라 그림만으로도 편안함이 더 느껴져요. 커피와 인테리어, 식물 등등 사람들이 집에 흔히 볼 수 있는 부분들이 그림에 표현되어 일상의 편안함이 보여요💚 녹색이 주는 편안함 잔잔함, 편안함, 휴식을 그림으로 표현한 이호석탄 작가님의 그림을 쇼핑라이브에서 소개해 드릴게요. 이미지로만 보던 그림을 영상으로 만나보세요! 일상에서 갤러리를 경험해 보세요! 쇼핑라이브만의 혜택과 쿠폰으로 기분 좋은 쇼핑도 함께! 🎉🛍️ 쇼핑라이브 보러가기]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231201_204/1701412310702f3NTe_PNG/%EC%9D%B4%ED%98%B8%EC%84%9D%ED%83%84_%EC%87%BC%ED%95%91%EB%9D%BC%EC%9D%B4%EB%B8%8C_.png?type=w304" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[케이브이아트 12월 전시소식 _ 박은수 초대전 : MUSIC OF LIFE]]></title>
-            <link>https://shopping.naver.com/art/stores/101682249/news/5000878544</link>
-            <guid>https://shopping.naver.com/art/stores/101682249/news/5000878544</guid>
-            <pubDate>Fri, 01 Dec 2023 03:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[#현대미술 #미술품 #부산전시 #갤러리소식 #부산갤러리]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231205_81/1701737358304kHuF2_PNG/%ED%8F%AC%EC%8A%A4%ED%84%B0_1.png?type=w304" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
