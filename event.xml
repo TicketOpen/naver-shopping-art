@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 08:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 09:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 05 Nov 2023 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[책상에 작은 갤러리! 예술적인 달력🗓️과 함께 하세요]]></title>
+            <link>https://shopping.naver.com/art/stores/100384663/news/5000890122</link>
+            <guid>https://shopping.naver.com/art/stores/100384663/news/5000890122</guid>
+            <pubDate>Fri, 08 Dec 2023 09:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100384663/news/5000890122" class="_3awplngVTT N=a:eli.news,i:5000890122 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">책상에 작은 갤러리! 예술적인 달력🗓️과 함께 하세요</strong><p class="S7nFgeJfh8">[컨티뉴 아트샵] 책상에 작은 갤러리 13장의 그림이 담긴 달력과 함께 하세요. 회사라는 공간에 지친 자신에게 전하는 작은 선물 어떠세요? 저희 컨티뉴에서는 2024를 맞이하여 다양한 디자인의 달력을 준비 했습니다. 명화 작가 탁상 한장 달력 자신이 좋아하는 디자인을 찾아보시고 책상이라는 공간 안에 자신만의 감각과 감성을 채워보세요.</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20231208_25/1702017058326PFkli_JPEG/MicrosoftTeams-image.png?type=w304" data-src="https://shop-phinf.pstatic.net/20231208_25/1702017058326PFkli_JPEG/MicrosoftTeams-image.png?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231208_25/1702017058326PFkli_JPEG/MicrosoftTeams-image.png?type=w304" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[즐기고 나누는 예술, 15에디션 프로젝트]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 05 Dec 2023 15:16:03 GMT</pubDate>
             <content:encoded><![CDATA[한국미가 느껴져요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231201_264/1701399492219CUSjx_JPEG/EAB3B5EC9888.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만의 개성있는 패션소품]]></title>
-            <link>https://shopping.naver.com/art/event/20032830</link>
-            <guid>https://shopping.naver.com/art/event/20032830</guid>
-            <pubDate>Mon, 04 Dec 2023 15:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[일상 속의 아트]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231127_234/1701084762683mdJ5V_JPEG/EC9584ED8AB8EC8381ED9288-ED8CA8EC8598EC868CED9288.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
