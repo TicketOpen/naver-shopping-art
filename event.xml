@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 14:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 15:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 05 Nov 2023 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[정물들의 생생한 사진 작품]]></title>
+            <link>https://shopping.naver.com/art/event/20032935</link>
+            <guid>https://shopping.naver.com/art/event/20032935</guid>
+            <pubDate>Mon, 11 Dec 2023 15:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[사진으로 힐링해요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231204_264/170165233146411RVl_JPEG/EC82ACECA784.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[즐기고 나누는 예술, 15에디션 프로젝트]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 10 Dec 2023 15:13:22 GMT</pubDate>
             <content:encoded><![CDATA[힐링하기 좋은 작품]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231204_86/1701651279217cJ3Yu_JPEG/ED8C90ED9994.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[반짝반짝 홀리데이] 추천상품 10% 할인]]></title>
-            <link>https://shopping.naver.com/art/stores/100032742/news/5000891359</link>
-            <guid>https://shopping.naver.com/art/stores/100032742/news/5000891359</guid>
-            <pubDate>Sun, 10 Dec 2023 10:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/100032742/news/5000891359" class="_3awplngVTT N=a:eli.news,i:5000891359 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[반짝반짝 홀리데이] 추천상품 10% 할인</strong><p class="S7nFgeJfh8">[공예정원 기획전] 반짝반짝 홀리데이!! 23.12.10~23.12.31 공예정원 추천상품 10% Sale 반짝반짝 홀리데이!! 설레이는 연말을 더욱 빛나게 해줄 공예정원과 함께해요 이벤트기간 : 2023. 12. 10 ~ 12. 31까지 공예정원 온라인숍님, 쇼핑 꿀팁 받으세요! 알림받기 동의하면 쿠폰이 쏙!!! 혜택받아서 꼭 쓰세요! 10%할인 구매가 가능한 추천상품의 상세 정보는, 상품별 페이지에서도 확인하실 수 있습니다. 감사합니다.</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20231210_90/1702202495376LBccn_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EB%A9%94%EC%9D%B8%EC%9A%A9.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20231210_90/1702202495376LBccn_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EB%A9%94%EC%9D%B8%EC%9A%A9.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231210_90/1702202495376LBccn_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EB%A9%94%EC%9D%B8%EC%9A%A9.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
