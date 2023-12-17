@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 14:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 15:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 05 Nov 2023 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[반짝이는 주얼리로 완성해요 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20033179</link>
+            <guid>https://shopping.naver.com/art/event/20033179</guid>
+            <pubDate>Sun, 17 Dec 2023 15:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[유니크한 액세서리]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231212_221/1702351956139aBmoy_JPEG/EAB3B5EC9888.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[전시소식] The afterimage of stars, 이은정 초대전 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 14 Dec 2023 15:15:46 GMT</pubDate>
             <content:encoded><![CDATA[다양한 상품으로 꾸며요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231212_205/1702351530558Nnnth_JPEG/EC9584ED8AB8EC8381ED9288.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 배송 안내 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/stores/100429941/news/5000899274</link>
-            <guid>https://shopping.naver.com/art/stores/100429941/news/5000899274</guid>
-            <pubDate>Thu, 14 Dec 2023 12:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/100429941/news/5000899274" class="_3awplngVTT N=a:eli.news,i:5000899274 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">크리스마스 배송 안내</strong><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20231214_79/1702555687651KCGjl_PNG/notice_4-1.png?type=w304" data-src="https://shop-phinf.pstatic.net/20231214_79/1702555687651KCGjl_PNG/notice_4-1.png?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231214_79/1702555687651KCGjl_PNG/notice_4-1.png?type=w304" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[전시소식] The afterimage of stars, 이은정 초대전 (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
@@ -192,6 +192,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[반짝이는 주얼리로 완성해요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20033179</link>
+            <guid>https://shopping.naver.com/art/event/20033179</guid>
+            <pubDate>Sun, 17 Dec 2023 15:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[유니크한 액세서리]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231212_221/1702351956139aBmoy_JPEG/EAB3B5EC9888.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[휴대폰에 특별한 아트를 담아봐요~ (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20033178</link>
             <guid>https://shopping.naver.com/art/event/20033178</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Dec 2023 15:16:03 GMT</pubDate>
             <content:encoded><![CDATA[한국미가 느껴져요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231201_264/1701399492219CUSjx_JPEG/EAB3B5EC9888.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만의 개성있는 패션소품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20032830</link>
-            <guid>https://shopping.naver.com/art/event/20032830</guid>
-            <pubDate>Mon, 04 Dec 2023 15:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[일상 속의 아트]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231127_234/1701084762683mdJ5V_JPEG/EC9584ED8AB8EC8381ED9288-ED8CA8EC8598EC868CED9288.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
