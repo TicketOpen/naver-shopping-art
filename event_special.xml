@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 14:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 15:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 05 Nov 2023 15:13:36 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[보기만 해도 힐링 되는 풍경 사진]]></title>
+            <link>https://shopping.naver.com/art/event/20033409</link>
+            <guid>https://shopping.naver.com/art/event/20033409</guid>
+            <pubDate>Thu, 21 Dec 2023 15:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[시선을 끄는 매력]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231221_103/1703138138972910iQ_JPEG/EC82ACECA784.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[추상 작품을 감상하는 기쁨]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Dec 2023 15:16:21 GMT</pubDate>
             <content:encoded><![CDATA[사진으로 힐링해요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231204_264/170165233146411RVl_JPEG/EC82ACECA784.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다채로운 풍경을 모았어요]]></title>
-            <link>https://shopping.naver.com/art/event/20032934</link>
-            <guid>https://shopping.naver.com/art/event/20032934</guid>
-            <pubDate>Sun, 10 Dec 2023 15:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[힐링하기 좋은 작품]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231204_86/1701651279217cJ3Yu_JPEG/ED8C90ED9994.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
