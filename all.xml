@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 15:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 16:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -195,7 +195,7 @@
             <title><![CDATA[다채로운 정물 작품 모음 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20033454</link>
             <guid>https://shopping.naver.com/art/event/20033454</guid>
-            <pubDate>Mon, 01 Jan 2024 15:14:54 GMT</pubDate>
+            <pubDate>Mon, 01 Jan 2024 15:14:43 GMT</pubDate>
             <content:encoded><![CDATA[사진으로 힐링해요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231227_280/1703641511934zFcb7_JPEG/EC82ACECA784.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
