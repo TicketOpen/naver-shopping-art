@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 04:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 05:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신년맞이 설선물 기획전]]></title>
+            <link>https://shopping.naver.com/art/stores/100032742/news/5000934464</link>
+            <guid>https://shopping.naver.com/art/stores/100032742/news/5000934464</guid>
+            <pubDate>Tue, 02 Jan 2024 05:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[[공예정원 기획전] 웃음 가득 행복한 새해 24.1.1~2.12 / 10%할인 공예정원 추천상품 10% Sale 웃음이 가득한 설 함께하는 즐거움으로 행복한 새해!!~~ 공예정원과 함께해요 이벤트기간 : 2024. 1. 1 ~ 2. 12까지 공예정원 온라인숍님, 쇼핑 꿀팁 받으세요! 알림받기 동의하면 쿠폰이 쏙!!! 혜택받아서 꼭 쓰세요! 10%할인 구매가 가능한 추천상품의 상세 정보는, 상품별 페이지에서도 확인하실 수 있습니다. 감사합니다.]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240102_8/1704171394290We544_JPEG/%EC%95%84%ED%8A%B8%EC%9B%90%EB%8F%84%EB%A9%94%EC%9D%B8.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앤디워홀의 그림을 바라보며 한 해를 마무리해요🧡]]></title>
             <link>https://shopping.naver.com/art/stores/1000013726/news/5000930159</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Dec 2023 11:12:02 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/art/stores/100811719/news/5000922427" class="_3awplngVTT N=a:eli.news,i:5000922427 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">진주</strong><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20231226_295/1703588802369egVPd_PNG/%EC%A7%84%EC%A3%BC_%EB%AA%A9%EA%B1%B8%EC%9D%B4_%ED%81%AC%EA%B8%B0.png?type=w304" data-src="https://shop-phinf.pstatic.net/20231226_295/1703588802369egVPd_PNG/%EC%A7%84%EC%A3%BC_%EB%AA%A9%EA%B1%B8%EC%9D%B4_%ED%81%AC%EA%B8%B0.png?type=w304" class="_1ODFOxs9pO _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231226_295/1703588802369egVPd_PNG/%EC%A7%84%EC%A3%BC_%EB%AA%A9%EA%B1%B8%EC%9D%B4_%ED%81%AC%EA%B8%B0.png?type=w304" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보석 보관방법]]></title>
-            <link>https://shopping.naver.com/art/stores/100811719/news/5000922422</link>
-            <guid>https://shopping.naver.com/art/stores/100811719/news/5000922422</guid>
-            <pubDate>Tue, 26 Dec 2023 11:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/100811719/news/5000922422" class="_3awplngVTT N=a:eli.news,i:5000922422 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">보석 보관방법</strong><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20231226_104/1703588719407dczt0_PNG/%EB%8B%A4%EC%9D%B4%EC%95%84_%EB%B3%B4%EA%B4%80_%EB%B0%A9%EB%B2%95.png?type=w304" data-src="https://shop-phinf.pstatic.net/20231226_104/1703588719407dczt0_PNG/%EB%8B%A4%EC%9D%B4%EC%95%84_%EB%B3%B4%EA%B4%80_%EB%B0%A9%EB%B2%95.png?type=w304" class="_1ODFOxs9pO _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231226_104/1703588719407dczt0_PNG/%EB%8B%A4%EC%9D%B4%EC%95%84_%EB%B3%B4%EA%B4%80_%EB%B0%A9%EB%B2%95.png?type=w304" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
