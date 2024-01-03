@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 02:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 03:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -91,7 +91,7 @@
             <title><![CDATA[HAPPY NEW YEAR 2024 (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
             <link>https://shopping.naver.com/art/stores/100429941/news/5000936077</link>
             <guid>https://shopping.naver.com/art/stores/100429941/news/5000936077</guid>
-            <pubDate>Wed, 03 Jan 2024 02:25:47 GMT</pubDate>
+            <pubDate>Wed, 03 Jan 2024 02:25:39 GMT</pubDate>
             <content:encoded><![CDATA[푸른 용의 해 2024년 모두 행복하고 즐거운 일 가득하세요 :)]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240103_274/1704247463233UrCVH_PNG/2024_%EC%B2%AD%EB%A3%A1%EC%9D%98%ED%95%B4.png?type=w304" length="0" type="image/png"/>
         </item>
