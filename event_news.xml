@@ -4,9 +4,17 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 01:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 02:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HAPPY NEW YEAR 2024]]></title>
+            <link>https://shopping.naver.com/art/stores/100429941/news/5000936077</link>
+            <guid>https://shopping.naver.com/art/stores/100429941/news/5000936077</guid>
+            <pubDate>Wed, 03 Jan 2024 02:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[푸른 용의 해 2024년 모두 행복하고 즐거운 일 가득하세요 :)]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240103_274/1704247463233UrCVH_PNG/2024_%EC%B2%AD%EB%A3%A1%EC%9D%98%ED%95%B4.png?type=w304" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[SALE] 오늘의 작품 1위! 이우환 Lee Ufan 5% 할인쿠폰]]></title>
             <link>https://shopping.naver.com/art/stores/100138255/news/5000920456</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Dec 2023 11:12:02 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/art/stores/100811719/news/5000922432" class="_3awplngVTT N=a:eli.news,i:5000922432 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">금종류</strong><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20231226_229/1703589034824tHPd1_PNG/%EA%B8%88_%EC%A2%85%EB%A5%98.png?type=w304" data-src="https://shop-phinf.pstatic.net/20231226_229/1703589034824tHPd1_PNG/%EA%B8%88_%EC%A2%85%EB%A5%98.png?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231226_229/1703589034824tHPd1_PNG/%EA%B8%88_%EC%A2%85%EB%A5%98.png?type=w304" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다이아몬드]]></title>
-            <link>https://shopping.naver.com/art/stores/100811719/news/5000922430</link>
-            <guid>https://shopping.naver.com/art/stores/100811719/news/5000922430</guid>
-            <pubDate>Tue, 26 Dec 2023 11:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/100811719/news/5000922430" class="_3awplngVTT N=a:eli.news,i:5000922430 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">다이아몬드</strong><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20231226_38/1703588899113XSzpB_PNG/%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C_%ED%81%B4%EB%A0%88%EB%A6%AC%ED%8B%B0.png?type=w304" data-src="https://shop-phinf.pstatic.net/20231226_38/1703588899113XSzpB_PNG/%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C_%ED%81%B4%EB%A0%88%EB%A6%AC%ED%8B%B0.png?type=w304" class="_1ODFOxs9pO _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231226_38/1703588899113XSzpB_PNG/%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C_%ED%81%B4%EB%A0%88%EB%A6%AC%ED%8B%B0.png?type=w304" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
