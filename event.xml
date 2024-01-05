@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 09:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 10:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 05 Nov 2023 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[아티쉬 명화 노트 출시🎨]]></title>
+            <link>https://shopping.naver.com/art/stores/1000013726/news/5000941224</link>
+            <guid>https://shopping.naver.com/art/stores/1000013726/news/5000941224</guid>
+            <pubDate>Fri, 05 Jan 2024 10:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/1000013726/news/5000941224" class="_3awplngVTT N=a:eli.news,i:5000941224 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">아티쉬 명화 노트 출시🎨</strong><p class="S7nFgeJfh8">[NEW] 명화 노트 고흐, 모네, 클림트 등 전세계적인 아티스트들의 명화를 담은 노트가 출시되었습니다.✨ 유선과 무선 두가지 옵션을 선택할 수 있어 용도에 맞춰 사용할 수 있습니다. 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) https://www.artish.co.kr/main/index.php</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240105_44/1704448014499i9aaF_JPEG/%EB%AA%85%ED%99%94%EB%85%B8%ED%8A%B8.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240105_44/1704448014499i9aaF_JPEG/%EB%AA%85%ED%99%94%EB%85%B8%ED%8A%B8.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240105_44/1704448014499i9aaF_JPEG/%EB%AA%85%ED%99%94%EB%85%B8%ED%8A%B8.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[SALE] 오늘의 작품 1위! 이우환 Lee Ufan 5% 할인쿠폰]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 03 Jan 2024 02:25:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/art/stores/100429941/news/5000936077" class="_3awplngVTT N=a:eli.news,i:5000936077 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">HAPPY NEW YEAR 2024</strong><p class="S7nFgeJfh8">푸른 용의 해 2024년 모두 행복하고 즐거운 일 가득하세요 :)</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240103_274/1704247463233UrCVH_PNG/2024_%EC%B2%AD%EB%A3%A1%EC%9D%98%ED%95%B4.png?type=w304" data-src="https://shop-phinf.pstatic.net/20240103_274/1704247463233UrCVH_PNG/2024_%EC%B2%AD%EB%A3%A1%EC%9D%98%ED%95%B4.png?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240103_274/1704247463233UrCVH_PNG/2024_%EC%B2%AD%EB%A3%A1%EC%9D%98%ED%95%B4.png?type=w304" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[섬세함이 돋보이는 정물 작품]]></title>
-            <link>https://shopping.naver.com/art/event/20033544</link>
-            <guid>https://shopping.naver.com/art/event/20033544</guid>
-            <pubDate>Tue, 02 Jan 2024 15:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[인기 있는 포스터 모음]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240102_56/1704167612063JBkrs_JPEG/ED8FACEC8AA4ED84B0.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
