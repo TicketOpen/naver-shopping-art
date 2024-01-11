@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 02:29:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 03:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 05 Nov 2023 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[윈즈데이] 일리야밀스타인의 작품을 일상에서도 만나보세요🎨 일리야밀스타인 전상품 10%]]></title>
+            <link>https://shopping.naver.com/art/stores/1000013726/news/5000948175</link>
+            <guid>https://shopping.naver.com/art/stores/1000013726/news/5000948175</guid>
+            <pubDate>Thu, 11 Jan 2024 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/1000013726/news/5000948175" class="_3awplngVTT N=a:eli.news,i:5000948175 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[윈즈데이] 일리야밀스타인의 작품을 일상에서도 만나보세요🎨 일리야밀스타인 전상품 10%</strong><p class="S7nFgeJfh8">안녕하세요 아티쉬입니다 :) 평범한 풍경을 풍부한 상상력으로 재구성하여 특별한 이미지로 펼쳐내는 작가 일리야 밀스타인.🎨 그의 감각적인 드로잉이 담긴 아트상품을 윈즈데이 기간동안 10%할인가에 아티쉬에서 만나보세요! 오직 아티쉬에서만 만나볼 수있는 작가와의 정식 라이선싱 계약을 통하여 만들어지는 자체 제작 상품들과 정품아트포스터의 가치를 전합니다 :) https://www.artish.co.kr/main/index.php</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240111_126/1704941553027myB7F_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D_%EC%9C%88%EC%A6%88%EB%8D%B0%EC%9D%B4.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240111_126/1704941553027myB7F_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D_%EC%9C%88%EC%A6%88%EB%8D%B0%EC%9D%B4.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240111_126/1704941553027myB7F_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D_%EC%9C%88%EC%A6%88%EB%8D%B0%EC%9D%B4.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[SALE] 2024 청룡의 해, 김환기 5% 할인쿠폰]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 08 Jan 2024 15:15:10 GMT</pubDate>
             <content:encoded><![CDATA[새로운 취미 생활로 등극]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240103_113/1704246667220roWHE_JPEG/EC9584ED8AB8EC9C88EB8F843.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공예 디자인의 아름다움]]></title>
-            <link>https://shopping.naver.com/art/event/20033631</link>
-            <guid>https://shopping.naver.com/art/event/20033631</guid>
-            <pubDate>Sun, 07 Jan 2024 15:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[다양하게 만나보세요~]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240103_23/170424595899491T9v_JPEG/EC9584ED8AB8EC9C88EB8F842.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
