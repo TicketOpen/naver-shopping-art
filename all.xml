@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 14:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 15:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 05 Nov 2023 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[전통이 담겨 멋진 문화템 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20033752</link>
+            <guid>https://shopping.naver.com/art/event/20033752</guid>
+            <pubDate>Mon, 15 Jan 2024 15:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[놓기만 해도 시선이 가요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240109_235/1704765202587GGKxj_JPEG/EC9584ED8AB8EC8381ED9288.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[재미있는 추상 작품의 세계 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 09 Jan 2024 15:15:42 GMT</pubDate>
             <content:encoded><![CDATA[선물하기에도 좋아요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240109_53/1704764860590fSzDI_JPEG/ED8C90ED9994.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청룡의 기운으로 비상하는 한해, 청룡 그림전 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
-            <link>https://shopping.naver.com/art/stores/100384663/news/5000945705</link>
-            <guid>https://shopping.naver.com/art/stores/100384663/news/5000945705</guid>
-            <pubDate>Tue, 09 Jan 2024 10:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/art/stores/100384663/news/5000945705" class="_3awplngVTT N=a:eli.news,i:5000945705 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">청룡의 기운으로 비상하는 한해, 청룡 그림전</strong><p class="S7nFgeJfh8">[컨티뉴아트샵] 청룡의 기운으로 비상하는 한 해 청룡그림전 2024년은 갑진년입니다. 갑은 청을 뜻하고, 진은 용을 말합니다. 그래서 올해를 청룡의 해라고 하죠. 청룡은 사신 중 동쪽을 수호하고 봄을 관장합니다 그래서 다양한 서브컬처에서 활용되는 동물입니다. 그래서 청룡은 고요하고 권위와 힘, 풍요로움을 상징하고 있습니다. 갑진년에는 많은 분들이 청룡의 기운으로 풍요로움을 받으시고, 자신이 꿈꾸고 생각했던 것들이 비상하는 한해가 되길 기원합니다. 이번 1월 11일 저녁 8시에 다양한 청룡 그림과 쇼핑라이브 혜택으로 생생한 그림의 현장을 담을 예정이니 많은 관심과 사랑 부탁드립니다. 다양한 민화 속 청룡과 이쁜 디자인으로 표현된 청룡으로 풍수적 효과와 변화된 인테리어를 경험하세요!</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240109_239/1704792880224ammoq_JPEG/%EC%87%BC%ED%95%91%EC%9C%88%EB%8F%84_800x484.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240109_239/1704792880224ammoq_JPEG/%EC%87%BC%ED%95%91%EC%9C%88%EB%8F%84_800x484.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240109_239/1704792880224ammoq_JPEG/%EC%87%BC%ED%95%91%EC%9C%88%EB%8F%84_800x484.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[위아트] 톰 삭스 'Too Darn Hot' 입고 (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
@@ -192,6 +192,14 @@
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[전통이 담겨 멋진 문화템 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20033752</link>
+            <guid>https://shopping.naver.com/art/event/20033752</guid>
+            <pubDate>Mon, 15 Jan 2024 15:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[놓기만 해도 시선이 가요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240109_235/1704765202587GGKxj_JPEG/EC9584ED8AB8EC8381ED9288.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[재미있는 추상 작품의 세계 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
             <link>https://shopping.naver.com/art/event/20033751</link>
             <guid>https://shopping.naver.com/art/event/20033751</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 04 Jan 2024 15:15:50 GMT</pubDate>
             <content:encoded><![CDATA[특별함을 원한다면!]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240103_30/1704245163197nQ12C_JPEG/EC9584ED8AB8.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[섬세함이 돋보이는 정물 작품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
-            <link>https://shopping.naver.com/art/event/20033544</link>
-            <guid>https://shopping.naver.com/art/event/20033544</guid>
-            <pubDate>Tue, 02 Jan 2024 15:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[인기 있는 포스터 모음]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240102_56/1704167612063JBkrs_JPEG/ED8FACEC8AA4ED84B0.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
