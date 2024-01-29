@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 14:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 15:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 14 Jan 2024 06:18:22 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[생생한 인물 작품]]></title>
+            <link>https://shopping.naver.com/art/event/20034043</link>
+            <guid>https://shopping.naver.com/art/event/20034043</guid>
+            <pubDate>Mon, 29 Jan 2024 15:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[인물의 아름다움을 느껴요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240123_205/1705980619546dCd66_JPEG/4.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전통을 고스란히 담았어요]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 18 Jan 2024 15:15:53 GMT</pubDate>
             <content:encoded><![CDATA[컬러로 만들어지는 추상화]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240116_236/1705389428452iXivL_JPEG/ED9A8CED9994.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공예디자인으로 꾸미기]]></title>
-            <link>https://shopping.naver.com/art/event/20033918</link>
-            <guid>https://shopping.naver.com/art/event/20033918</guid>
-            <pubDate>Tue, 16 Jan 2024 15:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[디테일이 남달라요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240116_183/17053885181057fmco_JPEG/EAB3B5EC9888EB9494EC9E90EC9DB8.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
