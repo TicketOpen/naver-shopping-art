@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 14:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 15:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 05 Nov 2023 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[풍경을 사진으로 감상해요]]></title>
+            <link>https://shopping.naver.com/art/event/20034138</link>
+            <guid>https://shopping.naver.com/art/event/20034138</guid>
+            <pubDate>Thu, 01 Feb 2024 15:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[힐링하기 좋은 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240130_139/1706594573482I8bhn_JPEG/EC9584ED8AB82.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[위아트] 알렉스 카츠 'Yellow Flags on White' 오리지널 판화 입고!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 31 Jan 2024 08:17:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/art/stores/100227750/news/5000999727" class="_3awplngVTT N=a:eli.news,i:5000999727 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[갤러리조이아트샵] 설 맞이 선물 준비</strong><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240131_276/1706686688381uxnJG_JPEG/%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240131_276/1706686688381uxnJG_JPEG/%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240131_276/1706686688381uxnJG_JPEG/%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보기만 해도 싱그러운 작품]]></title>
-            <link>https://shopping.naver.com/art/event/20034137</link>
-            <guid>https://shopping.naver.com/art/event/20034137</guid>
-            <pubDate>Tue, 30 Jan 2024 15:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[정물의 매력에 빠져보세요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240130_83/170659450495667ysS_JPEG/EC9584ED8AB81.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
