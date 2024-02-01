@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 05:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 06:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 05 Nov 2023 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[아티쉬 공식 블로그 오픈 기념 EVENT ✨]]></title>
+            <link>https://shopping.naver.com/art/stores/1000013726/news/5001010883</link>
+            <guid>https://shopping.naver.com/art/stores/1000013726/news/5001010883</guid>
+            <pubDate>Thu, 01 Feb 2024 06:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/1000013726/news/5001010883" class="_3awplngVTT N=a:eli.news,i:5001010883 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">아티쉬 공식 블로그 오픈 기념 EVENT ✨</strong><p class="S7nFgeJfh8">[EVENT] 아티쉬 공식 블로그 오픈 기념 이벤트 아티쉬만의 다양한 소식과 이야기를 블로그에서 만나보세요.아티쉬가 여러분께 특별한 즐거움을 전할게요. 아티쉬 이웃 신청 후 축하와 응원을 블로그 댓글로 남겨주세요. 추첨을 통해 30분께 아티쉬의 프레리 달력&amp;다이어리 세트를 드립니다.</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240201_139/1706766152999G7l05_JPEG/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%98%A4%ED%94%88%EC%9D%B4%EB%B2%A4%ED%8A%B8.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240201_139/1706766152999G7l05_JPEG/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%98%A4%ED%94%88%EC%9D%B4%EB%B2%A4%ED%8A%B8.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240201_139/1706766152999G7l05_JPEG/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%98%A4%ED%94%88%EC%9D%B4%EB%B2%A4%ED%8A%B8.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘의작품 1위🎁복을 부르는 달항아리 기획전]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 29 Jan 2024 15:13:45 GMT</pubDate>
             <content:encoded><![CDATA[인물의 아름다움을 느껴요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240123_205/1705980619546dCd66_JPEG/4.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전통을 고스란히 담았어요]]></title>
-            <link>https://shopping.naver.com/art/event/20034042</link>
-            <guid>https://shopping.naver.com/art/event/20034042</guid>
-            <pubDate>Sun, 28 Jan 2024 15:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[멋짐이란것이 폭발한다]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240123_180/170598051701590TVb_JPEG/3.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
