@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Feb 2024 14:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2024 15:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 14 Jan 2024 06:18:22 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[유명한 명화를 포스터로]]></title>
+            <link>https://shopping.naver.com/art/event/20034139</link>
+            <guid>https://shopping.naver.com/art/event/20034139</guid>
+            <pubDate>Sun, 04 Feb 2024 15:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[집안의 품격이 높아져요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240130_248/1706594725776TCrwM_JPEG/EC9584ED8AB83.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[풍경을 사진으로 감상해요]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 23 Jan 2024 15:15:41 GMT</pubDate>
             <content:encoded><![CDATA[자꾸 시선이 가는 매력]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240123_107/1705980343309QYU1q_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힐링되는 풍경 사진]]></title>
-            <link>https://shopping.naver.com/art/event/20033949</link>
-            <guid>https://shopping.naver.com/art/event/20033949</guid>
-            <pubDate>Mon, 22 Jan 2024 15:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[보기만 해도 기분 좋아져요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240116_151/17053905495498UIE8_JPEG/EC82ACECA784.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
