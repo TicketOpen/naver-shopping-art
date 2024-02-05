@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 14:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 15:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 14 Jan 2024 06:18:22 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[휴대폰을 더욱 특별하게]]></title>
+            <link>https://shopping.naver.com/art/event/20034140</link>
+            <guid>https://shopping.naver.com/art/event/20034140</guid>
+            <pubDate>Mon, 05 Feb 2024 15:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[작품으로 꾸며보세요!]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240130_203/1706594809413P03Nt_JPEG/EC9584ED8AB84.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유명한 명화를 포스터로]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 Jan 2024 15:16:52 GMT</pubDate>
             <content:encoded><![CDATA[한 층 더 업그레이드]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240123_83/1705980444178I5VGc_JPEG/2.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포스터로 만나는 팝아트]]></title>
-            <link>https://shopping.naver.com/art/event/20034040</link>
-            <guid>https://shopping.naver.com/art/event/20034040</guid>
-            <pubDate>Tue, 23 Jan 2024 15:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[자꾸 시선이 가는 매력]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240123_107/1705980343309QYU1q_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
