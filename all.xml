@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 01:50:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 02:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -91,7 +91,7 @@
             <title><![CDATA[[청화랑] 추영애 개인전 - My drawing room (네이버쇼핑 ─ 아트윈도 ─ 소식)]]></title>
             <link>https://shopping.naver.com/art/stores/100165354/news/5001074960</link>
             <guid>https://shopping.naver.com/art/stores/100165354/news/5001074960</guid>
-            <pubDate>Wed, 07 Feb 2024 01:50:36 GMT</pubDate>
+            <pubDate>Wed, 07 Feb 2024 01:50:29 GMT</pubDate>
             <content:encoded><![CDATA[추영애 개인전 My drawing room]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240207_60/1707269046632tf7x6_JPEG/%EA%B4%91%EA%B3%A0_(1).jpg?type=w304" length="0" type="image/jpg"/>
         </item>
