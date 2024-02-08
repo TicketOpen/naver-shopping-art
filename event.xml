@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 02:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 03:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 05 Nov 2023 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[디자인과 예술의 경계를 무너뜨리는 '로낭 부홀렉'의 그림]]></title>
+            <link>https://shopping.naver.com/art/stores/1000013726/news/5001081144</link>
+            <guid>https://shopping.naver.com/art/stores/1000013726/news/5001081144</guid>
+            <pubDate>Thu, 08 Feb 2024 03:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/1000013726/news/5001081144" class="_3awplngVTT N=a:eli.news,i:5001081144 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">디자인과 예술의 경계를 무너뜨리는 '로낭 부홀렉'의 그림</strong><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240208_133/1707360754511cxx2z_JPEG/%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%EC%8D%B8%EB%84%A4%EC%9D%BC_mo.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240208_133/1707360754511cxx2z_JPEG/%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%EC%8D%B8%EB%84%A4%EC%9D%BC_mo.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240208_133/1707360754511cxx2z_JPEG/%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%EC%8D%B8%EB%84%A4%EC%9D%BC_mo.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마감임박] 설날맞이 달항아리 판화, 30% OFF]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 05 Feb 2024 15:13:56 GMT</pubDate>
             <content:encoded><![CDATA[작품으로 꾸며보세요!]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240130_203/1706594809413P03Nt_JPEG/EC9584ED8AB84.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유명한 명화를 포스터로]]></title>
-            <link>https://shopping.naver.com/art/event/20034139</link>
-            <guid>https://shopping.naver.com/art/event/20034139</guid>
-            <pubDate>Sun, 04 Feb 2024 15:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[집안의 품격이 높아져요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240130_248/1706594725776TCrwM_JPEG/EC9584ED8AB83.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
