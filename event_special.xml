@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 14:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 15:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 14 Jan 2024 06:18:22 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[소장가치 충분한 아트 문구]]></title>
+            <link>https://shopping.naver.com/art/event/20034487</link>
+            <guid>https://shopping.naver.com/art/event/20034487</guid>
+            <pubDate>Thu, 15 Feb 2024 15:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[쟁일수록 좋아요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240213_69/1707815179322muCK3_JPEG/EBACB8EAB5ACEBA598.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유니크한 그래픽 포스터]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 05 Feb 2024 15:14:08 GMT</pubDate>
             <content:encoded><![CDATA[작품으로 꾸며보세요!]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240130_203/1706594809413P03Nt_JPEG/EC9584ED8AB84.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유명한 명화를 포스터로]]></title>
-            <link>https://shopping.naver.com/art/event/20034139</link>
-            <guid>https://shopping.naver.com/art/event/20034139</guid>
-            <pubDate>Sun, 04 Feb 2024 15:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[집안의 품격이 높아져요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240130_248/1706594725776TCrwM_JPEG/EC9584ED8AB83.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
