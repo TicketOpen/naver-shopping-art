@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 14:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 15:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 14 Jan 2024 06:18:22 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[집에 멋진 포스터 한 장]]></title>
+            <link>https://shopping.naver.com/art/event/20034701</link>
+            <guid>https://shopping.naver.com/art/event/20034701</guid>
+            <pubDate>Sun, 25 Feb 2024 15:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[액자 하나로 인테리어 끝]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240220_295/17083984974106ky7V_JPEG/ED8FACEC8AA4ED84B0.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사진 작품의 세계로 풍덩]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 12 Feb 2024 15:14:49 GMT</pubDate>
             <content:encoded><![CDATA[인테리어 효과까지 있어요]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240206_280/1707187058465aFho1_JPEG/EC82ACECA784ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다채로운 풍경을 모았어요]]></title>
-            <link>https://shopping.naver.com/art/event/20034359</link>
-            <guid>https://shopping.naver.com/art/event/20034359</guid>
-            <pubDate>Sun, 11 Feb 2024 15:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[힐링되는 작품들 모음]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240206_286/1707186953595XxfXc_JPEG/ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
