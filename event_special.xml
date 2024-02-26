@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 14:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 15:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 14 Jan 2024 06:18:22 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[생활 속에 스며든 아트상품]]></title>
+            <link>https://shopping.naver.com/art/event/20034690</link>
+            <guid>https://shopping.naver.com/art/event/20034690</guid>
+            <pubDate>Mon, 26 Feb 2024 15:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[특별함을 원해요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240219_98/17083430253435ucbm_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[집에 멋진 포스터 한 장]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 13 Feb 2024 15:13:33 GMT</pubDate>
             <content:encoded><![CDATA[유쾌함 넘치는 작품 모음]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240213_81/17078141724851Ti2i_JPEG/ED8FACEC8AA4ED84B0.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사진으로 감상하는 풍경]]></title>
-            <link>https://shopping.naver.com/art/event/20034360</link>
-            <guid>https://shopping.naver.com/art/event/20034360</guid>
-            <pubDate>Mon, 12 Feb 2024 15:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[인테리어 효과까지 있어요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240206_280/1707187058465aFho1_JPEG/EC82ACECA784ED928DEAB2BD.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
