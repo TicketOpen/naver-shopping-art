@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 14:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 15:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 14 Jan 2024 06:18:22 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사진으로 만나는 다채로운 작품]]></title>
+            <link>https://shopping.naver.com/art/event/20034820</link>
+            <guid>https://shopping.naver.com/art/event/20034820</guid>
+            <pubDate>Mon, 04 Mar 2024 15:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[정물화의 재발견]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240227_225/17089933137314NAVc_JPEG/4.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팝아트의 세계로 빠져봐요]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 22 Feb 2024 15:14:42 GMT</pubDate>
             <content:encoded><![CDATA[실물 같은 생생함]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240220_267/17083983256997IDEs_JPEG/EC82ACECA784.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멋진 추상 작품 구경해요]]></title>
-            <link>https://shopping.naver.com/art/event/20034699</link>
-            <guid>https://shopping.naver.com/art/event/20034699</guid>
-            <pubDate>Tue, 20 Feb 2024 15:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[선물로도 적극 추천]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240220_28/1708398260618zt3T5_JPEG/ED8C90ED9994.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
