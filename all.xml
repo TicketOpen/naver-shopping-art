@@ -1,7 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TicketOpen.github.io/naver-shopping-art/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2024-03-06T12:26:52.577Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 06 Mar 2024 13:15:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 찻잔과 식탁용품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20032114</link>
+            <guid>https://shopping.naver.com/art/event/20032114</guid>
+            <pubDate>Wed, 06 Mar 2024 13:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[찻잔과 식탁용품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_164/16983883091661GNyM_PNG/ED8AB9ED9689%2B1.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 악세서리와 생활소품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20032115</link>
+            <guid>https://shopping.naver.com/art/event/20032115</guid>
+            <pubDate>Wed, 06 Mar 2024 13:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[악세서리와 생활소품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_23/1698388320616EisOp_PNG/ED8AB9ED9689%2B2.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 인테리어소품과 가구 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20032116</link>
+            <guid>https://shopping.naver.com/art/event/20032116</guid>
+            <pubDate>Wed, 06 Mar 2024 13:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[동물의 모습을 감상해요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20034938</link>
+            <guid>https://shopping.naver.com/art/event/20034938</guid>
+            <pubDate>Wed, 06 Mar 2024 13:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[포스터로 꾸며요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240305_105/1709599377272Rrqrk_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사진으로 만나는 다채로운 작품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20034820</link>
+            <guid>https://shopping.naver.com/art/event/20034820</guid>
+            <pubDate>Wed, 06 Mar 2024 13:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[정물화의 재발견]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240227_225/17089933137314NAVc_JPEG/4.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝아트의 세계로 빠져봐요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20034817</link>
+            <guid>https://shopping.naver.com/art/event/20034817</guid>
+            <pubDate>Wed, 06 Mar 2024 13:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[판화 작품 구경하세요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240227_86/1708993143390xaIMk_JPEG/3.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[회화로 만나는 풍경 감상 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20034816</link>
+            <guid>https://shopping.naver.com/art/event/20034816</guid>
+            <pubDate>Wed, 06 Mar 2024 13:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[작가의 시선을 느껴요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240227_175/1708992796857nO7Ut_JPEG/2.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일상에서 즐기는 아트 상품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20034815</link>
+            <guid>https://shopping.naver.com/art/event/20034815</guid>
+            <pubDate>Wed, 06 Mar 2024 13:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[패션 소품의 변신]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240227_225/1708992535947V2tT3_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생활 속에 스며든 아트상품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20034690</link>
+            <guid>https://shopping.naver.com/art/event/20034690</guid>
+            <pubDate>Wed, 06 Mar 2024 13:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[특별함을 원해요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240219_98/17083430253435ucbm_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[집에 멋진 포스터 한 장 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20034701</link>
+            <guid>https://shopping.naver.com/art/event/20034701</guid>
+            <pubDate>Wed, 06 Mar 2024 13:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[액자 하나로 인테리어 끝]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240220_295/17083984974106ky7V_JPEG/ED8FACEC8AA4ED84B0.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
