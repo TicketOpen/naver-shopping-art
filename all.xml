@@ -1,7 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TicketOpen.github.io/naver-shopping-art/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2024-03-24T18:19:09.691Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 24 Mar 2024 19:13:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 찻잔과 식탁용품 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20032114</link>
+            <guid>https://shopping.naver.com/art/event/20032114</guid>
+            <pubDate>Sun, 24 Mar 2024 19:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[찻잔과 식탁용품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_164/16983883091661GNyM_PNG/ED8AB9ED9689%2B1.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 악세서리와 생활소품 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20032115</link>
+            <guid>https://shopping.naver.com/art/event/20032115</guid>
+            <pubDate>Sun, 24 Mar 2024 19:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[악세서리와 생활소품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_23/1698388320616EisOp_PNG/ED8AB9ED9689%2B2.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 인테리어소품과 가구 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20032116</link>
+            <guid>https://shopping.naver.com/art/event/20032116</guid>
+            <pubDate>Sun, 24 Mar 2024 19:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[보이드빌라 스마트스토어 접속 안내 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/101706515/news/5001150550</link>
+            <guid>https://shopping.naver.com/art/stores/101706515/news/5001150550</guid>
+            <pubDate>Sun, 24 Mar 2024 19:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/101706515/news/5001150550" class="_3awplngVTT N=a:eli.news,i:5001150550 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">보이드빌라 스마트스토어 접속 안내</strong><p class="S7nFgeJfh8">_ 보이드빌라 스마트스토어 링크</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240325_75/1711303066498bf1Ic_JPEG/%EB%B3%B4%EC%9D%B4%EB%93%9C%EB%B9%8C%EB%9D%BC.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240325_75/1711303066498bf1Ic_JPEG/%EB%B3%B4%EC%9D%B4%EB%93%9C%EB%B9%8C%EB%9D%BC.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240325_75/1711303066498bf1Ic_JPEG/%EB%B3%B4%EC%9D%B4%EB%93%9C%EB%B9%8C%EB%9D%BC.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보이드빌라 쇼룸 안내 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/101706515/news/5001150548</link>
+            <guid>https://shopping.naver.com/art/stores/101706515/news/5001150548</guid>
+            <pubDate>Sun, 24 Mar 2024 19:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/101706515/news/5001150548" class="_3awplngVTT N=a:eli.news,i:5001150548 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">보이드빌라 쇼룸 안내</strong><p class="S7nFgeJfh8">_ 보이드빌라 안내 예약하기 링크 보이드빌라 인스타그램</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240325_127/1711301732340tn7BO_JPEG/%EC%87%BC%ED%95%91%EC%8A%A4%ED%86%A0%EB%A6%AC.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240325_127/1711301732340tn7BO_JPEG/%EC%87%BC%ED%95%91%EC%8A%A4%ED%86%A0%EB%A6%AC.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240325_127/1711301732340tn7BO_JPEG/%EC%87%BC%ED%95%91%EC%8A%A4%ED%86%A0%EB%A6%AC.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[위아트] 키치 예술의 대가, 제프 쿤스 'Pink Panther' 입고! (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/1000017865/news/5001149438</link>
+            <guid>https://shopping.naver.com/art/stores/1000017865/news/5001149438</guid>
+            <pubDate>Sun, 24 Mar 2024 19:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/1000017865/news/5001149438" class="_3awplngVTT N=a:eli.news,i:5001149438 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[위아트] 키치 예술의 대가, 제프 쿤스 'Pink Panther' 입고!</strong><p class="S7nFgeJfh8">안녕하세요 세상의 모든 그림 위아트입니다. 오늘은 위아트 오리지널 카테고리에 신규 등록된 작품, 제프 쿤스 (Jeff Koons)의 &lt;Pink Panther&gt;을 소개해드리려고 합니다. 포스트 팝아트의 경계를 확장한 제프쿤스, 그의 작품 세계를 지금부터 함께 알아보실까요? :) 키치 예술의 대가, 제프 쿤스 WEART ORIGINAL 제프쿤스는 일상적인 물건을 화려하게 재해석하여 대중들에게 친숙하면서도 독특한 미술 작품을 선보였습니다. 그의 작품은 일상과 예술 사이의 관계를 들여다보게 하며, 예술이 어떻게 대중문화에 영향을 미치는지를 보여줍니다. ■ 위아트 인스타그램 바로가기 제프 쿤스 &lt;Pink Panther&gt; WEART ORIGINAL &lt;Pink Panther&gt; 제프 쿤스의 대표작 중 하나로, 팝 아트의 영향을 받아 대중적이고 상징적인 이미지를 현실적으로 재현한 작품입니다. 이를 통해 쿤스는 대중문화와의 상호작용을 강조하며 대중과 예술 간의 경계를 허물고자 했습니다. "Pink Panther"는 제프 쿤스의 아트웍 중 하나로, 그의 대중문화에 대한 현대적이고 독특한 시각을 대표하며 광범위한 관객들과 소통하는 예술가로서의 역할을 강조합니다. 그렇다면 제프 쿤스 의 작품을 소장해야할 이유는 무엇일까요? 01 에디션 넘버가 존재하는 한정판 작품으로, 오리지널 작품과 동일하게 가치 상승이 반영됩니다. 02 생존 작가 중 단일 작품 최고 낙찰가 1200억 기록 (2019 크리스티) 03 세계 경매시장 TOP 100 작가 (아트프라이스) 스케이트보드로 재현된 해당 작품은 단순한 평면의 작품과 달리 독특한 아트오브제의 매력을 느낄 수 있는 한정판 에디션 작품입니다. 오브제이지만 실제 스케이트보드로 제작된 작품의 특성상 8개의 타공구가 각 패널에 존재합니다. 오브제 작품의 특성을 유지하는 레비테이션 프레임을 적용하여 차원이 다른 아트 오브제 연출을 제공합니다. ■ 제프 쿤스_&lt;Pink Panther&gt; 바로가기 포스트 팝아트의 경계를 확장한 키치예술의 대가 제프 쿤스, 지금까지 그의 &lt;Pink Panther&gt; 에디션을 소개해드렸습니다. 새로운 시각을 선사하는 그의 작품으로 소장과 미적 가치를 느껴보시는 건 어떨까요? 제프 쿤스뿐만 아니라 다른 핫한 아티스트들의 오리지널 아트웍들도 위아트에서 만나보실 수 있습니다. 이상, 여러분의 예술적 취향과 삶을 빛낼 수 있도록 작품을 찾아드리는 위아트 큐레이터였습니다. 감사합니다. :) Pink Panther www.wart.co.kr &lt; 위아트 쇼룸 안내 &gt; 강남점 쇼룸 운영시간 | 오전 11시~ 오후 8시 부산점 쇼룸 운영시간 | 오전 10시~ 오후 7시 ​ 큐레이터 상담 가능 시간 | 강남점: 오전 11시~ 오후 7시 30분 부산점: 오전 10시~오후 6시 30분 평일&amp;주말&amp;공휴일 연중무휴입니다. ​ 고객센터 | 1644-8697 ​ 카카오톡 ID | 위아트 ​ 쇼룸 위치 | ​ 서울 강남점 : 서울특별시 강남구 압구정로 102, 2층 (신사동, 형지제2빌딩) 위아트 ​ 부산 부산점 : 부산광역시 수영구 수영로 566 ​ ※쇼룸에 관한 문의는 고객센터 1644-8697로 연락 주시면 친절히 안내해 드리겠습니다. ​ ​ ​ 세상의 모든 그림 위아트 ​ www.wart.or.kr</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240323_235/1711158300961AroKc_PNG/20240323_104459.png?type=w304" data-src="https://shop-phinf.pstatic.net/20240323_235/1711158300961AroKc_PNG/20240323_104459.png?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240323_235/1711158300961AroKc_PNG/20240323_104459.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[일상을 동화로 꿈을 꾸는 시간, 요나스 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/100384663/news/5001148963</link>
+            <guid>https://shopping.naver.com/art/stores/100384663/news/5001148963</guid>
+            <pubDate>Sun, 24 Mar 2024 19:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100384663/news/5001148963" class="_3awplngVTT N=a:eli.news,i:5001148963 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">일상을 동화로 꿈을 꾸는 시간, 요나스</strong><p class="S7nFgeJfh8">일상을 동화로 꿈을 꾸는 시간, 요나스 톱니바퀴처럼 굴러가는 일상에서 우리는 간혹 동화같은 일을 맞이하죠. 여러분은 그 동화같은 일을 어떻게 간직하시나요? 저는 잔잔한 물결처럼 간혹 생각나요. 요나스 작가님은 그 동화같은 일상들을 도화지 위에 간직합니다. 작가님의 작품을 보면 휴식, 여행, 쉼 같은 일상들이 동화같이 표현되죠. 우리는 그림으로 일상을 같이 공감하고, 느낄 수 있죠. 요나스 작가님의 작품을 보면서 일상을 동화로 꿈꿔보시는 것은 어떨까요? 01. 파란지붕, 요나스 02. 꽃밭에서, 요나스 03. 특별한 오후, 요나스 04. 꽃집, 요나스 05. 가을 하늘, 요나스</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240322_17/1711091300188MQB92_JPEG/%EC%9A%94%EB%82%98%EC%8A%A4_%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84800x484.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240322_17/1711091300188MQB92_JPEG/%EC%9A%94%EB%82%98%EC%8A%A4_%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84800x484.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240322_17/1711091300188MQB92_JPEG/%EC%9A%94%EB%82%98%EC%8A%A4_%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84800x484.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀여운 그림으로 내방 꾸미기 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20035370</link>
+            <guid>https://shopping.naver.com/art/event/20035370</guid>
+            <pubDate>Sun, 24 Mar 2024 19:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[인테리어 효과 만점]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240319_13/1710807543342GMS4j_JPEG/2.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄맞이 _Breath of Spring (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/100160502/news/5001146830</link>
+            <guid>https://shopping.naver.com/art/stores/100160502/news/5001146830</guid>
+            <pubDate>Sun, 24 Mar 2024 19:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100160502/news/5001146830" class="_3awplngVTT N=a:eli.news,i:5001146830 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">봄맞이 _Breath of Spring</strong><p class="S7nFgeJfh8">봄맞이 _Breath of Spring 봄맞이 _ Breath of Spring 이음이 제안합니다. 봄맞이 선물로 준비하실수 있도록 할인쿠폰을 준비했습니다. 소중한 분들에게 좋은 선물 되세요 [주문기간] 2024. 3.22 ~ 4.10 대상 컬렉션 기간동안 주문시 전제품 10% 할인쿠폰 증정 [ 작가의 작품 ] 특별한 작가의 작품으로 특별한 선물을 제안합니다. 주문제작이라 기간이 소요되니 참고해주세요 [ 작품관리 ] 작품제작 - 고객의 선택 - 추후관리 와 AS 최선을 다합니다. -------- *** 네이버 아트윈도와 스마트스토어, 이음 스튜디오에서만 구매 가능합니다. *** 모든 작품은 이음만의 케이스와 포장에 담겨집니다. 선물상담은 언제나 네이버 톡톡으로 열려있습니다.</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240321_172/1710999766269mICL9_JPEG/2024_04.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240321_172/1710999766269mICL9_JPEG/2024_04.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240321_172/1710999766269mICL9_JPEG/2024_04.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[위아트] 팝아트의 선구자, 앤디 워홀 'Campbell's Soup Cans' 입고! (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/1000017865/news/5001146508</link>
+            <guid>https://shopping.naver.com/art/stores/1000017865/news/5001146508</guid>
+            <pubDate>Sun, 24 Mar 2024 19:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/1000017865/news/5001146508" class="_3awplngVTT N=a:eli.news,i:5001146508 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[위아트] 팝아트의 선구자, 앤디 워홀 'Campbell's Soup Cans' 입고!</strong><p class="S7nFgeJfh8">안녕하세요 세상의 모든 그림 위아트입니다. 오늘은 위아트 오리지널 카테고리에 신규 등록된 작품, 앤디 워홀(Andy Warhol)의 &lt;Campbell's Soup Cans&gt; 에디션을 소개해드리려고 합니다. 팝아트하면 가장 먼저 떠오르는 아티스트 앤디 워홀, 그의 작품 세계를 지금부터 함께 알아보실까요? :) 팝아트의 선구자, 앤디 워홀 WEART ORIGINAL 앤디 워홀은 주로 대중 문화의 상품과 아이콘을 그려냄으로써 우리가 주목하지 않았던 아름다움을 발견했습니다. 작품은 화려한 컬러와 감각적인 패턴을 통해 감성적인 깊이를 더했는데, 이는 마치 그 시대의 일상과 꿈 사이를 오가는 듯한 느낌을 선사하며, 우리를 감성의 파도 위에서 품어 안아 새로운 아름다움을 엿보게 합니다. ■ 위아트 인스타그램 바로가기 앤디 워홀 &lt;Campbell's Soup Cans&gt; 에디션 WEART ORIGINAL &lt;Campbell's Soup Cans&gt; 앤디 워홀의 대표작 중 하나로, 1961년에 창작된 팝 아트의 아이콘적인 작품입니다. 이 작품은 32개의 캔으로 이루어진 캠벨 스프의 다양한 맛을 담고 있으며, 대량 생산과 소비문화에 대한 비판적인 메시지를 전달합니다. 워홀은 반복된 이미지와 모노크롬 색상을 통해 기계적이고 상업적인 미적 효과를 창출하여 현대 사회를 표현했습니다. 'Campbell's Soup Cans'는 워홀의 아트월드 진입을 알리며 팝 아트 운동의 중요한 출발점이 된 작품입니다. 그렇다면 앤디 워홀의 작품을 소장해야할 이유는 무엇일까요? 01 15년간 1,311%의 거대한 가격 상승 (2006 176억→2021 2,485억) 02 역대 미술작품 경매 낙찰가 2위 한화 2,485억 (2021 크리스티) 03 2023년 전세계 작가 종합순위 9위 기록 (아트프라이스) 앤디 워홀의 &lt;Campbell's Soup Cans&gt; 에디션은 스케이트보드로 대현되어 단순한 평면 작품과 달리 독특한 아트 오브제의 매력을 느낄 수 있는 정식 라이센스 작품입니다. 오브제이지만 실제 스케이트보드로 제작된 작품의 특성 상 8개의 타공구가 각 패널에 존재합니다. 세밀하게 표현된 컬러, 그리고 오브제 작품의 특성을 유지하는 레비테이션 프레임을 적용하여 차원이 다른 아트 오브제 연출을 제공합니다. ■ 앤디 워홀_Campbell's Soup Cans 에디션 바로가기 대량 생산과 매스 미디어가 발달된 사회를 적극적으로 이용하여 풍자적인 작품들로 세계적인 명성을 얻은 희대의 팝 아티스트 앤디 워홀, 지금까지 그의 &lt;Campbell's Soup Cans&gt; 오픈 에디션 아트 오브제를 소개해드렸습니다. 정신 라이센스가 부여된 그의 작품으로 소장과 미적 가치를 느껴보시는 건 어떨까요? 앤디 워홀 뿐만 아니라 다른 핫한 아티스트들의 오리지널 아트웍들도 위아트에서 만나보실 수 있습니다. 이상, 여러분의 예술적 취향과 삶을 빛낼 수 있도록 작품을 찾아드리는 위아트 큐레이터였습니다. 감사합니다. :) Campbell's Soup Cans www.wart.co.kr &lt; 위아트 쇼룸 안내 &gt; 강남점 쇼룸 운영시간 | 오전 11시~ 오후 8시 부산점 쇼룸 운영시간 | 오전 10시~ 오후 7시 ​ 큐레이터 상담 가능 시간 | 강남점: 오전 11시~ 오후 7시 30분 부산점: 오전 10시~오후 6시 30분 평일&amp;주말&amp;공휴일 연중무휴입니다. ​ 고객센터 | 1644-8697 ​ 카카오톡 ID | 위아트 ​ 쇼룸 위치 | ​ 서울 강남점 : 서울특별시 강남구 압구정로 102, 2층 (신사동, 형지제2빌딩) 위아트 ​ 부산 부산점 : 부산광역시 수영구 수영로 566 ​ ※쇼룸에 관한 문의는 고객센터 1644-8697로 연락 주시면 친절히 안내해 드리겠습니다. ​ ​ ​ 세상의 모든 그림 위아트 ​ www.wart.or.kr</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240321_64/1710993205996cbXvc_JPEG/page_3(2).jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240321_64/1710993205996cbXvc_JPEG/page_3(2).jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240321_64/1710993205996cbXvc_JPEG/page_3(2).jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
