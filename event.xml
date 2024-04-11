@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://shopping.naver.com/art/event</id>
-    <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
-    <updated>2024-04-11T16:15:28.447Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://shopping.naver.com/art/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 11 Apr 2024 17:14:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 찻잔과 식탁용품]]></title>
+            <link>https://shopping.naver.com/art/event/20032114</link>
+            <guid>https://shopping.naver.com/art/event/20032114</guid>
+            <pubDate>Thu, 11 Apr 2024 17:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[찻잔과 식탁용품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_164/16983883091661GNyM_PNG/ED8AB9ED9689%2B1.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 악세서리와 생활소품]]></title>
+            <link>https://shopping.naver.com/art/event/20032115</link>
+            <guid>https://shopping.naver.com/art/event/20032115</guid>
+            <pubDate>Thu, 11 Apr 2024 17:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[악세서리와 생활소품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_23/1698388320616EisOp_PNG/ED8AB9ED9689%2B2.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 인테리어소품과 가구]]></title>
+            <link>https://shopping.naver.com/art/event/20032116</link>
+            <guid>https://shopping.naver.com/art/event/20032116</guid>
+            <pubDate>Thu, 11 Apr 2024 17:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑스러운 동물을 보며 힐링]]></title>
+            <link>https://shopping.naver.com/art/event/20035823</link>
+            <guid>https://shopping.naver.com/art/event/20035823</guid>
+            <pubDate>Thu, 11 Apr 2024 17:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[아이방 꾸미기 좋아요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240409_46/1712622819373TPLbm_JPEG/2.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[깜짝 할인쿠폰 EVENT 🌸 샌디둘리 [Summer Joy]]]></title>
+            <link>https://shopping.naver.com/art/stores/1000013726/news/5001183654</link>
+            <guid>https://shopping.naver.com/art/stores/1000013726/news/5001183654</guid>
+            <pubDate>Thu, 11 Apr 2024 17:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/1000013726/news/5001183654" class="_3awplngVTT N=a:eli.news,i:5001183654 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">깜짝 할인쿠폰 EVENT 🌸 샌디둘리 [Summer Joy]</strong><p class="S7nFgeJfh8">🌺🌺 안녕하세요! 꽃밭에 들어와 있는 느낌과 창밖으로 만개한 꽃밭을 보는 기분이 드는 샌디둘리의 작품을 소개합니다 :) 많은 분들께서 꾸준히 사랑해주시는 아티쉬 BEST 작가에요👍 집안 곳곳 어디든 툭 놓아두면 화사한 느낌이 물씬 드는 예쁜 그림들이랍니다 샌디둘리의 Summer Joy 작품 구매 시 사용이 가능한 20% 할인쿠폰을 14일까지 드려요💕 🌺🌺 할인쿠폰 발급방법 (★소식받기 필수!) 소식받기 후 SummerJoy 상품 선택 &gt; 쿠폰받기 버튼 클릭 &gt; 결제시 사용 가능 :) 상품 상단 버튼 상세페이지 상단 버튼</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240411_84/1712820713402Uimc6_JPEG/%EA%B0%A4%EC%86%8C%EC%83%8C%EB%94%94%EB%91%98%EB%A6%AC_20%ED%95%A0%EC%9D%B8.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240411_84/1712820713402Uimc6_JPEG/%EA%B0%A4%EC%86%8C%EC%83%8C%EB%94%94%EB%91%98%EB%A6%AC_20%ED%95%A0%EC%9D%B8.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240411_84/1712820713402Uimc6_JPEG/%EA%B0%A4%EC%86%8C%EC%83%8C%EB%94%94%EB%91%98%EB%A6%AC_20%ED%95%A0%EC%9D%B8.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장할인 5%] 4월, 이달의 작가 에바 알머슨 Eva Armisen]]></title>
+            <link>https://shopping.naver.com/art/stores/100138255/news/5001166770</link>
+            <guid>https://shopping.naver.com/art/stores/100138255/news/5001166770</guid>
+            <pubDate>Thu, 11 Apr 2024 17:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100138255/news/5001166770" class="_3awplngVTT N=a:eli.news,i:5001166770 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[현장할인 5%] 4월, 이달의 작가 에바 알머슨 Eva Armisen</strong><p class="S7nFgeJfh8">안녕하세요, 그림닷컴 입니다 : ) 그림닷컴에서는 매달 '이달의 작가', '이달의 작품'을 소개해드리고 있어요 ! 따듯한 봄맞이를 하는 4월 '이달의 작가'는 한국인이 가장 사랑한 스페인 작가 에바 알머슨 Eva Armisen 입니다. Curator’s Note 에바 알머슨의 작품은 언제나 가족과 사랑, 일상 속 따듯한 행복을 이야기합니다. 추운 겨울을 떠나보내고 따스한 봄을 맞이하는 것처럼, 사랑스러운 작품들이 집안에 봄을 데려다 드릴거예요. 봄나들이 가기에 더할나위 없이 좋은 시기인 4월! 에바 알머슨 작품이 전하는 따듯한 세상으로 초대합니다. 나, 저 그림 알아요! 세계적으로 사랑받고있는 에바 알머슨은 여러차례의 대규모 전시회로 인지도가 높은 작가입니다. 국내 초등학교, 유치원에서도 에바의 작품을 오마주하며 상상력과 창의력을 키워주는 미술활동 수업을 진행하고 있습니다 : ) 가정의 달 5월을 미리 준비하는 선물, 사랑하는 가족에게 행복을 선물하세요! 봄에는 역시, 에바 알머슨 ! 에바 알머슨의 한정판 에디션 판화 30여점을 눈으로 직접 보실 수 있는 기회! 그림닷컴 오프라인 매장 한정, 4월의 작가 에바 알머슨 현장할인 혜택 SHOP ONLY 5% OFF 그동안 정말 많은 문의가 있었던 오프라인 매장 ! '큐레이션 샵' 이라는 이름으로, 100여점의 인기 작품과 함께 드디어 오픈했습니다. 60여평의 단독 공간에 위치한 그림닷컴 오프라인 매장 , '큐레이션 샵' ! 사진으로는 다 담기지 않는 오리지널 원화 실물의 감동과 에디션 판화 작품마다의 세밀한 디테일, 제작방식에 따른 질감의 차이, 그림닷컴 액자공방에서 제작하는 다양한 고퀄리티의 액자들까지 모두 눈으로 직접 확인하세요 : ) ✨ 찾아오시는 길 ✨ 그림닷컴 오프라인 샵 📍 경기도 파주시 광인사길 17, A동 1층 그림닷컴 본사 📍 경기도 파주시 광인사길 9-7 ✨ 운영시간 ✨ 월 - 일요일, 오전 9시 - 오후 6시 *공휴일 휴관 ✨ 상담예약 및 문의 ✨ 고객센터 ㅣ 031-955-5816 카카오톡 ㅣ @그림닷컴 대중교통 이용시 '은석교 사거리' 정류장에서 도보 5분 이내 거리에 있습니다. 국내 최대규모의 도서관인 지혜의 숲과 맛있는 커피와 브런치를 즐길 수 있는 카페 Aat도 인근해 있어서, 주말 나들이로도 완벽한 코스예요 ✨ 매달 선정되는 이달의 작가 대한민국 컬러리스트 1호 김민경 작가, 지금 가장 핫한 라이징스타 송형노 작가, 한국인이 가장 사랑하는 스페인 작가 에바 알머슨 ! 매달 선정되는 이달의 작가 전시도 함께 감상하세요 ! 큐레이션 샵에서만 진행되는 스페셜 이벤트 혜택도 꼬옥 챙기시구요 ✨ 액자 선택이 고민되시나요? 우리 학교, 회사에 걸어 둘 작품이 필요하시다구요? 아늑한 분위기의 컨설팅존에서 전문 큐레이터가 무료 상담을 도와드려요 : ) 그림닷컴은 학교,관공서,호텔,기업 등 1,000여곳 이상의 아트컨설팅을 진행해왔습니다. * 액자 상담, 기업 컨설팅 등 상담을 원하실 경우 카카오톡 채널을 통해 예약해주시면 친절하게 안내해드릴게요. ▲ 카카오톡 예약하기 우리집에 작품이 걸리면 어떤 느낌일까? 주방, 거실처럼 실감나게 꾸며진 리빙존에서는 우리집에 걸린 모습을 상상하며 사이즈감을 잡기에도 좋을거예요. ✨ 찾아오시는 길 ✨ 그림닷컴 오프라인 샵 📍 경기도 파주시 광인사길 17, A동 1층 그림닷컴 본사 📍 경기도 파주시 광인사길 9-7 ✨ 운영시간 ✨ 월 - 일요일, 오전 9시 - 오후 6시 *공휴일 휴관 ✨ 상담예약 및 문의 ✨ 고객센터 ㅣ 0</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240403_201/1712104420173rnv5A_PNG/%EB%84%A4%EC%9D%B4%EB%B2%84_1000x600.png?type=w304" data-src="https://shop-phinf.pstatic.net/20240403_201/1712104420173rnv5A_PNG/%EB%84%A4%EC%9D%B4%EB%B2%84_1000x600.png?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240403_201/1712104420173rnv5A_PNG/%EB%84%A4%EC%9D%B4%EB%B2%84_1000x600.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[✨아티쉬 매장 리퍼브마켓 현장 구경하러 오세요!✨]]></title>
+            <link>https://shopping.naver.com/art/stores/1000013726/news/5001183144</link>
+            <guid>https://shopping.naver.com/art/stores/1000013726/news/5001183144</guid>
+            <pubDate>Thu, 11 Apr 2024 17:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/1000013726/news/5001183144" class="_3awplngVTT N=a:eli.news,i:5001183144 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">✨아티쉬 매장 리퍼브마켓 현장 구경하러 오세요!✨</strong><p class="S7nFgeJfh8">리퍼브마켓에서 판매중인 상품을 👀직접 보고 구매하고 싶다면? 예술의전당 한가람미술관 1층 아티쉬 매장으로 놀러오세요😊 꼭 소장하고 싶었던 그림액자와 가벼운 마켓백이 최대 80% SALE! ✨아티쉬 매장 영상으로 구경하러 가기 👇👇 ✨아티쉬 매장 리퍼브마켓 현장 모습 👇👇</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240405_184/1712284475265e3gSP_PNG/SE-621e9a66-f208-4406-a6da-81c1ecebfccc.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240405_184/1712284475265e3gSP_PNG/SE-621e9a66-f208-4406-a6da-81c1ecebfccc.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240405_184/1712284475265e3gSP_PNG/SE-621e9a66-f208-4406-a6da-81c1ecebfccc.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[위아트] 미니멀리즘의 극 이우환 '무제_2012-1' 입고]]></title>
+            <link>https://shopping.naver.com/art/stores/102296003/news/5001183000</link>
+            <guid>https://shopping.naver.com/art/stores/102296003/news/5001183000</guid>
+            <pubDate>Thu, 11 Apr 2024 17:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/102296003/news/5001183000" class="_3awplngVTT N=a:eli.news,i:5001183000 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[위아트] 미니멀리즘의 극 이우환 '무제_2012-1' 입고</strong><p class="S7nFgeJfh8">안녕하세요 세상의 모든 그림 위아트입니다. 오늘은 위아트 오리지널 카테고리에 신규 등록된 작품, 이우환의 &lt;무제_2012-1&gt;를 소개해드리려고 합니다. 고요함 속 생동감을 내포한 작업을 제시하며 미학적 아름다움과 철학적 깊이를 결합하는 이우환, 지금부터 함께 알아보실까요? :) CURATOR NOTE &lt;무제_2012-1&gt; 조응으로 불리는 이 작품은 이우환의 판화 작품 중 가장 인기 있는 푸른색의 작품 중 하나입니다. 작가는 여백의 예술 즉, 채워진 공간과 비워진 공간의 관계성을 작품에 담아내었습니다. 이 작품은 무한의 순간 조응하는 관계를 표현했으며, 그리는 행위를 넘어서는 그 어떤 것을 상징합니다. 비로소 조응으로 점과 선의 형태가 아닌 여백을 통해 사유할 수 있는 기회를 제공합니다. 미니멀리즘의 극, 이우환 WEART ORIGINAL 22년 국내 경매 시장 1위를 기록한 이우환은 국내 뿐 아닌 세계에서 사랑 받는 아티스트입니다. 뉴욕 구겐하임 미술관과 파리 베르사유 궁전에서 전시를 열기도 했으며, BTS RM이 사랑하는 작가로도 알려졌습니다. 그의 작품의 핵심인 여백의 조화는 우리를 어떠한 해방감으로 안내하며 성찰로 유도합니다. ■ 위아트 인스타그램 바로가기 이우환 &lt;무제_2012-1&gt; WEART ORIGINAL &lt;무제_2012-1&gt; 조응으로 불리는 이 작품은 이우환의 판화 작품 중 가장 인기 있는 푸른색의 작품 중 하나입니다. 작가는 여백의 예술 즉, 채워진 공간과 비워진 공간의 관계성을 작품에 담아내었습니다. 이 작품은 무한의 순간 조응하는 관계를 표현했으며, 그리는 행위를 넘어서는 그 어떤 것을 상징합니다. 비로소 조응으로 점과 선의 형태가 아닌 여백을 통해 사유할 수 있는 기회를 제공합니다. 이우환_무제_2012-1 그렇다면 이우환의 작품을 소장해야 할 이유는 무엇일까요? 01 2022년 4,800만원 낙찰작, 급매 위탁작으로 좋은 가격대 (아트데이옥션 수수료 포함) 02 유사 작품인 '무제(조응)_2013'은 337% 상승, 19년 580만원에서 22년 2,300만원 낙찰 (서울옥션 수수료 포함) 03 한국을 대표하는 작가이자 BTS RM이 사랑한 아티스트 이우환 작가 원화에 사용되는 원목 관 액자를 채택 적용하였으며, 입체감을 강조하는 관 액자는 작품에 집중되는 효과를 부여합니다. 이우환의 친필 사인으로 오리지널임을 증명해 투자 가치로서의 매력을 자랑합니다. ■ 이우환_무제_2012-1 바로가기 동양화의 기본 획을 연상시키는 독특한 접근 방식으로 한국 현대미술작가 중 최고가를 갱신한 이우환, 지금까지 그의 &lt;무제_2012-1&gt; 오리지널 에디션을 소개해드렸습니다. 전세계에 한정된 수량만이 존재하는 이우환의 오리지널 판화로 소장과 투자의 가치를 느껴보시는 건 어떨까요? 이우환 뿐만 아니라 다른 핫한 아티스트드르이 오리지널 아트웍들도 위아트에서 만나보실 수 있습니다. 이상, 여러분의 예술적 취향과 삶을 빛낼 수 있도록 작품을 찾아드리는 위아트 큐레이터팀이었습니다. 감사합니다. :) 무제_2012-1 www.wart.co.kr &lt; 위아트 쇼룸 안내 &gt; 링크 사진을 클릭하시면 위아트 쇼룸 정보를 확인하실 수 있습니다. 강남점 쇼룸 운영시간 | 오전 11시~ 오후 8시 부산점 쇼룸 운영시간 | 오전 10시~ 오후 7시 ​ 큐레이터 상담 가능 시간 | 강남점: 오전 11시~ 오후 7시 30분 부산점: 오전 10시~오후 6시 30분 평일&amp;주말&amp;공휴일 연중무휴입니다. ​ 고객센터 | 1644-8697 ​ 카카오톡 ID | 위아트 ​ 쇼룸 위치 | ​ 서울 강남점 : 서울특별시 강남구 압구정로 102, 2층 (신사동, 형지제</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240411_168/1712802572020oC7e4_PNG/20240411_112918.png?type=w304" data-src="https://shop-phinf.pstatic.net/20240411_168/1712802572020oC7e4_PNG/20240411_112918.png?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240411_168/1712802572020oC7e4_PNG/20240411_112918.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공예디자인 매력에 빠져봐요]]></title>
+            <link>https://shopping.naver.com/art/event/20035822</link>
+            <guid>https://shopping.naver.com/art/event/20035822</guid>
+            <pubDate>Thu, 11 Apr 2024 17:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240409_276/1712622684287X9anJ_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독고탁 이상무 화백의 그림을 내 방안에]]></title>
+            <link>https://shopping.naver.com/art/stores/100384663/news/5001181334</link>
+            <guid>https://shopping.naver.com/art/stores/100384663/news/5001181334</guid>
+            <pubDate>Thu, 11 Apr 2024 17:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100384663/news/5001181334" class="_3awplngVTT N=a:eli.news,i:5001181334 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">독고탁 이상무 화백의 그림을 내 방안에</strong><p class="S7nFgeJfh8">故 이상무 화백의 그림을 컨티뉴에서 쉽게 소장할 수 있는 기회가 열렸습니다. 독고탁컴퍼니는 저희 컨티뉴와 함께 이상무 화백이 생전 몸담고 있던 단체의 월간지를 위해 그렸던 그림들을 구매할 수 있게 해달라는 독자들 요청에 따라 컨티뉴에 캔버스에 인쇄된 그림을 등록하고 판매하고 있습니다. 일전에 그렸던 풍경화 같은 작품들이라, 독고탁이나 다른 작품에서 느끼지 못했던 그 서정적 감성을 느끼실 수 있습니다. 산사와 동자승 (좌), 미류나무와 동자승(우) - 이상무 작 흐드러진 능소화 (좌) , 비 오는 논두렁 길(우) - 이상무 작 흐드러진 능소화, 이상무 푸른 보리밭(좌), 진달래구경(우) - 이상무 작 아름다운 봄날(좌), 노란 가을빛(우)</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240409_202/1712653318099CrABm_JPEG/%EC%9D%B4%EC%83%81%EB%AC%B4_%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84800x484.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240409_202/1712653318099CrABm_JPEG/%EC%9D%B4%EC%83%81%EB%AC%B4_%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84800x484.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240409_202/1712653318099CrABm_JPEG/%EC%9D%B4%EC%83%81%EB%AC%B4_%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84800x484.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
