@@ -1,7 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TicketOpen.github.io/naver-shopping-art/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2024-04-26T09:15:53.496Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 26 Apr 2024 10:16:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 찻잔과 식탁용품 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20032114</link>
+            <guid>https://shopping.naver.com/art/event/20032114</guid>
+            <pubDate>Fri, 26 Apr 2024 10:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[찻잔과 식탁용품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_164/16983883091661GNyM_PNG/ED8AB9ED9689%2B1.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 악세서리와 생활소품 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20032115</link>
+            <guid>https://shopping.naver.com/art/event/20032115</guid>
+            <pubDate>Fri, 26 Apr 2024 10:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[악세서리와 생활소품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_23/1698388320616EisOp_PNG/ED8AB9ED9689%2B2.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 인테리어소품과 가구 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20032116</link>
+            <guid>https://shopping.naver.com/art/event/20032116</guid>
+            <pubDate>Fri, 26 Apr 2024 10:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SALE] 에바알머슨 트레이 예약구매 ✨예약구매✨ (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/1000013726/news/5001208286</link>
+            <guid>https://shopping.naver.com/art/stores/1000013726/news/5001208286</guid>
+            <pubDate>Fri, 26 Apr 2024 10:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/1000013726/news/5001208286" class="_3awplngVTT N=a:eli.news,i:5001208286 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[SALE] 에바알머슨 트레이 예약구매 ✨예약구매✨</strong><p class="S7nFgeJfh8">[NEW] 에바알머슨 원형 트레이 2종 ✨예약구매✨ 출시기념 트레이 전상품 20% OFF 아티쉬 고객분들이 너무 좋아하시는 에바 알머슨 작가의 새로운 트레이가 출시되었습니다. 그림의 선명도는 업그레이드! 얇고 가벼워 사용하기 편리한 트레이, 사용해보시면 분명 좋아하실 거예요.</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240418_281/1713429090842aPwk9_JPEG/%ED%8A%B8%EB%A0%88%EC%9D%B43.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240418_281/1713429090842aPwk9_JPEG/%ED%8A%B8%EB%A0%88%EC%9D%B43.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240418_281/1713429090842aPwk9_JPEG/%ED%8A%B8%EB%A0%88%EC%9D%B43.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[30% 할인혜택] 송형노 판화 4,065% 달성 앵콜 펀딩 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/100138255/news/5001193515</link>
+            <guid>https://shopping.naver.com/art/stores/100138255/news/5001193515</guid>
+            <pubDate>Fri, 26 Apr 2024 10:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100138255/news/5001193515" class="_3awplngVTT N=a:eli.news,i:5001193515 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[30% 할인혜택] 송형노 판화 4,065% 달성 앵콜 펀딩</strong><p class="S7nFgeJfh8">안녕하세요, 그림닷컴입니다. 희망의 메세지를 담은 사랑스러운 아기돼지 Olivia 가 돌아왔어요 : ) 와디즈 첫 펀딩 4.065%라는 경이로운 기록을 달성한 화제의 그 작품 ! " 다음 펀딩은 언제 하나요?😢 " " 액자까지 포함하면 가격이 부담되는데, 펀딩 다시 열릴 예정은 없나요?😂" 펀딩 종료 후 수많은 문의가 쏟아졌던 송형노 작가님의 에디션 판화 &amp; 원화 ! 따듯한 봄, 가정의 달을 맞이해서 한번 더, 앵콜 ! 다시없을 파격적인 혜택을 준비했어요 ⭐⭐⭐⭐⭐ 만족도 별 다섯개 5.0 ! 실물로 보면 더욱 더 사랑스러운 송형노 작가님 작품을 30만원 상당의 원목 관액자가 포함 된 한정혜택으로 만나보세요 ! https://wadiz.onelink.me/gmeA/mrjfu5dh ▲ 알림받기 누르고 이벤트 참여하기 ! *모두 송형노 작가님 작품을 만나보신 고객님들의 실제 리뷰 사진입니다. 어두운 밤에도 우리집을 밝혀줄 수호천사 ! 신작 야광 보름달 판화 ' 라일락 Lilac ' 도 오직, 와디즈에서만 단독 공개 합니다. 실물이 궁금하신 분은 그림닷컴 오프라인 매장으로 오세요 : ) 60평대의 단독 공간에 자리한 그림닷컴 매장, '큐레이션 샵'에서는 송형노 작가님의 모든 판화와 원화 작품까지 눈으로 직접 확인하실 수 있어요 ! 그림닷컴 오프라인 매장 큐레이션 샵 찾아오시는 곳 📍 경기도 파주시 광인사길 17 운영 시간 📍 월-일 (오전 9시 -오후 6시) 문의사항은 그림닷컴 카카오톡이나 고객센터로 연락주세요 : ) 오프라인 매장 현장 이벤트 🥤 99 에디션 +원목 관액자 화이트 세상에 단 한 점 ! 20호 원화 + 99에디션 1종 증정(관액자 포함) 세상에 단 한 점 ! 10호 / 5호 원화 그림닷컴에서는 다양한 온/오프라인 이벤트를 준비하고 있습니다. 한정수량, 선착순으로 진행되기 때문에 송형노 작가님 작품 펀딩 예정이신 분은 꼭 '와디즈 알림받기'를 눌러주세요! https://wadiz.onelink.me/gmeA/mrjfu5dh ▲ 알림받기 누르고 이벤트 참여하기 !</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240418_289/1713415052826gu97e_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D_1000x600.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240418_289/1713415052826gu97e_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D_1000x600.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240418_289/1713415052826gu97e_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D_1000x600.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[위아트] 로즈와일리의 'Tottenham Colours 4 balls in the' 입고 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/102296003/news/5001206910</link>
+            <guid>https://shopping.naver.com/art/stores/102296003/news/5001206910</guid>
+            <pubDate>Fri, 26 Apr 2024 10:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/102296003/news/5001206910" class="_3awplngVTT N=a:eli.news,i:5001206910 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[위아트] 로즈와일리의 'Tottenham Colours 4 balls in the' 입고</strong><p class="S7nFgeJfh8">안녕하세요 세상의 모든 그림 위아트입니다. 오늘은 위아트 오리지널 카테고리에 등록된 아티스트, 로즈 와일리 (Rose Wylie)의 Tottenham Colours 4 balls in the net에 대해 소개해 드리려고 합니다. 예술로 공백을 색칠한 아티스트, 로즈 와일리. 지금부터 함께 알아보실까요? :) CURATOR NOTE &lt;Tottenham Colours 4 balls in the net&gt; 로즈 와일리는 자신의 주변에서 일어나는 일들을 그림에 반영합니다. 뉴스, 역사, 만화, 스포츠, 유명인은 물론 가족, 아틀리에 창밖의 평범한 풍경까지, 그녀에게 일상생활은 영감의 원천입니다. 해당 작품은 우리에게도 친숙한 영국 프리미어리그 토트넘의 손흥민 선수가 2020년 사우샘프턴과의 경기에서 4골을 기록한 특별한 순간을 담은 작품이며, 로즈 와일리의 국내 개인전 당시 예술의 전당 한가람 미술관에 전시되었던 오리지널 원화 작품입니다. 90세가 넘은 현재까지 작품 활동을 이어가 열정을 주는 아티스트, 로즈 와일리 (Rose Wylie) WEART ORIGINAL 로즈 와일리는 21세에 결혼과 함께 작품 활동의 공백기를 맞았으나 50여 년이 지난 2013년 열린 전시회를 통해 대중적인 사랑을 받기 시작했고, 2014년 영국 현대회화작가 상 중 가장 높이 평가되는 '존 무어 페인팅 상'을 수상하게 됩니다. 이어 76세에 영국 일간지 &lt;가디언&gt;을 통해 '가장 핫한 신예 작가' 중 한 명으로 뽑히게 되면서 국제 미술계의 슈퍼스타로 자리매김하였습니다. 90세가 넘은 현재도 왕성한 작품 활동을 이어가는 열정으로 감동을 주는 아티스트입니다. ■ 위아트 인스타그램 바로 가기 로즈 와일리 &lt;Tottenham Colours 4 balls in the net &gt; WEART ORIGINAL 로즈 와일리_Tottenham Colours 4 balls in the net &lt;Tottenham Colours 4 balls in the net&gt; 해당 작품은 우리에게도 친숙한 영국 프리미어리그 토트넘의 손흥민 선수가 2020년 사우샘프턴과의 경기에서 4골을 기록한 특별한 순간을 담은 작품이며, 로즈 와일리의 국내 개인전 당시 예술의 전당 한가람 미술관에 전시되었던 오리지널 원화 작품입니다. 로즈 와일리 개인전에 적용된 액자가 그대로 유지 그렇다면 로즈 와일리의 작품을 소장해야 할 이유는 무엇일까요? 01 한 경기에서 4골을 기록한 손흥민 선수의 특별한 순간을 담은 작품 02 2020년 로즈 와일리 국내 개인전 전시작(예술의 전당) 03 2021년 최고 낙찰가 한화 4억 1,000만 원 기록 아티스트(필립스) 손흥민 선수의 특별한 기록의 순간을 담은 작품 ■ Tottenham Colours 4 balls in the net 바로가기 2021년 최고 낙찰가 한화 4억 1,000만 원 기록 아티스트 아티스트, 로즈 와일리의 &lt;Tottenham Colours 4 balls in the net &gt; 세상에 단 하나뿐인 원작을 소개해드렸습니다. 로즈 와일리의 하나뿐인 원작으로 소장과 투자의 가치를 느껴보시는 건 어떨까요? 로즈 와일리뿐만 아니라 다른 핫한 아티스트들의 오리지널 아트웍들도 위아트에서 만나보실 수 있습니다. 이상, 여러분의 예술적 취향과 삶을 빛낼 수 있도록 작품을 찾아드리는 위아트 큐레이터였습니다. 감사합니다. :) Tottenham Colours 4 balls in the net www.wart.or.kr &lt; 위아트 쇼룸 안내 &gt; 강남점 쇼룸 운영시간 | 오전 11시~ 오후 8시 부산점 쇼룸 운영시간 | 오전 10시~ 오후 7시 ​ 큐레이터 상담 가능 시간 | 강남점: 오전 11시~ 오후 7시 30분 부산점: 오전 10시~오후 6시 30분 평일&amp;주말&amp;공휴일 연중무휴입니다. ​ 고객센터 | 1644-8697 ​ 카카오톡 ID | 위아트 ​ 쇼룸 위치 | ​ 서울 강남점 : 서울특별시 강남구 압구정로 102, 2층 (신사동, 형지제2빌딩) 위아트 ​ </p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240426_258/1714099150480zzOBI_JPEG/page-2.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240426_258/1714099150480zzOBI_JPEG/page-2.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240426_258/1714099150480zzOBI_JPEG/page-2.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보기만 해도 힐링 되는 풍경 사진 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20036144</link>
+            <guid>https://shopping.naver.com/art/event/20036144</guid>
+            <pubDate>Fri, 26 Apr 2024 10:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[환상적인 풍경에 기분 UP!]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240423_46/1713833571577GB9Mu_JPEG/2.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[위아트] 한국의 바스키아, 우국원의 ' Let Them Eat Cake' 입고 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/102296003/news/5001204053</link>
+            <guid>https://shopping.naver.com/art/stores/102296003/news/5001204053</guid>
+            <pubDate>Fri, 26 Apr 2024 10:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/102296003/news/5001204053" class="_3awplngVTT N=a:eli.news,i:5001204053 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[위아트] 한국의 바스키아, 우국원의 ' Let Them Eat Cake' 입고</strong><p class="S7nFgeJfh8">안녕하세요 세상의 모든 그림 위아트입니다. 오늘은 위아트 오리지널 카테고리에 등록된 아티스트, 우국원 (KukWon Woo)의 Let them eat cake 에 대해 소개해 드리려고 합니다. 물감이 마르기도 전에 작품이 팔리는 아티스트, 우국원. 지금부터 함께 알아보실까요? :) CURATOR NOTE &lt;Let Them Eat Cake&gt; 톱배우 손예진, 조윤희 등이 소장해 화제가 된 우국원의 작품은 강렬한 색채와 자유로운 드로잉으로 일상의 감정을 폭발적으로 표현합니다. 아이와 동물, 동화 같은 소재로 독특한 상상력을 드러내며, 관람자에게 그림을 통해 행복, 기쁨, 슬픔 등의 순수한 감정을 제시합니다. 자유롭고 솔직하게 즐길 수 있는 우국원 작가의 작품세계를 경험하세요. 물감이 마르기도 전에 작품이 팔리는 한국의 바스키아, 우국원 (KukWon WOO) WEART ORIGINAL 우국원 작가는 2010년 중앙미술 대전 선정 작가 20인에 입선되어 뛰어난 페인터의 기질을 보여 주목을 받았으며, 일본 대표 서점인 쓰타야의 창업주 마스타 무네아키 회장은 아트페어 도쿄 2018에서 그의 작품을 접한 후 '바스키아 못지않게 주목받을 작가'라는 극찬과 함께 2점의 작품을 구매한 것으로 알려졌습니다. 현재도 꾸준한 작품 활동을 이어가는 작가로, 2021년 이후로는 '물감이 마르기도 전에 작품이 팔리는 작가'라는 수식어와 함께 무서운 완판 행진을 보이는 아티스트입니다. ■ 위아트 인스타그램 바로 가기 우국원 &lt;Let them eat cake&gt; WEART ORIGINAL &lt;Let Them Eat Cake&gt; 톱배우 손예진, 조윤희 등이 소장해 화제가 된 우국원의 작품은 강렬한 색채와 자유로운 드로잉으로 일상의 감정을 폭발적으로 표현합니다. 아이와 동물, 동화 같은 소재로 독특한 상상력을 드러내며, 관람자에게 그림을 통해 행복, 기쁨, 슬픔 등의 순수한 감정을 제시합니다. 자유롭고 솔직하게 즐길 수 있는 우국원 작가의 작품세계를 경험하세요. 그렇다면 우국원의 작품을 소장해야 할 이유는 무엇일까요? 01 24년, 동일 판화 작품 900만 원에 낙찰 (K옥션 수수료 포함) 02 23년, 국내 경매 낙찰 총액 TOP30중, 24위 아티스트 (K아트프라이스) 03 21년, &lt;Ugly Duckling&gt; 시작가 1,500만 원의 16배인 2억 3,000만 원에 낙찰 (K옥션) 미술관 전시작과 동일한 최고급 원목 관 액자를 채택 질감과 색구현이 우수한 최고급 판화지 오리지널 판화를 인증하는 아티스트의 친필 싸인 ■ Let Them Eat Cake 바로가기 2년간 150%의 작품 가격 상승률로 MZ세대 컬렉팅의 중심에 서 있는 아티스트, 우국원의 &lt;Let Them Eat Cake&gt; 오리지널 판화 에디션을 소개해드렸습니다. 전 세계에 넘버링 된 수량만이 존재하는 우국원 오리지널 판화 에디션으로 소장과 투자의 가치를 느껴보시는 건 어떨까요? 우국원뿐만 아니라 다른 핫한 아티스트들의 오리지널 아트웍들도 위아트에서 만나보실 수 있습니다. 이상, 여러분의 예술적 취향과 삶을 빛낼 수 있도록 작품을 찾아드리는 위아트 큐레이터였습니다. 감사합니다. :) Let Them Eat Cake www.wart.or.kr &lt; 위아트 쇼룸 안내 &gt; 링크 사진을 클릭하시면 위아트 쇼룸 정보를 확인하실 수 있습니다. 강남점 쇼룸 운영시간 | 오전 11시~ 오후 8시 부산점 쇼룸 운영시간 | 오전 10시~ 오후 7시 ​ 큐레이터 상담 가능 시간 | 강남점: 오전 11시~ 오후 7시 30분 부산점: 오전 10시~오후 6시 30분 평일&amp;주말&amp;공휴일 연중무휴입니다. ​ 고객센터 | 1644-8697 ​ 카카오톡 ID | 위아트 ​ 쇼룸 위치 | ​ 서울 강남점 : 서울특별시 강남구 압구정로 102, 2층 (신사동, 형지제2빌딩) </p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240425_211/1714009793749ekw15_JPEG/page-2.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240425_211/1714009793749ekw15_JPEG/page-2.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240425_211/1714009793749ekw15_JPEG/page-2.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[컨티뉴] 그림동화 같은 알록달록한 행복, 레몬루나 작가 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/100384663/news/5001203044</link>
+            <guid>https://shopping.naver.com/art/stores/100384663/news/5001203044</guid>
+            <pubDate>Fri, 26 Apr 2024 10:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100384663/news/5001203044" class="_3awplngVTT N=a:eli.news,i:5001203044 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[컨티뉴] 그림동화 같은 알록달록한 행복, 레몬루나 작가</strong><p class="S7nFgeJfh8">싱그러운 햇살이 더욱 화사하게 빛나는 3월, 새롭게 우리의 눈길을 끄는 작가, 레몬루나를 소개합니다. ​ 레몬루나 작가는 대자연의 속에서 자유롭게 살아가는 동물을 주제로 다채로운 행복을 그리고 있는데요, 눈 부신 햇살 아래 해맑게 웃음 짓고 있는 동물 친구들의 표정을 보는 것만으로도 행복해지는 작품으로 주목받고 있습니다. '그림으로 많은 사람을 만나며 동글동글 살아가는 것이 꿈'이라는 작가의 마음은 특유의 부드러운 선과 발랄한 색감으로 그림동화처럼 알록달록한 행복을 전해주는 작품의 원천이 되고 있답니다. 가벼운 옷차림만큼 유쾌하고 상쾌한 기분을 찾고 싶은 요즘- 레몬루나 작가의 그림으로 봄 소풍을 떠나보는 것은 어떨까요? 달을 좋아하는 곰 누군가를, 무언가를 사랑하는 사람은 유독 빛나 보이는 것 같아요. 달을 좋아해 달처럼 빛나는 곰처럼 이 봄, 사랑에 빠지게 되길 소망해봅니다. ​ ​ 벚꽃나무 아래 북극곰 어쩌면 난생처음 맞는 광경일지도 몰라요. 벚꽃 흐드러진 깊은 숲속 풍경에 취한 북극곰의 감동이 전해집니다. ​ ​ ​ 풀숲산책 목줄도, 반려인의 귀찮은 잔소리도 없이 발길 닿는 대로 자유롭게 산책을 즐기는 강아지의 행복감이 그대로 전해지는 작품입니다. ​ ​ 봄을 발견하다 살랑살랑 불어오는 바람과 따뜻한 햇볕 한줄기에 온몸으로 봄을 느낄 때, 행복이 느껴지지 않나요? 꽃처럼 화사하게 피어나는 감정을 마음껏 누려보세요. ​ ​ 풀냄새 킁킁 조금은 진지하게 자연의 신비를 감상하고, 관찰하는 동물 친구의 모습이 사랑스럽게 담긴 작품이죠. 초록이 짙어가는 이 계절과 유독 잘 어울리는 색감으로 기분 좋은 에너지를 전해줍니다.</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240424_282/1713945613783kG6eY_JPEG/%EB%A0%88%EB%AA%AC%EB%A3%A8%EB%82%98_%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84800x484.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240424_282/1713945613783kG6eY_JPEG/%EB%A0%88%EB%AA%AC%EB%A3%A8%EB%82%98_%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84800x484.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240424_282/1713945613783kG6eY_JPEG/%EB%A0%88%EB%AA%AC%EB%A3%A8%EB%82%98_%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84800x484.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장할인 5%] 4월, 이달의 작가 에바 알머슨 Eva Armisen (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/100138255/news/5001166770</link>
+            <guid>https://shopping.naver.com/art/stores/100138255/news/5001166770</guid>
+            <pubDate>Fri, 26 Apr 2024 10:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100138255/news/5001166770" class="_3awplngVTT N=a:eli.news,i:5001166770 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[현장할인 5%] 4월, 이달의 작가 에바 알머슨 Eva Armisen</strong><p class="S7nFgeJfh8">안녕하세요, 그림닷컴 입니다 : ) 그림닷컴에서는 매달 '이달의 작가', '이달의 작품'을 소개해드리고 있어요 ! 따듯한 봄맞이를 하는 4월 '이달의 작가'는 한국인이 가장 사랑한 스페인 작가 에바 알머슨 Eva Armisen 입니다. Curator’s Note 에바 알머슨의 작품은 언제나 가족과 사랑, 일상 속 따듯한 행복을 이야기합니다. 추운 겨울을 떠나보내고 따스한 봄을 맞이하는 것처럼, 사랑스러운 작품들이 집안에 봄을 데려다 드릴거예요. 봄나들이 가기에 더할나위 없이 좋은 시기인 4월! 에바 알머슨 작품이 전하는 따듯한 세상으로 초대합니다. 나, 저 그림 알아요! 세계적으로 사랑받고있는 에바 알머슨은 여러차례의 대규모 전시회로 인지도가 높은 작가입니다. 국내 초등학교, 유치원에서도 에바의 작품을 오마주하며 상상력과 창의력을 키워주는 미술활동 수업을 진행하고 있습니다 : ) 가정의 달 5월을 미리 준비하는 선물, 사랑하는 가족에게 행복을 선물하세요! 봄에는 역시, 에바 알머슨 ! 에바 알머슨의 한정판 에디션 판화 30여점을 눈으로 직접 보실 수 있는 기회! 그림닷컴 오프라인 매장 한정, 4월의 작가 에바 알머슨 현장할인 혜택 SHOP ONLY 5% OFF 그동안 정말 많은 문의가 있었던 오프라인 매장 ! '큐레이션 샵' 이라는 이름으로, 100여점의 인기 작품과 함께 드디어 오픈했습니다. 60여평의 단독 공간에 위치한 그림닷컴 오프라인 매장 , '큐레이션 샵' ! 사진으로는 다 담기지 않는 오리지널 원화 실물의 감동과 에디션 판화 작품마다의 세밀한 디테일, 제작방식에 따른 질감의 차이, 그림닷컴 액자공방에서 제작하는 다양한 고퀄리티의 액자들까지 모두 눈으로 직접 확인하세요 : ) ✨ 찾아오시는 길 ✨ 그림닷컴 오프라인 샵 📍 경기도 파주시 광인사길 17, A동 1층 그림닷컴 본사 📍 경기도 파주시 광인사길 9-7 ✨ 운영시간 ✨ 월 - 일요일, 오전 9시 - 오후 6시 *공휴일 휴관 ✨ 상담예약 및 문의 ✨ 고객센터 ㅣ 031-955-5816 카카오톡 ㅣ @그림닷컴 대중교통 이용시 '은석교 사거리' 정류장에서 도보 5분 이내 거리에 있습니다. 국내 최대규모의 도서관인 지혜의 숲과 맛있는 커피와 브런치를 즐길 수 있는 카페 Aat도 인근해 있어서, 주말 나들이로도 완벽한 코스예요 ✨ 매달 선정되는 이달의 작가 대한민국 컬러리스트 1호 김민경 작가, 지금 가장 핫한 라이징스타 송형노 작가, 한국인이 가장 사랑하는 스페인 작가 에바 알머슨 ! 매달 선정되는 이달의 작가 전시도 함께 감상하세요 ! 큐레이션 샵에서만 진행되는 스페셜 이벤트 혜택도 꼬옥 챙기시구요 ✨ 액자 선택이 고민되시나요? 우리 학교, 회사에 걸어 둘 작품이 필요하시다구요? 아늑한 분위기의 컨설팅존에서 전문 큐레이터가 무료 상담을 도와드려요 : ) 그림닷컴은 학교,관공서,호텔,기업 등 1,000여곳 이상의 아트컨설팅을 진행해왔습니다. * 액자 상담, 기업 컨설팅 등 상담을 원하실 경우 카카오톡 채널을 통해 예약해주시면 친절하게 안내해드릴게요. ▲ 카카오톡 예약하기 우리집에 작품이 걸리면 어떤 느낌일까? 주방, 거실처럼 실감나게 꾸며진 리빙존에서는 우리집에 걸린 모습을 상상하며 사이즈감을 잡기에도 좋을거예요. ✨ 찾아오시는 길 ✨ 그림닷컴 오프라인 샵 📍 경기도 파주시 광인사길 17, A동 1층 그림닷컴 본사 📍 경기도 파주시 광인사길 9-7 ✨ 운영시간 ✨ 월 - 일요일, 오전 9시 - 오후 6시 *공휴일 휴관 ✨ 상담예약 및 문의 ✨ 고객센터 ㅣ 0</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240403_201/1712104420173rnv5A_PNG/%EB%84%A4%EC%9D%B4%EB%B2%84_1000x600.png?type=w304" data-src="https://shop-phinf.pstatic.net/20240403_201/1712104420173rnv5A_PNG/%EB%84%A4%EC%9D%B4%EB%B2%84_1000x600.png?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240403_201/1712104420173rnv5A_PNG/%EB%84%A4%EC%9D%B4%EB%B2%84_1000x600.png?type=w304" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
