@@ -1,7 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TicketOpen.github.io/naver-shopping-art/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2024-05-13T04:19:25.197Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 13 May 2024 05:16:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 찻잔과 식탁용품 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20032114</link>
+            <guid>https://shopping.naver.com/art/event/20032114</guid>
+            <pubDate>Mon, 13 May 2024 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[찻잔과 식탁용품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_164/16983883091661GNyM_PNG/ED8AB9ED9689%2B1.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 악세서리와 생활소품 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20032115</link>
+            <guid>https://shopping.naver.com/art/event/20032115</guid>
+            <pubDate>Mon, 13 May 2024 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[악세서리와 생활소품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_23/1698388320616EisOp_PNG/ED8AB9ED9689%2B2.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 인테리어소품과 가구 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20032116</link>
+            <guid>https://shopping.naver.com/art/event/20032116</guid>
+            <pubDate>Mon, 13 May 2024 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[위아트] 로즈와일리, 'Tottenham Colours 4 balls in t ' 입고! (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/102296003/news/5001240888</link>
+            <guid>https://shopping.naver.com/art/stores/102296003/news/5001240888</guid>
+            <pubDate>Mon, 13 May 2024 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/102296003/news/5001240888" class="_3awplngVTT N=a:eli.news,i:5001240888 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[위아트] 로즈와일리, 'Tottenham Colours 4 balls in t ' 입고!</strong><p class="S7nFgeJfh8">안녕하세요 세상의 모든 그림 위아트입니다. 오늘은 위아트 오리지널 카테고리에 등록된 아티스트, 로즈 와일리 (Rose Wylie)의 Tottenham Colours 4 balls in the net 에 대해 소개해 드리려고 합니다. 예술로 공백을 색칠한 슈퍼스타 아티스트, 로즈 와일리. 지금부터 함께 알아보실까요? :) CURATOR NOTE &lt;Tottenham Colours 4 balls in the net&gt; 로즈 와일리는 자신의 주변에서 일어나는 일들을 그림에 반영합니다. 뉴스, 역사, 만화, 스포츠, 유명인은 물론 가족, 아틀리에 창밖의 평범한 풍경까지, 그녀에게 일상생활은 영감의 원천입니다. 해당 작품은 우리에게도 친숙한 영국 프리미어리그 토트넘의 손흥민 선수가 2020년 사우샘프턴과의 경기에서 4골을 기록한 특별한 순간을 담은 작품이며, 로즈 와일리의 국내 개인전 당시 예술의 전당 한가람 미술관에 전시되었던 오리지널 원화 작품입니다. 90세가 넘은 현재까지 왕성한 작품활동을 하는 아티스트, 로즈 와일리 (Rose Wylie) WEART ORIGINAL 로즈 와일리는 21세에 결혼과 함께 작품 활동의 공백기를 맞았으나 50여 년이 지난 2013년 열린 전시회를 통해 대중적인 사랑을 받기 시작했고, 2014년 영국 현대회화작가 상 중 가장 높이 평가되는 '존 무어 페인팅 상'을 수상하게 됩니다. 이어 76세에 영국 일간지 &lt;가디언&gt;을 통해 '가장 핫한 신예 작가' 중 한 명으로 뽑히게 되면서 국제 미술계의 슈퍼스타로 자리매김하였습니다. 90세가 넘은 현재도 왕성한 작품 활동을 이어가는 열정으로 감동을 주는 아티스트입니다. ■ 위아트 인스타그램 바로 가기 로즈 와일리 &lt;Tottenham Colours 4 balls in the net &gt; WEART ORIGINAL 로즈 와일리_Tottenham Colours 4 balls in the net &lt;Tottenham Colours 4 balls in the net&gt;은 우리에게도 친숙한 영국 프리미어리그 토트넘의 손흥민 선수가 2020년 사우샘프턴과의 경기에서 4골을 기록한 특별한 순간을 담은 작품이며, 로즈 와일리의 국내 개인전 당시 예술의 전당 한가람 미술관에 전시되었던 오리지널 원화 작품입니다. 로즈 와일리 개인전에 적용된 액자가 그대로 유지 그렇다면 로즈 와일리의 작품을 소장해야 할 이유는 무엇일까요? 01 한 경기에서 4골을 기록한 손흥민 선수의 특별한 순간을 담은 작품 02 2020년 로즈 와일리 국내 개인전 전시작(예술의 전당) 03 2021년 최고 낙찰가 한화 4억 1,000만 원 기록 아티스트(필립스) 손흥민 선수의 특별한 기록의 순간을 담은 작품 ■ Tottenham Colours 4 balls in the net 바로가기 일상생활에서 일어나는 일을 그림에 반영하는 아티스트, 로즈 와일리의 &lt;Tottenham Colours 4 balls in the net&gt; 오리지널 원작을 소개해드렸습니다. 생생한 감동을 전하는 로즈 와일리 오리지널 원작으로 소장과 투자의 가치를 느껴보시는 건 어떨까요? 로즈 와일리뿐만 아니라 다른 핫한 아티스트들의 오리지널 아트웍들도 위아트에서 만나보실 수 있습니다. 이상, 여러분의 예술적 취향과 삶을 빛낼 수 있도록 작품을 찾아드리는 위아트 큐레이터였습니다. 감사합니다. :) Tottenham Colours 4 balls in the net www.wart.or.kr &lt; 위아트 쇼룸 안내 &gt; 강남점 쇼룸 운영시간 | 오전 11시~ 오후 8시 큐레이터 상담 가능 시간 | 강남점: 오전 11시~ 오후 7시 30분 부산점: 오전 10시~오후 6시 30분 평일&amp;주말&amp;공휴일 연중무휴입니다. ​ 고객센터 | 1644-8697 ​ 카카오톡 ID | 위아트 ​ 쇼룸 위치 | ​ 서울 강남점 : 서울특별시 강남구 압구정로 102, 2층 (신사동, 형지제2빌딩) 위아트 ​ 부산 부산점 : 부산광역시 수영구 수영로 566 ​ ※쇼</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240513_211/1715564913412CkJJx_JPEG/page-2_(2).jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240513_211/1715564913412CkJJx_JPEG/page-2_(2).jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240513_211/1715564913412CkJJx_JPEG/page-2_(2).jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[30% 할인혜택] 송형노 판화 4,065% 달성 앵콜 펀딩 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/100138255/news/5001193515</link>
+            <guid>https://shopping.naver.com/art/stores/100138255/news/5001193515</guid>
+            <pubDate>Mon, 13 May 2024 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100138255/news/5001193515" class="_3awplngVTT N=a:eli.news,i:5001193515 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[30% 할인혜택] 송형노 판화 4,065% 달성 앵콜 펀딩</strong><p class="S7nFgeJfh8">안녕하세요, 그림닷컴입니다. 희망의 메세지를 담은 사랑스러운 아기돼지 Olivia 가 돌아왔어요 : ) 와디즈 첫 펀딩 4.065%라는 경이로운 기록을 달성한 화제의 그 작품 ! " 다음 펀딩은 언제 하나요?😢 " " 액자까지 포함하면 가격이 부담되는데, 펀딩 다시 열릴 예정은 없나요?😂" 펀딩 종료 후 수많은 문의가 쏟아졌던 송형노 작가님의 에디션 판화 &amp; 원화 ! 따듯한 봄, 가정의 달을 맞이해서 한번 더, 앵콜 ! 다시없을 파격적인 혜택을 준비했어요 ⭐⭐⭐⭐⭐ 만족도 별 다섯개 5.0 ! 실물로 보면 더욱 더 사랑스러운 송형노 작가님 작품을 30만원 상당의 원목 관액자가 포함 된 한정혜택으로 만나보세요 ! https://wadiz.onelink.me/gmeA/mrjfu5dh ▲ 알림받기 누르고 이벤트 참여하기 ! *모두 송형노 작가님 작품을 만나보신 고객님들의 실제 리뷰 사진입니다. 어두운 밤에도 우리집을 밝혀줄 수호천사 ! 신작 야광 보름달 판화 ' 라일락 Lilac ' 도 오직, 와디즈에서만 단독 공개 합니다. 실물이 궁금하신 분은 그림닷컴 오프라인 매장으로 오세요 : ) 60평대의 단독 공간에 자리한 그림닷컴 매장, '큐레이션 샵'에서는 송형노 작가님의 모든 판화와 원화 작품까지 눈으로 직접 확인하실 수 있어요 ! 그림닷컴 오프라인 매장 큐레이션 샵 찾아오시는 곳 📍 경기도 파주시 광인사길 17 운영 시간 📍 월-일 (오전 9시 -오후 6시) 문의사항은 그림닷컴 카카오톡이나 고객센터로 연락주세요 : ) 오프라인 매장 현장 이벤트 🥤 99 에디션 +원목 관액자 화이트 세상에 단 한 점 ! 20호 원화 + 99에디션 1종 증정(관액자 포함) 세상에 단 한 점 ! 10호 / 5호 원화 그림닷컴에서는 다양한 온/오프라인 이벤트를 준비하고 있습니다. 한정수량, 선착순으로 진행되기 때문에 송형노 작가님 작품 펀딩 예정이신 분은 꼭 '와디즈 알림받기'를 눌러주세요! https://wadiz.onelink.me/gmeA/mrjfu5dh ▲ 알림받기 누르고 이벤트 참여하기 !</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240418_289/1713415052826gu97e_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D_1000x600.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240418_289/1713415052826gu97e_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D_1000x600.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240418_289/1713415052826gu97e_JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%86%8C%EC%8B%9D_1000x600.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[촘촘한 우주(宇宙), 류주현 Solo Exhibition (~6/11) (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/100254411/news/5001240203</link>
+            <guid>https://shopping.naver.com/art/stores/100254411/news/5001240203</guid>
+            <pubDate>Mon, 13 May 2024 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100254411/news/5001240203" class="_3awplngVTT N=a:eli.news,i:5001240203 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">촘촘한 우주(宇宙), 류주현 Solo Exhibition (~6/11)</strong><p class="S7nFgeJfh8">류주현 초대개인전 &lt;촘촘한 우주(宇宙)&gt; [Solo Exhibition] 류주현 Ryu Joo-hyun 촘촘한 우주(宇宙) -둥글지만 선명한 세계- 2024.5.15 - 2024.6.11 무료관람 / 10:30~20:00 (Fri-Sun 20:30) 갤러리탐 아트샵 (롯데백화점 수원점 7F) T. 070-4239-8201 류주현_나의 우주(My universe), 72.7x90.9cm, 캔버스에 아크릴 채색, 2024 류주현_우주(宇宙), 60.6x72.7cm, 캔버스에 아크릴 채색, 2024 류주현_우주(宇宙), 60.6x72.7cm, 캔버스에 아크릴 채색, 2024 류주현_horizon, 60.6x72.7cm, 캔버스에 아크릴 채색, 2024 Artist Note 아직 동이 트지 않는 밤은 없었고, 오늘도 동이 트면 어두웠던 것들은 서서히 그 모습이 갖추어진다. 매일 날이 새면 세상은 저마다 소리가 새어나오기 시작하고 장소의 모습을 얼추 갖춘다. 아침을 알리는 소리는 눈부셨고, 낮을 알리는 소리는 반짝였다. 태양을 머무는 소리는 찬란했고 또 때론 차분했다. 동이 트면 어김없이 반짝였고, 다시 어둠이 스며들 때까지 그 반짝임은 더욱 촘촘히 반짝이고 지속되고 있었다. 내가 바라본 세계는 마치 우주와 같았다. 이처럼 나의 작업은 뜨거운 열기가 머무는 시간의 한 시점을 더욱 면밀히 관찰하고 의심하는 태도에서 시작되었다. 나에게 매일 아침을 열고 하루를 맞이하는 일이란 캔버스에 촘촘하게 물감을 채워나가는 것과 같다. 나는 시시각각 변화하는 시각의 다양한 모습을 소리, 기운, 분위기 따위로 감지하며, 다소 그 모호함을 명확한 꼴 : 형태로 포착하여 회화(painting)로 그 의심을 달랜다. 그리고 곧 나의 세계, 촘촘한 우주(宇宙)를 만들어간다. 그 소리는 작품 속에서 건물이 되기도 하며, 때론 여러 갈래의 길이 되고, 또 때론 나무와 숲이 우거진 모양을 갖추며 여느 풍경 요소들로 드러난다. 류주현_별천지, 30x30cm, 캔버스에 아크릴 채색, 2024 류주현_대전(大田), 45.5x53cm, 캔버스에 아크릴 채색, 2024 류주현_창(窓)을 열다 시리즈, 각 40.9x31.8cm, 캔버스에 아크릴 채색, 2024 김소정_Present, 73x61cm, 마 천 위에 아크릴, 혼합 매체, 2023 류주현_창(窓)을 열다 시리즈, 40.9x31.8cm, 캔버스에 아크릴 채색, 2024 류주현_창(窓)을 열다 시리즈, 40.9x31.8cm, 캔버스에 아크릴 채색, 2024 류주현 Ryu Joo-hyun 국민대학교 일반대학원 미술학과 회화전공 석사/박사 졸업 인하대학교 예술체육학부 미술과 졸업 現 인천대학교, 목원대학교, 진주교육대학교, 백석예술대학교 출강 / 前 성균관대학교 출강 주요 개인전 Solo Exhibitions (총 13회) 2023 그림자 소리(The Sound of Shadow), 이랜드스페이스, 서울 2022 정오의 모양, 갤러리탐 공모선정전, 탐앤탐스 블랙 그레이트점, 서울 2021 정오의 꼴 a noon scene, 영은미술관, 경기 외 다수 주요 단체전 Group Exhibitions 2024 Hygge 小小的幸福, Glorious Jewel Art Center, 대만 (6월) 2023 마음으로 보는 풍경(始于内心的风景), 샤먼 파워롱 아트센터, 중국 외 다수 레지던시 Residency 2021 영은미술창작스튜디오 / 2017 클레이아크 세라믹 창작센터 수상 및 선정 Awards 2022 이랜드문화재단 13기 작가 선정 2018 제 35회 경인미술대전 특선 등 총 10회 소장 Collections GS건설, 서울 메트로, 영은미술관, ㈜오픈갤러리, 갤러리각 외 개인소장 다수 주요 전시전경 ※ 갤러리탐 온라인샵 ※ ※ 갤러리탐 아트샵 인스타그램 ※ ※ 갤러리탐 인스타그램 ※ ※ 갤러리탐 카카오톡 채널 ※ 갤러리탐 카카오톡 추가하시면, 다양한 전시소식 안내 및 상담 가능합니다!</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240512_211/1715523140839jIId2_JPEG/%EA%B0%A4%EB%9F%AC%EB%A6%AC%ED%83%90_%EB%A5%98%EC%A3%BC%ED%98%84-%EC%97%BD%EC%84%9C_148x210_%EC%95%9E.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240512_211/1715523140839jIId2_JPEG/%EA%B0%A4%EB%9F%AC%EB%A6%AC%ED%83%90_%EB%A5%98%EC%A3%BC%ED%98%84-%EC%97%BD%EC%84%9C_148x210_%EC%95%9E.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240512_211/1715523140839jIId2_JPEG/%EA%B0%A4%EB%9F%AC%EB%A6%AC%ED%83%90_%EB%A5%98%EC%A3%BC%ED%98%84-%EC%97%BD%EC%84%9C_148x210_%EC%95%9E.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일상을 아트로 만들어볼까? (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/event/20036334</link>
+            <guid>https://shopping.naver.com/art/event/20036334</guid>
+            <pubDate>Mon, 13 May 2024 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[공예디자인의 멋]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240507_215/1715042774953qxzs7_JPEG/3.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[위아트] 색채 조각가 데이비드 걸스타인, 'Soft Lips ' 입고! (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/102296003/news/5001239285</link>
+            <guid>https://shopping.naver.com/art/stores/102296003/news/5001239285</guid>
+            <pubDate>Mon, 13 May 2024 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/102296003/news/5001239285" class="_3awplngVTT N=a:eli.news,i:5001239285 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[위아트] 색채 조각가 데이비드 걸스타인, 'Soft Lips ' 입고!</strong><p class="S7nFgeJfh8">안녕하세요 세상의 모든 그림 위아트입니다. 오늘은 위아트 오리지널 카테고리에 신규 등록된 오브제 작품, 데이비드 걸스타인 (David Gerstein)의 &lt;Soft Lips&gt;를 소개해드리려고 합니다. 회화와 조각의 경계를 넘나드는 아티스트 데이비드 걸스타인, 지금부터 함께 알아보실까요? :) CURATOR NOTE &lt;Soft Lips&gt; 걸스타인의 유머감각과 장난스러움이 가득 담긴 오브제입니다. 블루, 레드, 옐로우 등 강렬한 원색 계열로 이루어져 있어 특유의 팝아트적인 느낌을 가미하며, 3차원적으로 모든 각도에서 볼 수 있도록 설계되어 있어 여러 시점에서의 시각적 유희를 제공합니다. 컬러, 형태, 그리고 공간을 통해 탄생한 생동감 넘치는 이미지는 삶 속 아름다운 순간을 바라볼 수 있는 시선을 제안합니다. 조각, 색채의 음악가 데이비드 걸스타인 WEART ORIGINAL 스틸이라는 독특한 소재 위에 화려한 색채로 페인팅을 하고 컷팅하는 방식을 통해 회화와 조각의 경계를 넘나드는 데이비드 걸스타인은 차가운 재료로 아름다운 형상을 표현한다. 일상적이고 편안한 주제들, 그리고 인생에서 즐거워하고 행복해하는 순간을 담아내는 그의 작품은 그의 별칭 '행복의 예술가'와 걸맞게 우리에게 더없는 감정적 편안함을 선사한다. ■ 위아트 인스타그램 바로가기 데이비드 걸스타인 (David Gerstein) &lt;Soft Lips &gt; WEART ORIGINAL 데이비드 걸스타인_Soft Lips 블루, 레드, 옐로우 등 강렬한 원색 계열로 이루어져 있어 특유의 팝아트적인 느낌을 가미하며, 3차원적으로 모든 각도에서 볼 수 있도록 설계되어 있어 여러 시점에서의 시각적 유희를 제공합니다. 현대적이고 힙한 컬러 감각이 돋보이는 작품 그렇다면 데이비드 걸스타인의 작품을 소장해야 할 이유는 무엇일까요? 01 20년간 총 거래 작품 중 50% 대한민국 내 솔드아웃 (아트프라이스) 02 판매 작품 중 조각 오브제가 73%로 막대한 비중 (아트 프라이스) 03 2023년 공개 경매 내 317개 솔드아웃 (아트 프라이스) 오리지널 에디션을 보증하는 아티스트의 자필 서명 ■ 데이비드 걸스타인_Soft Lips 바로가기 유머감각과 장난스러움이 가득 담긴 오브제가 인상적인 아티스트 데이비드 걸스타인, 지금까지 그의 &lt;Soft Lips&gt; 오리지널 오브제 에디션을 소개해드렸습니다. 데이비드 걸스타인 뿐만 아니라 다른 핫한 아티스트의 오리지널 아트웍들도 위아트에서 만나보실 수 있습니다. 이상, 여러분의 예술적 취향과 삶을 빛낼 수 있도록 작품을 찾아드리는 위아트 큐레이터팀이었습니다. 감사합니다. :) 데이비드 걸스타인_Soft Lips www.wart.co.kr &lt; 위아트 쇼룸 안내 &gt; 강남점 쇼룸 운영시간 | 오전 11시~ 오후 8시 부산점 쇼룸 운영시간 | 오전 10시~ 오후 7시 ​ 큐레이터 상담 가능 시간 | 강남점: 오전 11시~ 오후 7시 30분 부산점: 오전 10시~오후 6시 30분 평일&amp;주말&amp;공휴일 연중무휴입니다. ​ 고객센터 | 1644-8697 ​ 카카오톡 ID | 위아트 ​ 쇼룸 위치 | ​ 서울 강남점 : 서울특별시 강남구 압구정로 102, 2층 (신사동, 형지제2빌딩) 위아트 ​ 부산 부산점 : 부산광역시 수영구 수영로 566 ​ ※쇼룸에 관한 문의는 고객센터 1644-8697로 연락 주시면 친절히 안내해 드리겠습니다. ​ ​ ​ 세상의 모든 그림 위아트 ​ www.wart.or.kr</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240511_158/1715394380360LDaq1_PNG/20240511_112343.png?type=w304" data-src="https://shop-phinf.pstatic.net/20240511_158/1715394380360LDaq1_PNG/20240511_112343.png?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240511_158/1715394380360LDaq1_PNG/20240511_112343.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🎁가정의 달 선물은 컨티뉴와 함께💗 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/100384663/news/5001238536</link>
+            <guid>https://shopping.naver.com/art/stores/100384663/news/5001238536</guid>
+            <pubDate>Mon, 13 May 2024 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100384663/news/5001238536" class="_3awplngVTT N=a:eli.news,i:5001238536 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">🎁가정의 달 선물은 컨티뉴와 함께💗</strong><p class="S7nFgeJfh8">💐미리 준비하는 #가정의달💐 안녕하세요, 컨티뉴입니다. 가정의 달을 맞이하여 오래 기억에 남을 수 있는 컨티뉴의 작품을 선물해보세요!🌻 건강과 풍요를 기원하는 민화와 해바라기 그림부터 인테리어를 위한 감각적인 그림까지 만나보실 수 있습니다 아이들을 위한 컨티뉴 모눈 노트 1+1 해당 노트 제품 한정으로 무료 배송 진행되오니 놓치지 말고 만나보세요❣️ 💙그림 작품 최대 15% 할인(04.29~05.20) 💙컨티뉴 노트 1+1상품 무료 배송(~48%) 컨티뉴에서 특별한 선물로 마음을 전해보세요❣️</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240429_284/1714380649785YLHpT_JPEG/%EC%87%BC%ED%95%91%EC%9C%88%EB%8F%84_800X484.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240429_284/1714380649785YLHpT_JPEG/%EC%87%BC%ED%95%91%EC%9C%88%EB%8F%84_800X484.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240429_284/1714380649785YLHpT_JPEG/%EC%87%BC%ED%95%91%EC%9C%88%EB%8F%84_800X484.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컨티뉴와 함께하는 5월 이달의 명화 (네이버쇼핑 ─ 아트윈도 ─ 테마)]]></title>
+            <link>https://shopping.naver.com/art/stores/100384663/news/5001238523</link>
+            <guid>https://shopping.naver.com/art/stores/100384663/news/5001238523</guid>
+            <pubDate>Mon, 13 May 2024 05:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100384663/news/5001238523" class="_3awplngVTT N=a:eli.news,i:5001238523 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">컨티뉴와 함께하는 5월 이달의 명화</strong><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240507_30/1715069597889lD3AD_JPEG/%EB%AA%85%ED%99%94_%EC%97%90%EA%B3%A4%EC%8B%A4%EB%A0%88_%EC%87%BC%ED%95%91%EC%9C%88%EB%8F%84_800x484.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240507_30/1715069597889lD3AD_JPEG/%EB%AA%85%ED%99%94_%EC%97%90%EA%B3%A4%EC%8B%A4%EB%A0%88_%EC%87%BC%ED%95%91%EC%9C%88%EB%8F%84_800x484.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240507_30/1715069597889lD3AD_JPEG/%EB%AA%85%ED%99%94_%EC%97%90%EA%B3%A4%EC%8B%A4%EB%A0%88_%EC%87%BC%ED%95%91%EC%9C%88%EB%8F%84_800x484.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
