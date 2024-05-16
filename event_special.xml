@@ -4,7 +4,7 @@
         <title>네이버쇼핑 ─ 아트윈도 ─ 기획전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 14:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 15:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 16 May 2024 14:15:10 GMT</pubDate>
             <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 집 거실에서 펼쳐지는 풍경]]></title>
+            <link>https://shopping.naver.com/art/event/20036611</link>
+            <guid>https://shopping.naver.com/art/event/20036611</guid>
+            <pubDate>Thu, 16 May 2024 15:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[사진 작품으로 채워요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240514_11/1715647997687NFb00_JPEG/2.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[재미있는 사람들의 모습]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 16 May 2024 14:15:10 GMT</pubDate>
             <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240430_286/1714437193763MSShw_JPEG/2.jpg?type=w304" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특별한 날 당신을 위한 주얼리]]></title>
-            <link>https://shopping.naver.com/art/event/20036245</link>
-            <guid>https://shopping.naver.com/art/event/20036245</guid>
-            <pubDate>Thu, 16 May 2024 14:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[선물용으로 좋아요]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240430_213/1714437109287Qt1i0_JPEG/1.jpg?type=w304" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
