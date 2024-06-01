@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://shopping.naver.com/art/event</id>
-    <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
-    <updated>2024-06-01T04:18:36.668Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://shopping.naver.com/art/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 01 Jun 2024 05:16:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 찻잔과 식탁용품]]></title>
+            <link>https://shopping.naver.com/art/event/20032114</link>
+            <guid>https://shopping.naver.com/art/event/20032114</guid>
+            <pubDate>Sat, 01 Jun 2024 05:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[찻잔과 식탁용품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_164/16983883091661GNyM_PNG/ED8AB9ED9689%2B1.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 악세서리와 생활소품]]></title>
+            <link>https://shopping.naver.com/art/event/20032115</link>
+            <guid>https://shopping.naver.com/art/event/20032115</guid>
+            <pubDate>Sat, 01 Jun 2024 05:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[악세서리와 생활소품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240520_133/1716183149783aBYt5_PNG/ECA09CEBAAA9-EC9786EC9D8C-1.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 인테리어소품과 가구]]></title>
+            <link>https://shopping.naver.com/art/event/20032116</link>
+            <guid>https://shopping.naver.com/art/event/20032116</guid>
+            <pubDate>Sat, 01 Jun 2024 05:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 성원아트갤러리 기획 초대전 -아트윈도아티스트 전]]></title>
+            <link>https://shopping.naver.com/art/stores/100305343/news/5001270949</link>
+            <guid>https://shopping.naver.com/art/stores/100305343/news/5001270949</guid>
+            <pubDate>Sat, 01 Jun 2024 05:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100305343/news/5001270949" class="_3awplngVTT N=a:eli.news,i:5001270949 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">2024 성원아트갤러리 기획 초대전 -아트윈도아티스트 전</strong><p class="S7nFgeJfh8">2024 성원아트갤러리 기획 초대전 -아트윈도아티스트 전 . 전시명:2024 성원아트갤러리 기획 초대전 - 아트윈도 아티스트 2024년 5월 14일~ 6월 15일 전시시간: 화요일~일요일 오후 12:00~18:00 (월요일 휴관) 성원아트갤러리(부산 동래구 아시아드대로 250 1층 성원아트갤러리 문의 전화: 0507 1334 4998 참여작가 구준효 곽지은 김필순 박세연 하혜영 &lt;아트윈도&gt; &lt;찾아오시는길&gt; BEXCO 부산광역시 해운대구 APEC로 55 부산광역시 동래구 아시아드대로 250 아시아드대로 250 1층 성원아트갤러리 미남역 6번 출구 앞 문의: 0507133449998 #바마#부산국제화랑아트페어 #2024바마#아트페어</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240601_132/1717173899527qNCv6_PNG/2024%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84__%EC%9C%A0%ED%8A%9C%EB%B8%8C%ED%8C%9F.png?type=w304" data-src="https://shop-phinf.pstatic.net/20240601_132/1717173899527qNCv6_PNG/2024%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84__%EC%9C%A0%ED%8A%9C%EB%B8%8C%ED%8C%9F.png?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240601_132/1717173899527qNCv6_PNG/2024%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84__%EC%9C%A0%ED%8A%9C%EB%B8%8C%ED%8C%9F.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[전시소식] 박연경 초대전]]></title>
+            <link>https://shopping.naver.com/art/stores/1000013762/news/5001269534</link>
+            <guid>https://shopping.naver.com/art/stores/1000013762/news/5001269534</guid>
+            <pubDate>Sat, 01 Jun 2024 05:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/1000013762/news/5001269534" class="_3awplngVTT N=a:eli.news,i:5001269534 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[전시소식] 박연경 초대전</strong><p class="S7nFgeJfh8">&lt;박연경 초대전&gt; Park Yeon Kyung Solo Exhibition 6.5 - 6.25 갤러리 아트리에 본사 경기도 광주시 목동길 143 연중무휴 박연경 PARK Yeon Kyung (b.1995) 나의 작업들은 나만의 무의식 기록물(Unconscious painting archives)이다. 내가 그동안 경험한 것들, 마주한 것들, 그리고 내가 의식하지 못한 감정이나 기억들을 담고 있다. 무의식은 내가 의식적으로 인지하지 못하는 내면의 영역이다. 나는 내 안에 있는 무의식의 흔적들을 섬세하게 찾아내고, 그것들을 작품으로 표현하는 과정에서 새로운 경험을 얻는다. 그러니 모든 것은 연결되어 있다고 믿는다. 나는 작업을 통해 무의식의 해방을 경험하며, 내 안에 있는 것들을 발견하고, ‘그린다’라는 행위를 통하여 표현함으로써 무의식의 힘을 인정하고 창조적으로 활용하고자 한다. 나의 작업을 통해 무의식과 행위, 그리고 대상과 나의 관계에 대해 생각해보는 기회를 제공하고자 한다. 이를 통해 내 작품들은 새로운 시각과 경험을 제공하고, 서로의 경험을 나눌 수 있는 무의식 해방의 재료가 되기를 바란다. Education 2018 중앙대학교 공연영상창작학부 졸업 Solo Exhibition 2024 A scene I encountered in a dream, Ondo 갤러리, 서울 2023 Unconscious painting archives, 아트스페이스 Metaphor22, 서울 2023 Untitled, Hi hey hello cafe, 서울 2022 An unshakable life, Hi hey hello cafe, 서울 2022 Nostalgic moment, Metaphor 32, 서울 2021 The imaginary book of botany, Dans studio, 서울</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240531_279/1717134355816p7Lpb_JPEG/%EB%B0%95%EC%97%B0%EA%B2%BD_%EC%A0%84%EC%8B%9C%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240531_279/1717134355816p7Lpb_JPEG/%EB%B0%95%EC%97%B0%EA%B2%BD_%EC%A0%84%EC%8B%9C%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240531_279/1717134355816p7Lpb_JPEG/%EB%B0%95%EC%97%B0%EA%B2%BD_%EC%A0%84%EC%8B%9C%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＊[SALE] 컨티뉴 신규 제품 20% 할인＊]]></title>
+            <link>https://shopping.naver.com/art/stores/100384663/news/5001267833</link>
+            <guid>https://shopping.naver.com/art/stores/100384663/news/5001267833</guid>
+            <pubDate>Sat, 01 Jun 2024 05:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100384663/news/5001267833" class="_3awplngVTT N=a:eli.news,i:5001267833 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">＊[SALE] 컨티뉴 신규 제품 20% 할인＊</strong><p class="S7nFgeJfh8">＊[SALE] 컨티뉴 신규 제품 20% 할인＊ ​ 컨티뉴 신규 작품 20% 할인전 컨티뉴의 마음을 사로잡는 신규 작품을 만나보세요~ 5월 21일~6월 16일까지 신규 작품 및 굿즈를 20%할인된 가격으로 만나보세요~♥ ​ 마우스패드부터 캔버스 액자까지 쿠폰 혜택 받아가세요♥ 그외 다양한 작가님들의 굿즈를 컨티뉴에서 만나보세요.</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240523_193/1716452259653WpM2Y_JPEG/%EC%87%BC%ED%95%91%EC%9C%88%EB%8F%84_800x484.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240523_193/1716452259653WpM2Y_JPEG/%EC%87%BC%ED%95%91%EC%9C%88%EB%8F%84_800x484.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240523_193/1716452259653WpM2Y_JPEG/%EC%87%BC%ED%95%91%EC%9C%88%EB%8F%84_800x484.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[위아트] 알렉스 카츠 'Peonies' 입고]]></title>
+            <link>https://shopping.naver.com/art/stores/102296003/news/5001264078</link>
+            <guid>https://shopping.naver.com/art/stores/102296003/news/5001264078</guid>
+            <pubDate>Sat, 01 Jun 2024 05:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/102296003/news/5001264078" class="_3awplngVTT N=a:eli.news,i:5001264078 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[위아트] 알렉스 카츠 'Peonies' 입고</strong><p class="S7nFgeJfh8">안녕하세요 세상의 모든 그림 위아트입니다. 오늘은 위아트 오리지널 카테고리에 신규 등록된 작품, 알렉스 카츠(Alex Katz)의 Peonies 를 소개해드리려고 합니다. 세계 유수의 미술관에 작품이 소장된 아티스트 알렉스 카츠, 지금부터 함께 알아보실까요? :) CURATOR NOTE &lt;Peonies&gt; 알렉스 카츠의 가장 인기 있는 판화 작품 중 하나이자 대표작인 정물화입니다. 그의 세밀한 브러시 스트로크와 섬세한 색채 조합은 관객을 현실에서 벗어난 아름다운 세계로 안내합니다. 자연과 인간의 조화로움을 표현했습니다. 색과 선의 춤, 알렉스 카츠 (Alex Katz) WEART ORIGINAL '아메리칸 스타일'을 대표하는 알렉스 카츠는 과감한 화면 구성, 대담한 채색, 그리고 절제된 분위기로 전통과 아방가르드가 맞닿아 있는 현대적 리얼리즘을 표현한다. 주변에서 흔히 접할 수 있는 풍경, 그리고 인물들의 무표정은 묘하게 느껴지지만 단조롭고 고요한 우리의 실제 삶과 가장 닮아있는 표현으로 다가와 평면적인 우리의 생활을 돌아보는 기회를 제공한다. ■ 위아트 인스타그램 바로가기 알렉스 카츠 &lt;Peonies&gt; WEART ORIGINAL 알렉스 카츠의 &lt;Peonies&gt;는 그의 가장 인기 있는 판화 작품 중 하나이자 대표작인 정물화입니다. 그의 세밀한 브러시 스트로크와 섬세한 색채 조합은 관객을 현실에서 벗어난 아름다운 세계로 안내합니다. 자연과 인간의 조화로움을 표현했습니다. 입체감을 강조하는 관 액자로 작품에 집중되는 효과를 느끼실 수 있습니다. 고급 판화지에 세밀하게 표현된 오리지널 판화입니다. ■ 알렉스 카츠_Peonies 바로가기 화려한 색채와 단순하면서도 깊이 있는 표현 방식을 가진 아티스트, 알렉스 카츠의 &lt;Peonies&gt; 오리지널 판화를 소개해드렸습니다. 작가의 친필 서명과 넘버링이 기재된 알렉스 카츠의 오리지널 판화로 소장과 투자의 가치를 느껴보시는 건 어떨까요? 알렉스 카츠뿐만 아니라 다른 핫한 아티스트들의 오리지널 아트웍들도 위아트에서 만나보실 수 있습니다. 이상, 여러분의 예술적 취향과 삶을 빛낼 수 있도록 작품을 찾아드리는 위아트 큐레이터였습니다. 감사합니다. :) &lt;Peonies&gt; www.wart.or.kr &lt; 위아트 쇼룸 안내 &gt; 강남점 쇼룸 운영시간 | 오전 11시~ 오후 8시 ​ 큐레이터 상담 가능 시간 | 강남점: 오전 11시~ 오후 7시 30분 평일&amp;주말&amp;공휴일 연중무휴입니다. ​ 고객센터 | 1644-8697 ​ 카카오톡 ID | 위아트 ​ 쇼룸 위치 | ​ 서울 강남점 : 서울특별시 강남구 압구정로 102, 2층 (신사동, 형지제2빌딩) 위아트 ​ ※쇼룸에 관한 문의는 고객센터 1644-8697로 연락 주시면 친절히 안내해 드리겠습니다. ​ ​ ​ 세상의 모든 그림 위아트 ​ www.wart.or.kr</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240529_4/1716943118619ARjSh_JPEG/SE-7e709228-9ec1-4b23-be51-9905e2adaab9.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240529_4/1716943118619ARjSh_JPEG/SE-7e709228-9ec1-4b23-be51-9905e2adaab9.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240529_4/1716943118619ARjSh_JPEG/SE-7e709228-9ec1-4b23-be51-9905e2adaab9.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Artist] 일상의 따뜻한 그림, 권우희 작가]]></title>
+            <link>https://shopping.naver.com/art/stores/100384663/news/5001263314</link>
+            <guid>https://shopping.naver.com/art/stores/100384663/news/5001263314</guid>
+            <pubDate>Sat, 01 Jun 2024 05:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100384663/news/5001263314" class="_3awplngVTT N=a:eli.news,i:5001263314 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[Artist] 일상의 따뜻한 그림, 권우희 작가</strong><p class="S7nFgeJfh8">일상에서 찾는 소재로 따뜻한 그림을 그리는 일러스트레이터 권우희 밝고 경쾌하게, 편안한 매력의 작품에 자꾸만 시선이 머물게 됩니다. 작품속에 은은하게 퍼지는 꽃망울처럼 우리의 마음에 다가오는 권우희 작가의 그림 세계를 만나보세요. 01. 피톤치드 숲 02. 봄이 쏟아지던 날 03. 자 달려보자 04. 윤슬따라 05. 아픔의 기억 06. 너에게로 가는 길 07. 공원에서 08. 떠나자 그 곳으로 09. 꿈 같이 만나요 CONTEENEW</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240528_11/1716880967176HlH0X_JPEG/%EA%B6%8C%EC%9A%B0%ED%9D%AC_%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84800x484.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240528_11/1716880967176HlH0X_JPEG/%EA%B6%8C%EC%9A%B0%ED%9D%AC_%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84800x484.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240528_11/1716880967176HlH0X_JPEG/%EA%B6%8C%EC%9A%B0%ED%9D%AC_%EC%95%84%ED%8A%B8%EC%9C%88%EB%8F%84800x484.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑의 온기를 담은 꽃밥, 임영숙 작가]]></title>
+            <link>https://shopping.naver.com/art/stores/100138255/news/5001257098</link>
+            <guid>https://shopping.naver.com/art/stores/100138255/news/5001257098</guid>
+            <pubDate>Sat, 01 Jun 2024 05:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100138255/news/5001257098" class="_3awplngVTT N=a:eli.news,i:5001257098 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">사랑의 온기를 담은 꽃밥, 임영숙 작가</strong><p class="S7nFgeJfh8">안녕하세요, 그림닷컴 입니다 :) 소복히 담은 흰 쌀밥에 탐스럽게 피어난 꽃은 꽃밥 작가로 유명한 임영숙 작가님만의 시그니처 스타일인데요, 한정판 에디션 판화뿐만 아니라 작가님이 직접 그리신 오리지널 원화까지 ! 그림닷컴에서 만나보실 수 있습니다. 연일 임영숙 작가님의 원화에 대한 문의가 끊이지 않고 있어요. 특히 세상에 단 한점씩만 존재하는 오리지널 원화의 경우 판매 완료시 두번 다시는 같은 작품을 만나보실 수 없기 때문에 마음을 울리는 원화 작품을 발견하신다면 주저말고 그림닷컴으로 문의주세요 ! 그림닷컴 카카오톡 문의하기 임영숙 Lim Young Suk, 1961 작품에 담긴 따뜻한 밥 한 그릇의 소중함 임영숙 작가는 동덕여자대학교 회화과를 졸업하고, 홍익대학교 대학원 동양화학과를 졸업했다. 1991년 MBC미술대전 장려상을 수상 했으며, 수십 차례의 개인전과 또 여러 차례의 단체전에 참여하며 활발한 작품 활동을 하고 있다. 그는 20여년동안 ‘밥’이라는 흔하지 않은 소재를 가지고 작품을 해왔다. 그는 달덩이같이 하얀 그릇에 밥과 꽃을 그린다. 정갈하고 간략하면서도 화려한 그의 작품에는 먹고 살아가는 아득한 역사가 담겨있다. 밥은 곧 우리의 모습이며 힘든 기억이나 아픔을 가지고 살아가는 사람들을 위한 따뜻한 위로다. 그리고 함께 밥을 먹는 가족을 향한 한없는 사랑과 염원이기도 하다. 옹기종기 모여있는 밥알들을 받치고 있는 그릇은 우리의 사회를 나타내며 이는 공동체 삶을 상징한다. 밥과 꽃이 조화를 이루고 있는 정겹고 따뜻한 공간인 그릇은 건강과 다복을 함께 담고 있다. 그는 친숙하고 가까운 일상의 소재들을 통해 각자 다르게 살아가는 이들의 삶을 함축적으로 표현하며 동시에 아름다움과 희망을 전달한다. 그의 작품은 국립현대미술관 미술은행, 상명대학교박물관, 세종호텔, 북부지방법원 등에 소장되어 있다. 한정판 에디션 판화 밥 3 재물 (150 Editions) 80 x 70 cm 작품 보러가기 밥 04 (100 Editions) 65 x 54.5 cm 작품 보러가기 밥 03 (100 Editions) 52 x 62 cm 작품 보러가기 오리지널 원화 밥 12 (원화) 53 x 45 cm / 액자 외경 60.5 x 52.5 cm 장지에 혼합재료 작품 보러가기 밥 19 (원화) 41 x 53 cm / 액자 외경 48 x 60.5 cm 장지에 혼합재료 작품 보러가기 밥 10 (원화) 140 x 60 cm 장지에 혼합재료 작품 보러가기 밥 20 (원화) 53 x 45 cm / 액자 외경 60.5 x 52.5 cm 장지에 혼합재료 작품 보러가기 밥 22 (원화) 46 x 54 cm 장지에 혼합재료 작품 보러가기 밥 6 (원화) 110 x 80 cm 장지에 혼합재료 작품 보러가기</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240523_62/1716451596553AUYOW_JPEG/%EC%9E%84%EC%98%81%EC%88%99_%EC%9E%91%EA%B0%80_%EC%9B%90%ED%99%94.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240523_62/1716451596553AUYOW_JPEG/%EC%9E%84%EC%98%81%EC%88%99_%EC%9E%91%EA%B0%80_%EC%9B%90%ED%99%94.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240523_62/1716451596553AUYOW_JPEG/%EC%9E%84%EC%98%81%EC%88%99_%EC%9E%91%EA%B0%80_%EC%9B%90%ED%99%94.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국의 기하학적 추상미술, 하이볼잔 출시]]></title>
+            <link>https://shopping.naver.com/art/stores/102083824/news/5001263154</link>
+            <guid>https://shopping.naver.com/art/stores/102083824/news/5001263154</guid>
+            <pubDate>Sat, 01 Jun 2024 05:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/102083824/news/5001263154" class="_3awplngVTT N=a:eli.news,i:5001263154 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">한국의 기하학적 추상미술, 하이볼잔 출시</strong><p class="S7nFgeJfh8">하이볼잔 레드, 블루 &lt;한국의 기하학적 추상미술&gt; 기하학적 추상이 지닌 독자적 의미와 아름다움을 경험할 수 있는 《한국의 기하학적 추상미술》 전시 연계한 하이볼잔이 출시되었습니다. 예술공동체 진달래&amp;박우혁이 디자인한 전시 포스터의 그래픽이 컵의 표면에 인쇄되었습니다. 단순히 보면 도형처럼 보이는 모티브들은 전시명의 글자가 조형 요소로 전환하여 표현된 것으로, 퍼즐 맞추듯 잔을 돌리다 보면 비로소 컵의 전면에서 만나 완성된 한글 모티브를 확인할 수 있습니다. 각각의 도형이 가장 단순한 모양의 잔에서 입체적인 형태로 보여지며 하나의 의미를 가지게 되고, 음료가 들어갔을 때에는 모티브가 다르게 보여집니다. 《한국의 기하학적 추상미술》의 전시연계 상품을 만나보세요.</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240528_145/17168774055184Vt1b_PNG/3.png?type=w304" data-src="https://shop-phinf.pstatic.net/20240528_145/17168774055184Vt1b_PNG/3.png?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240528_145/17168774055184Vt1b_PNG/3.png?type=w304" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
