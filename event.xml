@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://shopping.naver.com/art/event</id>
-    <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
-    <updated>2024-07-20T08:18:33.718Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://shopping.naver.com/art/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버쇼핑 ─ 아트윈도 ─ 테마</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 20 Jul 2024 09:16:14 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 찻잔과 식탁용품]]></title>
+            <link>https://shopping.naver.com/art/event/20032114</link>
+            <guid>https://shopping.naver.com/art/event/20032114</guid>
+            <pubDate>Sat, 20 Jul 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[찻잔과 식탁용품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_164/16983883091661GNyM_PNG/ED8AB9ED9689%2B1.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 악세서리와 생활소품]]></title>
+            <link>https://shopping.naver.com/art/event/20032115</link>
+            <guid>https://shopping.naver.com/art/event/20032115</guid>
+            <pubDate>Sat, 20 Jul 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[악세서리와 생활소품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240520_133/1716183149783aBYt5_PNG/ECA09CEBAAA9-EC9786EC9D8C-1.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 인테리어소품과 가구]]></title>
+            <link>https://shopping.naver.com/art/event/20032116</link>
+            <guid>https://shopping.naver.com/art/event/20032116</guid>
+            <pubDate>Sat, 20 Jul 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[FINORK] 샴페인과 도예, 파올라 파로네토]]></title>
+            <link>https://shopping.naver.com/art/stores/101422253/news/5001344540</link>
+            <guid>https://shopping.naver.com/art/stores/101422253/news/5001344540</guid>
+            <pubDate>Sat, 20 Jul 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/101422253/news/5001344540" class="_3awplngVTT N=a:eli.news,i:5001344540 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[FINORK] 샴페인과 도예, 파올라 파로네토</strong><p class="S7nFgeJfh8">즐거운 파티나 모임에서 빠질 수 없는 것 중 하나는 고급지면서 상쾌한 맛을 가진 샴페인 일 것 입니다. 샴페인의 외부 패키징은 대체적으로 세련된 디자인들을 겸비하고 있으며, 대체적으로 예술가들이 뛰어들어서 제작합니다. 도예가들 또한 예외 없겠죠. 이탈리아 도예가 파올라 파로네토 또한 높은 인지도를 가진 샴페인 브랜드와 콜라보를 했습니다. “뵈브 클리코 (Veuve Clicquot)” 는 1700년대 부터 깊은 역사를 담고 있는 프랑스의 가장 큰 샴페인 하우스 중 하나로 샴페인을 사랑하는 사람들이라면 다 들어보셨을 것입니다. 뵈브 클리코의 Yellow Label 특히나 뵈브 클리코의 시그니처 샴페인인 “Yellow Label”은 상큼한 과일 맛을 베이스로 바닐라 아로마 향이 첨가된 맛으로, 2022년 샴페인 &amp; 스파클링 와인 세계 선수권 대회에서 금상을 받은 이력이 있습니다. 또한 뵈브 클리코는 일본의 거장 예술가 쿠사마 야요이와 콜라보 한 것으로도 유명하죠. 2023년 파올라는 “La Grande Dame 2015” 샴페인의 전체적인 패키징 디자인을 하며 이벤트성 콜라보레이션을 진행하게 되었습니다. 샴페인 라인을 자세히 바라보면, 보틀 레이블과 전용 박스에 파올라의 예술적 특징이 드러난 디자인들을 볼 수 있죠. 뵈브 클리코는 설립자 마담 클리코와 파올라가 많이 닮아 콜라보를 하게 되었다고 하였으며, 두 인물 모두 독특하고 새로운 것들을 도전하는 혁신가들이라고 칭했습니다. 이 것을 토대로 파올라는 La Grande Dame 샴페인이 가진 특징들을 자신만의 색상 팔레트로 표현했으며, 그 결과로 6가지의 샴페인 박스들을 탄생 시켰습니다. 저는 모든 작품들에서 즐거움과 창의성의 균형을 추구합니다. 이번 La Grande Dame 에디션을 위해 저는 6가지의 색상을 만들었으며, 빛의 특징을 이용해 더욱 더 빛나 보이도록 유도했습니다. - In all my works, I search for a balance between joy and creativity. For this new edition of La Grande Dame, I created a range of six nuanced colors and created a graphic play of light to show them at their best. 그러나 도예가라면 여기서 멈추지 않죠. 이 콜라보를 확정 시키기 위해 파올라는 뵈브 클리코 자체에서 영감을 받아 “Giganti Bottiglie” 이라는 작품 시리즈를 창작하게 되었습니다. Giganti Bottiglie 시리즈는 샴페인 보틀과 흡사한 모양으로 사람만한 크기를 하고 있으며, 시리즈의 메인 작품은 뵈브 클리코의 시그니처 노란 색상으로 입혀져있습니다. 작가는 뵈브 클리코를 설립한 마담 클리코의 도전 정신과 샴페인을 향한 넘처나는 열정을 토대로 창작하였다고 합니다. 결국 뵈브 클리코와 파올라의 콜라보레이션은 대한민국까지 발을 딛게 됩니다. 작년 6월 대한민국의 시도민속문화재 제 14호인 휘겸재에서 뵈브 클리코 라 그랑 담 빈티지 2015의 맛을 함께 느낄 수 있는 특별한 행사가 열렸었습니다. 해당 행사에서는 La Grande Dame 샴페인과 잘 어울리는 요리들을 함께 선보였으며, 파올라 에디션 또한 자세히 감상할 수 있는 자리였죠. 이와 같이 파올라는 자신의 작품성을 여러 부문으로 많은 곳에 널리 확장을 시키고 있으며, 자신의 예술 세계를 다양한 방법과 수단으로 보여주고 있습니다. 이런 파올라 파로네토의 작품들을 피노크에서 만나보세요. https://standardsupply.cafe24.com/skin-skin8/board/gallery/read.html?no=218&amp;board_no=1002&amp;cate_no=76 문의 : 02-466-2827, info@finork.kr 사진 및 정보 출처: https://www.veuveclicquot.com/en-int/la-grande-dame-2015-paola-paronetto.html https://www.gqkorea.co.k</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240720_279/1721454788525CFJCB_PNG/SE-8eb9b125-b25e-4826-b9ba-eacb6ece91c6.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240720_279/1721454788525CFJCB_PNG/SE-8eb9b125-b25e-4826-b9ba-eacb6ece91c6.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240720_279/1721454788525CFJCB_PNG/SE-8eb9b125-b25e-4826-b9ba-eacb6ece91c6.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샌디 둘리 Sandy Dooley 대형 신작 입고]]></title>
+            <link>https://shopping.naver.com/art/stores/100138255/news/5001329698</link>
+            <guid>https://shopping.naver.com/art/stores/100138255/news/5001329698</guid>
+            <pubDate>Sat, 20 Jul 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100138255/news/5001329698" class="_3awplngVTT N=a:eli.news,i:5001329698 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">샌디 둘리 Sandy Dooley 대형 신작 입고</strong><p class="S7nFgeJfh8">은은하지만 화사하게 ! 한마디로 표현하자면, “봄” 안녕하세요, 그림닷컴입니다 : ) 맑고 밝은 색감과 많은 사랑을 받고있는 작가! 샌디 둘리 Sandy Dooley 의 신작이 입고되었습니다. 청량한 블루, 따듯한 안정감을 주는 옐로&amp;그린 그림닷컴 고객님들의 만족도 5.0 ! 실제 포토리뷰 집들이 선물로도 부담없는 사이즈부터 거실 소파 위, 허전한 공간을 화사하게 채워줄 대형사이즈까지! 다양하게 준비했어요 : ) 샌디둘리 Sandy Dooley 계절의 변화에 따라 아름답게 바뀌어가는 자연의 아름다움 영국의 조경 예술가 출신인 샌디 둘리의 작업실은 다름아닌 작가의 집 앞, 정원입니다. 자연의 빛과 그림자가 주변 세상에 스미는 순간에서 영감을 받는다는 작가의 이야기는 작품에서 고스란히 느껴집니다. 꽃을 그린다고 해서 마냥 밝고 쾌청한 날씨만 있으리라는 법은 없잖아요? 때로는 봄날의 구름 낀 하늘이, 동그란 보름달이 떠도 밝은 여름 밤하늘이, 겨울을 준비하는 가을의 붉게 물든 노을이. 단순한 상징물 없이도 작품 하나에서 그날의 날씨와 계절을 상상할 수 있어요. 이토록 생생하게 계절감을 담아낼 수 있다는 건, 늘 자연과 함께하는 샌디 둘리의 가장 큰 재능입니다. 꽃그림이지만 부담스럽지 않은 작품 물감을 튀기듯이 흩뿌리는 기법으로 질리지않는 독특한 느낌! 화사하게 피어나는 집을 꿈꿔 온 당신에게 샌디 둘리의 새로운 작품을 추천합니다. https://pf.kakao.com/_yxhLUxd ▲그림닷컴 카카오톡 작품 문의, 액자 상담 등 궁금하신 점은 그림닷컴 카카오톡으로 편하게 문의 주세요 :) 마음에 꼭 맞는 작품과 만나보실 수 있도록 최고의 큐레이터가 친절하게 도와드릴게요! 에디션 제작, 액자 제작과 포장까지 원스톱으로 가능한 국내 유일 아트브랜드 &lt;그림닷컴&gt; ✔거장이 인정한 판화 공방&amp;프린트 스튜디오 ✔국내 최대 규모의 자체 액자공방 ✔눈으로 직접 보고 확인할 수 있는 오프라인 매장 ✔1,500여곳 기업으로부터 인정받은 최고의 아트컨설팅 &amp; 퀄리티 집안에 그림 한 점 걸고싶은데, 그림 고르는 것 부터 막막해요! 그림이 어려울 때에도 그림닷컴을 찾아주세요. 취향과 공간, 환경, 예산까지 고려해서 2,000여명의 고객님들께 맞춤 큐레이팅 서비스를 제공해왔습니다 : ) 국내외 아티스트들과의 정식 협업으로 '예술의 대중화'와 '다양성'을 추구하는 그림닷컴은 전시장에 가지 않아도 모두가 쉽게 작품을 접하고 예술을 즐길 수 있는 세상을 응원합니다.</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240710_64/1720596950314TBine_JPEG/KakaoTalk_20240710_162247010_02.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240710_64/1720596950314TBine_JPEG/KakaoTalk_20240710_162247010_02.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240710_64/1720596950314TBine_JPEG/KakaoTalk_20240710_162247010_02.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUMMER HOLIDAY SALE]]></title>
+            <link>https://shopping.naver.com/art/stores/100429941/news/5001343304</link>
+            <guid>https://shopping.naver.com/art/stores/100429941/news/5001343304</guid>
+            <pubDate>Sat, 20 Jul 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/100429941/news/5001343304" class="_3awplngVTT N=a:eli.news,i:5001343304 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">SUMMER HOLIDAY SALE</strong><p class="S7nFgeJfh8">서울에서만 페어 하고 팝업해서 아쉽다는 많은 분들의 여름을 위해! 곧 떠날 여름 휴가에 똬악! 필요한 도와줘맷과 레인보우와펜백 미리 준비하실 수 있도록 썸머 홀리데이 세일을 시작합니다. 기내, 레스토랑, 자동차 등 어디서든 즐거운 역할놀이를 할 수 있는 휴대용 키즈 플레이 매트 도와줘맷 무지개처럼 다채로운 컬러의 매력으로 사랑받는 레인보우와펜백 내마음대로 백꾸(백꾸미기)하는 악세서리까지! 이번주 일요일부터 시작되고 소량 남은 제품들이 많으니 세일 기회 놓치지 마세요. 📍기간 : 07.21(Sun) - 07.31(Wed) 📍진행 : 심도마도 아트윈도 📍혜택 : 전제품 최대 20% 할인</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240719_249/1721366283614igr4J_PNG/photoslide.png?type=w304" data-src="https://shop-phinf.pstatic.net/20240719_249/1721366283614igr4J_PNG/photoslide.png?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240719_249/1721366283614igr4J_PNG/photoslide.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[풍경을 담은 작품 모음]]></title>
+            <link>https://shopping.naver.com/art/event/20038032</link>
+            <guid>https://shopping.naver.com/art/event/20038032</guid>
+            <pubDate>Sat, 20 Jul 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240719_171/1721367923028231fm_JPEG/111.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[특별한 날 당신을 위한 주얼리]]></title>
+            <link>https://shopping.naver.com/art/event/20038033</link>
+            <guid>https://shopping.naver.com/art/event/20038033</guid>
+            <pubDate>Sat, 20 Jul 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[선물용으로 좋아요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240719_250/1721368067806hN9vX_JPEG/222.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일상 속에 스며든 아트상품]]></title>
+            <link>https://shopping.naver.com/art/event/20038034</link>
+            <guid>https://shopping.naver.com/art/event/20038034</guid>
+            <pubDate>Sat, 20 Jul 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[특별함을 원해요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240719_65/1721368156190p0YKI_JPEG/333.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FINORK] 애니메이션을 사랑하는, 미와 이토]]></title>
+            <link>https://shopping.naver.com/art/stores/101422253/news/5001342130</link>
+            <guid>https://shopping.naver.com/art/stores/101422253/news/5001342130</guid>
+            <pubDate>Sat, 20 Jul 2024 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/art/stores/101422253/news/5001342130" class="_3awplngVTT N=a:eli.news,i:5001342130 linkAnchor"><span class="_3MU-DhSJWo">갤러리소식</span><strong class="_3yT1xVdLMV">[FINORK] 애니메이션을 사랑하는, 미와 이토</strong><p class="S7nFgeJfh8">대부분의 어린 시절은 애니메이션이 항상 옆을 지키고 있었을 것 입니다. 캐릭터들의 개성 넘치는 성격과 외모로 상상 이상의 모험을 하는 모습을 보면, 어렸던 우리는 눈을 떼지 못하고 시청하곤 했죠. 일본의 유리 공예가 미와 이토 (Miwa Ito) 또한 이런 자신의 어린시절 옆을 지켰던 애니메이션들에 대한 사랑을 작품으로 표현합니다. 미와의 작품들은 대체로 색상이 다채롭고, 모양이 동글 동글하면서 장난감과 같은 깜찍함을 담고 있습니다. 이런 매력점들이 모두 애니메이션으로부터 영감을 받아 나오게 된 결과물입니다. 예를 들어, 작가의 작품들 중 곳곳에서 미국 애니메이션 “네모바지 스폰지밥 (Spongebob Squarepants)” 을 연상 시키는 듯한 오브제들이 있습니다. 스폰지밥의 애완 달팽이 “핑핑이”를 닮은 듯한 작품 스폰지밥의 “게살버거”와 비슷한 햄버거 작품 스폰지밥의 에피소드 한 장면을 연상케하는 작품 또한, 그녀는 직접 애니메이션에 나온 캐릭터들을 팬아트 그림을 그리며 여러가지 방법으로 해당 애니메이션에 대한 언급을 자주 하고 있습니다. 미와 이토가 직접 그린 "뚱이" 팬아트 “네모바지 스폰지밥” 이외에도 미와의 야채 과일 모양의 유리 오브제들을 볼 때 미국의 애니메이션 시리즈 “베지테일 (Veggietales) ” 의 모습이 연상되며 작가의 “Cartoon Hand” 시리즈의 작품들은 디즈니 애니메이션 캐릭터, 미키마우스 (Mickey Mouse) 의 손과 닮아 있습니다. 제가 작품을 창작하는 근본적인 이유는 제가 어릴적에 사랑에 빠진 팝문화에 대한 경의와 감사를 표하기 위한 것이죠. 그리고 제 창작물들을 다른 특별한 누군가가 좋아하고 잘 보살펴 줬으면 해요. - The primary reasons I create are to show appreciation and pay homage to the pop culture works I fell in love with during my youth and create new which will hopefully be cared for and appreciated by someone special. 이렇듯 작가는 자신이 사랑하고, 자신의 어린시절을 빛나게 해준 만화 애니메이션들에게 감사의 의미로 색다른 유리 작품들을 창작하고 있습니다. 이런 통통 튀는 매력을 가진 미와 이토의 유리 작품들을 피노크에서 만나보세요. 여러분들은 마음속에 어떤 애니메이션을 간직하고 있나요? https://standardsupply.cafe24.com/skin-skin8/board/gallery/read.html?no=192&amp;board_no=1002&amp;cate_no=108 문의 : 02-466-2827, info@finork.kr</p><div class="j3YCzh0Fxa"><img style="opacity: 1;" src="https://shop-phinf.pstatic.net/20240718_30/1721294065717hyFYA_PNG/SE-05ae74e0-09b6-4706-87ca-1effc63b52e8.jpg?type=w304" data-src="https://shop-phinf.pstatic.net/20240718_30/1721294065717hyFYA_PNG/SE-05ae74e0-09b6-4706-87ca-1effc63b52e8.jpg?type=w304" class="_2CWR0dA843 _3p8l2pSAuq _3Lksghet_Z" alt="갤러리소식 이미지"></div></a>]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240718_30/1721294065717hyFYA_PNG/SE-05ae74e0-09b6-4706-87ca-1effc63b52e8.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
