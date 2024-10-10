@@ -1,7 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TicketOpen.github.io/naver-shopping-art/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2024-10-10T11:16:22.219Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 10 Oct 2024 12:34:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 찻잔과 식탁용품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20032114</link>
+            <guid>https://shopping.naver.com/art/event/20032114</guid>
+            <pubDate>Thu, 10 Oct 2024 12:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[찻잔과 식탁용품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_164/16983883091661GNyM_PNG/ED8AB9ED9689%2B1.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 악세서리와 생활소품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20032115</link>
+            <guid>https://shopping.naver.com/art/event/20032115</guid>
+            <pubDate>Thu, 10 Oct 2024 12:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[악세서리와 생활소품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240520_133/1716183149783aBYt5_PNG/ECA09CEBAAA9-EC9786EC9D8C-1.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF]공예작가들이 만든 인테리어소품과 가구 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20032116</link>
+            <guid>https://shopping.naver.com/art/event/20032116</guid>
+            <pubDate>Thu, 10 Oct 2024 12:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[인테리어소품과 가구]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231027_27/1698390952526Xfs0n_PNG/9069834424.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[매력적인 추상작품을 만나봐요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20039220</link>
+            <guid>https://shopping.naver.com/art/event/20039220</guid>
+            <pubDate>Thu, 10 Oct 2024 12:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[작가의 의도를 찾아봐요]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240919_258/1726733407112zFO4V_PNG/EBA088EC9DB4EC96B4%2B1.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑스러운 동물을 보며 힐링해요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20039221</link>
+            <guid>https://shopping.naver.com/art/event/20039221</guid>
+            <pubDate>Thu, 10 Oct 2024 12:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[작가들의 그룹展]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240919_30/1726733531038WVS5z_PNG/EBA088EC9DB4EC96B4%2B2.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[풍경을 사진으로 감상해요 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20039222</link>
+            <guid>https://shopping.naver.com/art/event/20039222</guid>
+            <pubDate>Thu, 10 Oct 2024 12:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[힐링하기 좋은 작품]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240919_99/1726733785796FiGB6_PNG/EBA088EC9DB4EC96B4%2B4.png?type=w304" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF] 공예작가들이 만든 찻잔과 식탁용품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20021918</link>
+            <guid>https://shopping.naver.com/art/event/20021918</guid>
+            <pubDate>Thu, 10 Oct 2024 12:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[KCDF 공예작가 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_162/1666572488250aUcpv_JPEG/ECB0BBEC9E94EAB3BC%2BEC8B9DED8381EC9AA9ED9288_M_640x320.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF] 공예작가들이 만든 악세서리와 생활소품 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20021921</link>
+            <guid>https://shopping.naver.com/art/event/20021921</guid>
+            <pubDate>Thu, 10 Oct 2024 12:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[KCDF 공예작가 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_37/1666572502176AGM2c_JPEG/EC9585EC84B8EC849CEBA6ACEC9980%2BEC839DED999CEC868CED92.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KCDF] 공예작가들이 만든 인테리어소품과 가구 (네이버쇼핑 ─ 아트윈도 ─ 기획전)]]></title>
+            <link>https://shopping.naver.com/art/event/20021922</link>
+            <guid>https://shopping.naver.com/art/event/20021922</guid>
+            <pubDate>Thu, 10 Oct 2024 12:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[KCDF 공예작가 기획전]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_157/1666572519686o5Yi4_JPEG/EC9DB8ED858CEBA6ACEC96B4EC868CED9288EAB3BC%2BEAB080EAB5.jpg?type=w304" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
